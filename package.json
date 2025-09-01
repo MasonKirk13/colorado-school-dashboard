@@ -1,0 +1,25 @@
+{
+  "name": "co-district-map",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "npm run build && echo 'Build completed! Ready for GitHub deployment.'",
+    "test-build": "npm run build && npm run preview"
+  },
+  "dependencies": {
+    "@reactour/tour": "^3.8.0",
+    "leaflet": "^1.9.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-leaflet": "^4.2.1",
+    "recharts": "^2.7.2",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.3",
+    "terser": "^5.43.1",
+    "vite": "^4.4.9"
+  }
+}

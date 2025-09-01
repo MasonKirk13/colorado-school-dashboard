@@ -1,0 +1,103 @@
+{
+  "Central East (Elementary)": [
+    "Carson Elementary",
+    "Denver Green School Southeast",
+    "Lowry Elementary",
+    "Montclair School of Academics and Enrichment",
+    "Steck Elementary",
+    "Teller Elementary"
+  ],
+  "Central Park-Area (Elementary)": [
+    "Inspire Elementary",
+    "Isabella Bird Community School",
+    "Swigert International School",
+    "Westerly Creek Elementary",
+    "William (Bill) Roberts",
+    "Willow Elementary"
+  ],
+  "Far Southeast (Elementary)": [
+    "Holm Elementary",
+    "Joe Shoemaker School",
+    "Samuels Elementary"
+  ],
+  "Gateway (Elementary)": [
+    "KIPP Northeast Elementary",
+    "KIPP Northeast Denver Middle School",
+    "Lena Archuleta Elementary",
+    "SOAR at Green Valley Ranch"
+  ],
+  "Greater Five Points/Central (Elementary)": [
+    "Cole Arts and Science Academy",
+    "Columbine Elementary",
+    "Garden Place Academy",
+    "Swansea Elementary",
+    "University Prep - Arapahoe",
+    "University Prep - Steele",
+    "Whittier",
+    "Wyatt Academy"
+  ],
+  "Northwest (Elementary)": [
+    "Beach Court Elementary",
+    "Centennial, A School for Expeditionary Learning",
+    "Edison Elementary",
+    "Rocky Mountain Prep Berkeley",
+    "Trevista at Horace Mann"
+  ],
+  "Southwest/Central (Elementary)": [
+    "Asbury Elementary",
+    "Godsman Elementary",
+    "McKinley-Thatcher"
+  ],
+  "Tower (Elementary)": [
+    "Florida Pitt-Waller",
+    "Highline Academy Northeast",
+    "Omar D. Blair",
+    "Responsive Arts & STEAM Academy FNE"
+  ],
+  "Far Northeast (Middle)": [
+    "DSST: Elevate Northeast Middle School",
+    "DSST: Green Valley Ranch Middle School",
+    "Farrell B. Howell",
+    "Florida Pitt-Waller",
+    "KIPP Northeast Denver Middle School",
+    "Marie L. Greenwood Academy",
+    "McGlone Academy",
+    "Montbello Middle School",
+    "Omar D. Blair",
+    "Rocky Mountain Prep Green Valley Ranch",
+    "Rocky Mountain Prep Noel"
+  ],
+  "Greater Park Hill/Central Park (Middle)": [
+    "Denver Green School Northfield",
+    "DSST: Conservatory Green Middle School",
+    "DSST: Montview Middle School",
+    "McAuliffe International School",
+    "William (Bill) Roberts"
+  ],
+  "Near Northeast (Middle)": [
+    "Bruce Randolph Middle School",
+    "DSST: Cole Middle School",
+    "Manual Middle School",
+    "Whittier"
+  ],
+  "Northwest (Middle)": [
+    "Bryant Webster Dual Language School",
+    "Denver Montessori Junior High School",
+    "Rocky Mountain Prep Sunnyside",
+    "Skinner Middle School"
+  ],
+  "Southwest (Middle)": [
+    "Bear Valley International School",
+    "Kunsmiller Creative Arts Academy",
+    "Rocky Mountain Prep Federal"
+  ],
+  "West Denver (Middle)": [
+    "Compass Academy",
+    "Denver Center for International Studies Middle School",
+    "DSST: College View Middle School",
+    "Kepner Beacon Middle School",
+    "KIPP Sunshine Peak Academy",
+    "Kunsmiller Creative Arts Academy",
+    "Rocky Mountain Prep Westwood"
+  ]
+}

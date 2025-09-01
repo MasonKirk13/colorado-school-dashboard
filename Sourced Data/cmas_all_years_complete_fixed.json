@@ -1,0 +1,4050 @@
+{
+  "MAPLETON 1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 24.6
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 21.8
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "ADAMS 12 FIVE STAR SCHOOLS": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 37
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 37.8
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "ADAMS COUNTY 14": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 16.6
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 14.5
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "SCHOOL DISTRICT 27J": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 30.8
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 31
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "BENNETT 29J": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 29.8
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 24.6
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "STRASBURG 31J": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 34.7
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 36.6
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "WESTMINSTER PUBLIC SCHOOLS": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 18.6
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 17.3
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "ALAMOSA RE-11J": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 35.6
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 26.9
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "SANGRE DE CRISTO RE-22J": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 44.4
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 42.9
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "ENGLEWOOD 1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 25.2
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 20.5
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "SHERIDAN 2": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 22.6
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 16.9
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "CHERRY CREEK 5": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 50.4
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 46.1
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "LITTLETON 6": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 58.8
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 55.3
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "DEER TRAIL 26J": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "ADAMS-ARAPAHOE 28J": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 21.8
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 19.9
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "BYERS 32J": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 16.3
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 16.6
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "ARCHULETA COUNTY 50 JT": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 25.1
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 24.1
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "WALSH RE-1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "PRITCHETT RE-3": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "SPRINGFIELD RE-4": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 9.9
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 14.2
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "VILAS RE-5": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "CAMPO RE-6": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "LAS ANIMAS RE-1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 49
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 37.5
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "MC CLAVE RE-2": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 25
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 23
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "ST VRAIN VALLEY RE 1J": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 44.5
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 41.2
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "BOULDER VALLEY RE 2": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 57.2
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 51.9
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "BUENA VISTA R-31": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 36.3
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 30.1
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "SALIDA R-32": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 53.2
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 48.2
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "KIT CARSON R-1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "CHEYENNE COUNTY RE-5": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "CLEAR CREEK RE-1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 37.3
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 41.1
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "NORTH CONEJOS RE-1J": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 44.7
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 42.5
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "SANFORD 6J": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 51.3
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 40.5
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "SOUTH CONEJOS RE-10": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 4.5
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 1.9
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "CENTENNIAL R-1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 20.8
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 7.7
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "SIERRA GRANDE R-30": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 5.4
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 8.3
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "CROWLEY COUNTY RE-1-J": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 19.9
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 22.5
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "CUSTER COUNTY SCHOOL DISTRICT C-1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 35.2
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 35.9
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "DELTA COUNTY 50(J)": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 40.1
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 35.7
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "DENVER COUNTY 1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 36.3
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 34.7
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "DOLORES COUNTY RE NO.2": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "DOUGLAS COUNTY RE 1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 49
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 44.3
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "EAGLE COUNTY RE 50": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 37.8
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 34.4
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "ELIZABETH C-1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 35
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 30.2
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "KIOWA C-2": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 24.4
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 17.9
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "BIG SANDY 100J": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 41.3
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 40.7
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "ELBERT 200": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 5.4
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "AGATE 300": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "CALHAN RJ-1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 32
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 36.2
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "HARRISON 2": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 36.8
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 32.8
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "WIDEFIELD 3": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 35.1
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 35.3
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "FOUNTAIN 8": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 38.3
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 31.5
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "COLORADO SPRINGS 11": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 32.4
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 28.8
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "CHEYENNE MOUNTAIN 12": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 61.8
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 59.9
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "MANITOU SPRINGS 14": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 36.5
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 31.4
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "ACADEMY 20": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 53.6
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 50.8
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "ELLICOTT 22": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 32.3
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 34.4
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "PEYTON 23 JT": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 45
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 43.7
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "HANOVER 28": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 37.4
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 17.4
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "LEWIS-PALMER 38": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 61.4
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 54.6
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "FALCON 49": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 40.3
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 37.7
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "EDISON 54 JT": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "MIAMI/YODER 60 JT": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 23.3
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 8.5
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "CANON CITY RE-1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 35.9
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 33.9
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "FREMONT RE-2": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 33.3
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 30.8
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "COTOPAXI RE-3": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 20.2
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 19.6
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "ROARING FORK RE-1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 40.1
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 35.2
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "GARFIELD RE-2": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 30.1
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 22.4
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "GARFIELD 16": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 18.6
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 15.2
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "GILPIN COUNTY RE-1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 47.5
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 48.9
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "WEST GRAND 1-JT": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 34.7
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 25.5
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "EAST GRAND 2": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 55.2
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 52.2
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "GUNNISON WATERSHED RE1J": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 41.4
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 35.4
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "HINSDALE COUNTY RE 1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "HUERFANO RE-1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 14.2
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 14.5
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "LA VETA RE-2": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 4
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 3.6
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "NORTH PARK R-1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 1.6
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "JEFFERSON COUNTY R-1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 46.6
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 43.8
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "EADS RE-1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 5.9
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 7.2
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "PLAINVIEW RE-2": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "ARRIBA-FLAGLER C-20": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 13.6
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "HI-PLAINS R-23": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "STRATTON R-4": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 5.1
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 7.2
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "BETHUNE R-5": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "BURLINGTON RE-6J": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 13
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 11.6
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "LAKE COUNTY R-1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 13.3
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 20.4
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "DURANGO 9-R": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 52.6
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 39.4
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "BAYFIELD 10 JT-R": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 36.7
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 32.9
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "IGNACIO 11 JT": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 18.9
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 14.3
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "POUDRE R-1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 55
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 49.6
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "THOMPSON R2-J": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 39.1
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 37.6
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "ESTES PARK R-3": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 46.7
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 32.5
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "TRINIDAD 1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 30.7
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 24.7
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "PRIMERO REORGANIZED 2": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 9.8
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "HOEHNE REORGANIZED 3": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 26.7
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 24.3
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "AGUILAR REORGANIZED 6": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "BRANSON REORGANIZED 82": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 33.7
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 27.2
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "KIM REORGANIZED 88": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "GENOA-HUGO C113": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 4.5
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 14.1
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "LIMON RE-4J": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 61.9
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 49.7
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "KARVAL RE-23": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "VALLEY RE-1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 34.5
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 38.4
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "FRENCHMAN RE-3": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 3.8
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 13.7
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "BUFFALO RE-4J": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "PLATEAU RE-5": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "DE BEQUE 49JT": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 2.4
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "PLATEAU VALLEY 50": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 12.2
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 12.3
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "MESA COUNTY VALLEY 51": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 32.2
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 27.3
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "CREEDE SCHOOL DISTRICT": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "MOFFAT COUNTY RE:NO 1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 20.8
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 20.5
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "MONTEZUMA-CORTEZ RE-1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 17.1
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 16.3
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "DOLORES RE-4A": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 22.3
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 11.9
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "MANCOS RE-6": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "MONTROSE COUNTY RE-1J": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 35.2
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 33.8
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "WEST END RE-2": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 3.8
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 11.3
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "BRUSH RE-2(J)": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 22.6
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 23.6
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "FORT MORGAN RE-3": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 36.3
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 29.4
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "WELDON VALLEY RE-20(J)": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "WIGGINS RE-50(J)": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 37.1
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 35.5
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "EAST OTERO R-1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 22.3
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 13.3
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "ROCKY FORD R-2": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 32.8
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 29.1
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "MANZANOLA 3J": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "FOWLER R-4J": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 30.9
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 33.1
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "CHERAW 31": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 10.6
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 4.5
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "SWINK 33": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 45
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 46
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "OURAY R-1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 21.1
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "RIDGWAY R-2": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 52.5
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 48.1
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "PLATTE CANYON 1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 53.3
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 52.3
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "PARK COUNTY RE-2": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 42.1
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 28.4
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "HOLYOKE RE-1J": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 32.9
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 29.7
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "HAXTUN RE-2J": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 11.1
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "ASPEN 1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 56.3
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 44.7
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "GRANADA RE-1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 25.4
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 21.1
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "LAMAR RE-2": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 30.7
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 26.8
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "HOLLY RE-3": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 33.9
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 7.6
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "WILEY RE-13 JT": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 12.6
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "PUEBLO CITY 60": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 29.5
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 24.2
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "PUEBLO COUNTY 70": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 38.6
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 33.1
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "MEEKER RE1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 43
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 49.5
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "RANGELY RE-4": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 25.6
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 27.2
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "DEL NORTE C-7": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 35.7
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 23.1
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "MONTE VISTA C-8": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 21.3
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 18.5
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "SARGENT RE-33J": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 44
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 35.8
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "HAYDEN RE-1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 43.6
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 30.8
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "STEAMBOAT SPRINGS RE-2": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 63.7
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 61.8
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "SOUTH ROUTT RE 3": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 29.9
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 28.1
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "MOUNTAIN VALLEY RE 1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "MOFFAT 2": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 5.9
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 4.6
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "CENTER 26 JT": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 40.6
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 20.8
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "SILVERTON 1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "TELLURIDE R-1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 60.4
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 52.6
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "NORWOOD R-2J": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 7.5
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 10.9
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "JULESBURG RE-1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 6.1
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 9.4
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "REVERE SCHOOL DISTRICT": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "SUMMIT RE-1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 50.7
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 40.1
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "CRIPPLE CREEK-VICTOR RE-1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 19.5
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 26.5
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "WOODLAND PARK RE-2": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 48.5
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 36.5
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "AKRON R-1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 10.5
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 11.4
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "ARICKAREE R-2": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "OTIS R-3": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "LONE STAR 101": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "WOODLIN R-104": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "WELD COUNTY RE-1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 32.6
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 27.8
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "EATON RE-2": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 48.2
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 41.9
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "WELD COUNTY SCHOOL DISTRICT RE-3J": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 37.5
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 29.8
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "WINDSOR RE-4": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 47.8
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 44.8
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "JOHNSTOWN-MILLIKEN RE-5J": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 33.6
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 28.9
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "GREELEY 6": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 28.9
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 25.6
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "PLATTE VALLEY RE-7": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 45.9
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 43.9
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "WELD COUNTY S/D RE-8": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 20.8
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 25.5
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "AULT-HIGHLAND RE-9": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 31.3
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 28.1
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "BRIGGSDALE RE-10": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "PRAIRIE RE-11": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 16.4
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 25.4
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "PAWNEE RE-12": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "YUMA 1": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 22.6
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 29.8
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "WRAY RD-2": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 35.1
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 36.9
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "IDALIA RJ-3": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 3.2
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 12.9
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "LIBERTY J-4": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "CHARTER SCHOOL INSTITUTE": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 43.1
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 37.5
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "COLORADO SCHOOL FOR THE DEAF AND BLIND": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "MOUNTAIN BOCES": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "SAN JUAN BOCES": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 0
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "EXPEDITIONARY BOCES": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 52.6
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 48
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  },
+  "COLORADO DIGITAL BOCES": {
+    "cmas_scores": [
+      {
+        "year": "2016",
+        "met_or_exceeded_pct": 17.6
+      },
+      {
+        "year": "2017",
+        "met_or_exceeded_pct": 17.9
+      },
+      {
+        "year": "2020",
+        "met_or_exceeded_pct": null,
+        "note": "No testing due to COVID-19"
+      },
+      {
+        "year": "2021",
+        "met_or_exceeded_pct": null,
+        "note": "Limited testing due to COVID-19"
+      }
+    ]
+  }
+}

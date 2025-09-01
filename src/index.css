@@ -1,0 +1,1314 @@
+/* Basic global styles for the Colorado School District Map Application */
+:root {
+  /* Colors matching Mamás v. DPS site */
+  --primary-teal: hsla(185.53, 59%, 47%, 1);
+  --primary-teal-light: hsla(185.53, 59%, 57%, 1);
+  --primary-teal-dark: hsla(185.53, 59%, 37%, 1);
+  --comparison-red: #dc2626;
+  --text-primary: #1a1a1a;
+  --text-secondary: #4a4a4a;
+  --bg-primary: #ffffff;
+  --bg-secondary: #f9fafb;
+  --border-color: #e5e7eb;
+  --shadow-sm: 0 2px 8px rgba(0,0,0,0.06);
+  --shadow-md: 0 4px 16px rgba(0,0,0,0.08);
+  --shadow-lg: 0 8px 32px rgba(0,0,0,0.10);
+  
+  /* Animation timing matching site */
+  --animation-duration: 0.90s;
+  --animation-curve: ease;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: var(--bg-secondary);
+  color: var(--text-primary);
+}
+
+#root {
+  min-height: 100vh;
+}
+
+/* App Header */
+.app-header {
+  background: var(--bg-primary);
+  padding: 2rem 1rem;
+  text-align: center;
+  border-bottom: 1px solid var(--border-color);
+  box-shadow: var(--shadow-sm);
+}
+
+.app-header h1 {
+  font-size: 2rem;
+  font-weight: 800;
+  color: var(--primary-teal);
+  margin: 0 0 0.5rem 0;
+  letter-spacing: -0.03em;
+}
+
+.app-header p {
+  font-size: 1.1rem;
+  color: var(--text-secondary);
+  margin: 0;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+  .app-header {
+    padding: 2.5rem 2rem;
+  }
+  
+  .app-header h1 {
+    font-size: 2.5rem;
+  }
+}
+
+/* View Mode Toggle */
+.view-mode-toggle {
+  display: flex;
+  gap: 0;
+  margin: 1.5rem auto 0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+  width: fit-content;
+}
+
+.view-mode-toggle button {
+  padding: 0.75rem 2rem;
+  font-size: 1rem;
+  font-weight: 600;
+  border: none;
+  background: var(--bg-secondary);
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: all var(--animation-duration) var(--animation-curve);
+  position: relative;
+}
+
+.view-mode-toggle button:first-child {
+  border-right: 1px solid var(--border-color);
+}
+
+.view-mode-toggle button:hover {
+  background: #e8f8f8;
+  color: var(--primary-teal);
+}
+
+.view-mode-toggle button.active {
+  background: var(--primary-teal);
+  color: white;
+  box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.view-mode-toggle button.active:hover {
+  background: var(--primary-teal-dark);
+}
+
+/* App Layout */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  padding: 1rem;
+  max-width: 1600px;
+  margin: 0 auto;
+}
+@media (min-width: 1200px) {
+  .app-container {
+    flex-direction: row;
+    gap: 2rem;
+    padding: 2rem;
+  }
+}
+
+.map-panel {
+  flex: 3;
+  background: var(--bg-primary);
+  border-radius: 12px;
+  box-shadow: var(--shadow-md);
+  padding: 1.5rem;
+  min-height: 500px;
+  transition: box-shadow var(--animation-duration) var(--animation-curve);
+}
+
+.map-panel:hover {
+  box-shadow: var(--shadow-lg);
+}
+
+.comparison-container {
+  flex: 4;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.district-panel {
+  flex: 1;
+  background: var(--bg-primary);
+  border-radius: 12px;
+  box-shadow: var(--shadow-md);
+  padding: 2rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  overflow: visible;
+  min-height: fit-content;
+  transition: all var(--animation-duration) var(--animation-curve);
+  border: 2px solid transparent;
+}
+
+.district-panel:hover {
+  box-shadow: var(--shadow-lg);
+}
+
+.district-panel.comparison {
+  border-color: var(--comparison-red);
+}
+
+/* Control Panel Styles */
+.control-panel {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  padding: 1rem;
+  background: var(--bg-primary);
+  border-radius: 12px;
+  box-shadow: var(--shadow-sm);
+  flex-wrap: wrap;
+}
+
+.metric-selector,
+.year-selector {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.metric-selector label,
+.year-selector label {
+  font-weight: 600;
+  color: var(--text-primary);
+  font-size: 1rem;
+}
+
+.metric-dropdown,
+.year-dropdown {
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  border: 2px solid var(--border-color);
+  border-radius: 8px;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  cursor: pointer;
+  transition: all var(--animation-duration) var(--animation-curve);
+  font-weight: 500;
+  min-width: 150px;
+}
+
+.metric-dropdown:hover,
+.year-dropdown:hover {
+  border-color: var(--primary-teal);
+  box-shadow: var(--shadow-sm);
+}
+
+.metric-dropdown:focus,
+.year-dropdown:focus {
+  outline: none;
+  border-color: var(--primary-teal);
+  box-shadow: 0 0 0 3px rgba(72, 187, 184, 0.2);
+}
+
+/* Legend Panel */
+.legend-panel {
+  background: var(--bg-primary);
+  border-radius: 12px;
+  box-shadow: var(--shadow-sm);
+  padding: 1.5rem;
+  margin-top: 1rem;
+}
+
+.legend-panel h4 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin: 0 0 1rem 0;
+  text-align: center;
+}
+
+.legend-item {
+  margin-bottom: 1rem;
+}
+
+.legend-gradient {
+  height: 20px;
+  border-radius: 4px;
+  margin-bottom: 0.5rem;
+  box-shadow: inset 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.enrollment-gradient {
+  background: linear-gradient(to right, #e6f2ff, #b3d9ff, #80bfff, #4da6ff, #1a8cff, #0066cc, #004c99);
+}
+
+.frl-gradient {
+  background: linear-gradient(to right, #ffcc99, #ffb366, #ff9933, #ff8000, #cc6600, #994d00, #663300);
+}
+
+.cmas-gradient {
+  background: linear-gradient(to right, #e6ffe6, #b3ffb3, #80ff80, #4dff4d, #1aff1a, #00cc00, #008000);
+}
+
+.legend-labels {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+.legend-item.no-data {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border-color);
+}
+
+.no-data-box {
+  width: 40px;
+  height: 20px;
+  background: #e0e0e0;
+  border-radius: 4px;
+  box-shadow: inset 0 1px 3px rgba(0,0,0,0.1);
+}
+
+/* Combined chart panel */
+.combined-chart-panel {
+  background: var(--bg-primary);
+  border-radius: 12px;
+  box-shadow: var(--shadow-md);
+  padding: 2rem;
+  flex: 1;
+  transition: box-shadow var(--animation-duration) var(--animation-curve);
+}
+
+.combined-chart-panel:hover {
+  box-shadow: var(--shadow-lg);
+}
+
+.chart-header {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.chart-header h3 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin: 0 0 1rem 0;
+  letter-spacing: -0.02em;
+}
+
+.districts-shown {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.district-label {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 600;
+  font-size: 1rem;
+}
+
+.district-label.selected {
+  color: var(--primary-teal);
+}
+
+.district-label.denver {
+  color: var(--comparison-red);
+}
+
+.color-indicator {
+  width: 20px;
+  height: 3px;
+  border-radius: 2px;
+  display: inline-block;
+}
+
+.comparison-divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 60px;
+  position: relative;
+}
+
+.vs-label {
+  position: absolute;
+  background: var(--bg-secondary);
+  padding: 0.75rem 1.25rem;
+  border-radius: 50%;
+  font-weight: 700;
+  color: var(--text-secondary);
+  font-size: 1.1rem;
+  border: 2px solid var(--border-color);
+  z-index: 1;
+  transition: all var(--animation-duration) var(--animation-curve);
+}
+
+.vs-label:hover {
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  transform: scale(1.05);
+}
+
+.district-header h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 0 0 0.5rem 0;
+  color: var(--primary-teal);
+  letter-spacing: -0.02em;
+  text-align: center;
+  transition: color var(--animation-duration) var(--animation-curve);
+}
+
+.district-panel.comparison .district-header h2 {
+  color: var(--comparison-red);
+}
+
+.comparison-note {
+  font-size: 0.9rem;
+  color: var(--comparison-red);
+  margin: 0.25rem 0 0 0;
+  font-weight: 500;
+  opacity: 0.8;
+}
+
+.chart-section {
+  flex: 1;
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--border-color);
+  transition: all var(--animation-duration) var(--animation-curve);
+  position: relative;
+  overflow: visible;
+  margin-bottom: 1rem; /* Add spacing between chart sections */
+}
+
+.chart-section:last-child {
+  border-bottom: none;
+}
+
+.chart-section:hover {
+  background: var(--bg-secondary);
+  margin: 0 -1.5rem;
+  padding: 1rem 1.5rem;
+  border-radius: 8px;
+}
+
+.chart-section h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: var(--text-primary);
+  text-align: center;
+  letter-spacing: -0.01em;
+}
+
+.cmas-message {
+  font-size: 0.95rem;
+  font-style: normal;
+  color: var(--text-secondary);
+  margin: 1rem 0;
+  text-align: center;
+  background: var(--bg-secondary);
+  padding: 0.75rem;
+  border-radius: 6px;
+  border-left: 3px solid var(--primary-teal);
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 1199px) {
+  .app-container {
+    flex-direction: column;
+  }
+  
+  .control-panel {
+    padding: 0.75rem;
+    gap: 1rem;
+  }
+  
+  .metric-dropdown,
+  .year-dropdown {
+    min-width: 120px;
+    font-size: 0.95rem;
+  }
+  
+  .combined-chart-panel {
+    padding: 1.5rem;
+  }
+  
+  .chart-header h3 {
+    font-size: 1.25rem;
+  }
+  
+  .districts-shown {
+    gap: 1rem;
+  }
+  
+  .district-label {
+    font-size: 0.9rem;
+  }
+}
+
+/* Adjust chart heights for smaller panels */
+.chart-section {
+  min-height: 320px;
+  display: flex;
+  flex-direction: column;
+  overflow: visible;
+}
+
+.chart-section h3 {
+  margin-bottom: 0.5rem;
+  flex-shrink: 0;
+}
+
+@media (min-width: 1200px) {
+  .chart-section {
+    min-height: 350px;
+  }
+}
+
+/* Map Tooltips */
+.district-tooltip {
+  background: var(--bg-primary) !important;
+  border: 2px solid var(--primary-teal) !important;
+  border-radius: 6px !important;
+  padding: 0.5rem 0.75rem !important;
+  font-weight: 600 !important;
+  color: var(--text-primary) !important;
+  box-shadow: var(--shadow-md) !important;
+  font-size: 0.95rem !important;
+}
+
+.district-tooltip::before {
+  border-top-color: var(--primary-teal) !important;
+}
+
+/* Loading State */
+.loading-message {
+  text-align: center;
+  padding: 2rem;
+  color: var(--text-secondary);
+  font-size: 1.1rem;
+}
+
+/* Animation Classes */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.chart-section {
+  animation: fadeIn var(--animation-duration) var(--animation-curve);
+}
+
+.district-panel {
+  animation: fadeIn var(--animation-duration) var(--animation-curve);
+}
+
+/* DPS Schools View */
+.dps-schools-view {
+  width: 100%;
+  min-height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.placeholder-message {
+  text-align: center;
+  padding: 3rem;
+  background: var(--bg-primary);
+  border-radius: 12px;
+  box-shadow: var(--shadow-md);
+  max-width: 600px;
+}
+
+.placeholder-message h2 {
+  font-size: 2rem;
+  color: var(--primary-teal);
+  margin-bottom: 1rem;
+}
+
+.placeholder-message p {
+  font-size: 1.1rem;
+  color: var(--text-secondary);
+  margin: 0.5rem 0;
+}
+
+/* DPS Map Container */
+.dps-map-container {
+  display: flex;
+  gap: 2rem;
+  height: calc(100vh - 200px);
+  width: 100%;
+  padding: 1rem;
+}
+
+.dps-map-panel {
+  flex: 3;
+  position: relative;
+  background: var(--bg-primary);
+  border-radius: 12px;
+  box-shadow: var(--shadow-md);
+  overflow: hidden;
+}
+
+.dps-sidebar {
+  flex: 2;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  overflow-y: auto;
+  max-height: calc(100vh - 220px);
+}
+
+/* Crisis Summary */
+.crisis-summary {
+  background: var(--bg-primary);
+  border-radius: 12px;
+  box-shadow: var(--shadow-md);
+  padding: 2rem;
+}
+
+.crisis-summary h2 {
+  color: #8b0000;
+  font-size: 1.8rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.stat-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.stat-box {
+  background: var(--bg-secondary);
+  border-radius: 8px;
+  padding: 1.5rem;
+  text-align: center;
+  transition: transform 0.2s;
+}
+
+.stat-box:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+
+.stat-box.critical {
+  background: #fee;
+  border: 2px solid #dc143c;
+}
+
+.stat-box.severe {
+  background: #fff0f0;
+  border: 2px solid #ff6347;
+}
+
+.stat-box.warning {
+  background: #fff8e1;
+  border: 2px solid #ff9800;
+}
+
+.stat-number {
+  font-size: 3rem;
+  font-weight: 700;
+  color: #8b0000;
+  margin-bottom: 0.5rem;
+}
+
+.stat-label {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  font-weight: 600;
+}
+
+/* Worst Schools List */
+.worst-schools {
+  margin-top: 2rem;
+}
+
+.worst-schools h3 {
+  font-size: 1.4rem;
+  margin-bottom: 1rem;
+  color: var(--text-primary);
+}
+
+.school-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.school-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.75rem;
+  background: var(--bg-secondary);
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.school-item:hover {
+  background: #fee;
+  transform: translateX(4px);
+}
+
+.school-rank {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #8b0000;
+  min-width: 30px;
+}
+
+.school-info {
+  flex: 1;
+}
+
+.school-name {
+  font-weight: 600;
+  color: var(--text-primary);
+  font-size: 0.95rem;
+}
+
+.school-category {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+.school-rate {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #8b0000;
+}
+
+/* Map Legend */
+.map-legend {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: var(--shadow-md);
+  z-index: 1000;
+}
+
+.map-legend h4 {
+  font-size: 1rem;
+  margin-bottom: 0.75rem;
+  color: var(--text-primary);
+}
+
+.map-legend .legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.4rem;
+  font-size: 0.85rem;
+}
+
+.legend-color {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 2px solid #333;
+}
+
+/* School Detail Panel */
+.school-detail-panel {
+  background: var(--bg-primary);
+  border-radius: 12px;
+  box-shadow: var(--shadow-md);
+  padding: 1.5rem;
+  position: relative;
+}
+
+.school-detail-panel h3 {
+  font-size: 1.4rem;
+  color: var(--text-primary);
+  margin-bottom: 0.5rem;
+}
+
+.school-detail-panel .school-category {
+  color: var(--text-secondary);
+  margin-bottom: 1.5rem;
+}
+
+.attendance-alert {
+  background: #fee;
+  border: 2px solid #dc143c;
+  border-radius: 8px;
+  padding: 1.5rem;
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.alert-rate {
+  font-size: 3.5rem;
+  font-weight: 700;
+  color: #8b0000;
+  margin-bottom: 0.5rem;
+}
+
+.alert-label {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #dc143c;
+  margin-bottom: 0.5rem;
+}
+
+.alert-detail {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+.frl-section {
+  margin-top: 1.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border-color);
+}
+
+.frl-section h4 {
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+.frl-stat {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--primary-teal);
+}
+
+.close-button {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.close-button:hover {
+  background: var(--border-color);
+}
+
+/* School Markers */
+.school-marker {
+  transition: all 0.2s;
+}
+
+.school-popup {
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+/* Responsive */
+@media (max-width: 1200px) {
+  .dps-map-container {
+    flex-direction: column;
+    height: auto;
+  }
+  
+  .dps-map-panel {
+    height: 60vh;
+  }
+  
+  .dps-sidebar {
+    max-height: none;
+  }
+  
+  .stat-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Enhanced DPS Schools View */
+.dps-enhanced-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  padding: 1rem;
+  height: calc(100vh - 50px); /* Expand downwards even more - use almost full viewport */
+}
+
+.enhanced-control-panel {
+  background: var(--bg-primary);
+  border-radius: 12px;
+  box-shadow: var(--shadow-md);
+  padding: 0.75rem 1.5rem; /* Reduce vertical padding to make it shorter */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  flex-shrink: 0; /* Prevent control panel from shrinking */
+}
+
+.filter-controls {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+}
+
+.filter-group {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.filter-group label {
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.filter-group select {
+  padding: 0.5rem 1rem;
+  border: 2px solid var(--border-color);
+  border-radius: 6px;
+  background: var(--bg-primary);
+  cursor: pointer;
+  transition: border-color 0.2s;
+}
+
+.filter-group select:hover {
+  border-color: var(--primary-teal);
+}
+
+.filter-note {
+  font-size: 0.875rem;
+  color: #666;
+  font-style: italic;
+  padding: 0.25rem 0.5rem;
+}
+
+.action-controls {
+  display: flex;
+  gap: 1rem;
+}
+
+.toggle-button {
+  padding: 0.75rem 1.5rem;
+  background: var(--bg-secondary);
+  border: 2px solid var(--border-color);
+  border-radius: 6px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.toggle-button:hover {
+  background: var(--bg-primary);
+  border-color: var(--primary-teal);
+}
+
+.toggle-button.active {
+  background: var(--primary-teal);
+  color: white;
+  border-color: var(--primary-teal);
+}
+
+.export-button {
+  padding: 0.75rem 1.5rem;
+  background: #10b981;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.export-button:hover {
+  background: #059669;
+}
+
+.dps-main-content {
+  display: flex;
+  gap: 2rem;
+  flex: 1;
+  overflow: hidden;
+  min-height: 0; /* Allow flexbox to shrink properly */
+}
+
+.enhanced-map-panel {
+  flex: 3;
+  position: relative;
+  background: var(--bg-primary);
+  border-radius: 12px;
+  box-shadow: var(--shadow-md);
+  overflow: hidden;
+}
+
+.enhanced-sidebar {
+  flex: 2;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  overflow-y: auto;
+  overflow-x: hidden; /* Prevent horizontal overflow */
+  padding-right: 0.5rem;
+  position: relative; /* Establish stacking context */
+}
+
+.enhanced-crisis-summary {
+  background: var(--bg-primary);
+  border-radius: 12px;
+  box-shadow: var(--shadow-md);
+  padding: 2rem;
+  min-height: 800px; /* Make crisis tab even taller */
+}
+
+.stats-comparison {
+  display: flex;
+  gap: 2rem;
+  margin-top: 1.5rem;
+}
+
+.stat-column {
+  flex: 1;
+}
+
+.stat-column h3 {
+  font-size: 1.2rem;
+  color: var(--text-primary);
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.change-indicator {
+  font-size: 0.8rem;
+  margin-top: 0.25rem;
+  font-weight: 600;
+}
+
+.change-indicator:contains('↑') {
+  color: #dc143c;
+}
+
+.change-indicator:contains('↓') {
+  color: #10b981;
+}
+
+.compare-controls {
+  margin-top: 1.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border-color);
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.budget-analysis-panel {
+  background: var(--bg-primary);
+  border-radius: 12px;
+  box-shadow: var(--shadow-md);
+  padding: 2rem;
+  min-height: fit-content; /* Allow panel to size based on content */
+  position: relative;
+  margin-bottom: 2rem; /* Add spacing to prevent overlap */
+  overflow: visible; /* Ensure charts can render properly */
+}
+
+.budget-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.budget-stat {
+  background: var(--bg-secondary);
+  border-radius: 8px;
+  padding: 1rem;
+  text-align: center;
+}
+
+.budget-stat.critical {
+  background: #fee;
+  border: 2px solid #dc143c;
+}
+
+.budget-stat.warning {
+  background: #fff8e1;
+  border: 2px solid #ff9800;
+}
+
+.budget-stat .label {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  margin-bottom: 0.5rem;
+}
+
+.budget-stat .value {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: var(--primary-teal);
+}
+
+.budget-stat.critical .value {
+  color: #dc143c;
+}
+
+.budget-stat.warning .value {
+  color: #ff9800;
+}
+
+.budget-stat .note {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  margin-top: 0.25rem;
+}
+
+.chart-note {
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  margin-top: 1rem;
+  font-style: italic;
+}
+
+/* Ensure charts stay within their containers and render properly */
+.budget-analysis-panel .recharts-wrapper {
+  position: relative !important;
+  overflow: visible !important;
+}
+
+.budget-analysis-panel .chart-section {
+  min-height: 300px; /* Ensure adequate height for charts */
+  padding: 1.5rem 0;
+  margin-bottom: 1.5rem;
+}
+
+.budget-analysis-panel .chart-section:last-child {
+  margin-bottom: 0;
+}
+
+.budget-analysis-panel .recharts-surface {
+  overflow: visible !important;
+}
+
+.enhanced-map-legend {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 8px;
+  padding: 0.75rem;
+  box-shadow: var(--shadow-md);
+  z-index: 1000;
+  max-width: 200px;
+  font-size: 0.85rem;
+}
+
+.enhanced-map-legend h4 {
+  font-size: 0.95rem;
+  margin: 0 0 0.5rem 0;
+  font-weight: 600;
+}
+
+.enhanced-map-legend .legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.3rem;
+}
+
+.enhanced-map-legend .legend-color {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  border: 1px solid #333;
+  flex-shrink: 0;
+}
+
+.enhanced-map-legend h5 {
+  font-size: 0.85rem;
+  margin: 0.75rem 0 0.5rem 0;
+  font-weight: 600;
+}
+
+.legend-note {
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  font-style: italic;
+  margin-top: 0.25rem;
+}
+
+.enhanced-worst-schools {
+  background: var(--bg-primary);
+  border-radius: 12px;
+  box-shadow: var(--shadow-md);
+  padding: 1.5rem;
+  min-height: 700px; /* Make worst schools list even taller */
+  position: relative;
+}
+
+.school-frl {
+  font-size: 0.8rem;
+  color: #666;
+  margin-top: 0.25rem;
+}
+
+.enhanced-school-detail {
+  background: var(--bg-primary);
+  border-radius: 12px;
+  box-shadow: var(--shadow-md);
+  padding: 1.5rem;
+  position: relative;
+}
+
+.attendance-trends {
+  margin-top: 1.5rem;
+}
+
+.attendance-trends h4 {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+/* Responsive */
+@media (max-width: 1400px) {
+  .filter-controls {
+    flex-wrap: wrap;
+  }
+  
+  .stats-comparison {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 1200px) {
+  .dps-main-content {
+    flex-direction: column;
+  }
+  
+  .enhanced-map-panel {
+    height: 60vh;
+  }
+  
+  .enhanced-sidebar {
+    max-height: none;
+    overflow-y: visible;
+  }
+}
+
+/* Guided Tour Styles */
+.educational-tour {
+  --reactour-accent: hsla(185.53, 59%, 47%, 1) !important;
+}
+
+.educational-tour [data-tour="popover"] {
+  background: white !important;
+  border-radius: 12px !important;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.15) !important;
+  border: 2px solid hsla(185.53, 59%, 47%, 0.2) !important;
+}
+
+.educational-tour [data-tour="popover"] h3 {
+  color: hsla(185.53, 59%, 47%, 1) !important;
+  font-weight: 700 !important;
+  margin: 0 0 1rem 0 !important;
+  font-size: 1.25rem !important;
+}
+
+.educational-tour [data-tour="popover"] p {
+  color: #333 !important;
+  line-height: 1.6 !important;
+  margin: 0 0 0.75rem 0 !important;
+}
+
+.educational-tour [data-tour="popover"] ul {
+  color: #555 !important;
+  line-height: 1.5 !important;
+}
+
+.educational-tour [data-tour="popover"] li {
+  margin-bottom: 0.5rem !important;
+}
+
+.educational-tour [data-tour="navigation"] {
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+  margin-top: 1.5rem !important;
+  padding-top: 1rem !important;
+  border-top: 1px solid #eee !important;
+}
+
+.educational-tour [data-tour="navigation"] button {
+  padding: 0.75rem 1.5rem !important;
+  font-weight: 600 !important;
+  border-radius: 8px !important;
+  border: none !important;
+  cursor: pointer !important;
+  transition: all 0.2s ease !important;
+}
+
+.educational-tour [data-tour="navigation"] button[data-tour="prev"],
+.educational-tour [data-tour="navigation"] button[data-tour="next"] {
+  background: hsla(185.53, 59%, 47%, 1) !important;
+  color: white !important;
+}
+
+.educational-tour [data-tour="navigation"] button[data-tour="prev"]:hover,
+.educational-tour [data-tour="navigation"] button[data-tour="next"]:hover {
+  background: hsla(185.53, 59%, 37%, 1) !important;
+  transform: translateY(-1px) !important;
+}
+
+.educational-tour [data-tour="navigation"] button[data-tour="close"] {
+  background: #f0f0f0 !important;
+  color: #666 !important;
+}
+
+.educational-tour [data-tour="navigation"] button[data-tour="close"]:hover {
+  background: #e0e0e0 !important;
+  color: #333 !important;
+}
+
+.tour-mask {
+  background: rgba(0, 0, 0, 0.6) !important;
+}
+
+.tour-highlight {
+  box-shadow: 0 0 0 4px hsla(185.53, 59%, 47%, 0.5), 0 0 0 8px rgba(255,255,255,0.3) !important;
+  border-radius: 8px !important;
+}

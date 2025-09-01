@@ -1,0 +1,37 @@
+{
+  "summary": {
+    "totalInMap": 178,
+    "matched": 156,
+    "unmatched": 22
+  },
+  "matchTypes": {
+    "direct": 1,
+    "suffix_removed": 130,
+    "case_insensitive": 24,
+    "fuzzy": 1
+  },
+  "unmatchedDistricts": [
+    "Bayfield 10 JT.-R School District",
+    "Brighton 27J School District",
+    "Consolidated C-1 School District",
+    "Creede Consolidated 1 School District",
+    "DeBeque 49JT School District",
+    "Delta County School District 50(J)",
+    "Dolores County RE No. 2 School District",
+    "Eagle County School District RE50J",
+    "Florence RE-2 School District",
+    "Gilcrest RE-1 School District",
+    "Gunnison RE1J School District",
+    "Keenesburg RE-3J School District",
+    "Lewis Palmer 38 School District",
+    "MiamiYoder 60 JT School District",
+    "North Park School District R-1",
+    "Park (Estes Park) R-3 School District",
+    "Platte Valley RE-3 School District",
+    "Pueblo City Schools",
+    "Pueblo County Rural 70 School District",
+    "St. Vrain Valley RE 1J School District",
+    "Thompson R-2J School District",
+    "Weld County RE-8 School District"
+  ]
+}

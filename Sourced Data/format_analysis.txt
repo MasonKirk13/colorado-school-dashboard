@@ -1,0 +1,369 @@
+Analyzing CMAS file structures...
+
+
+================================================================================
+FILE: 2016 ELA Math District and School Summary final.xlsx
+================================================================================
+
+SHEET: ELA
+----------------------------------------
+First 30 rows (showing first 8 columns):
+Row 0: [CMAS PARCC ELA Spring 2016 Dis]
+Row 1: [Test Information |  |  |  |  |  |  | Participation Information]
+Row 2: [ |  |  |  |  |  |  | ]
+Row 3: [ |  |  |  |  |  |  | 2015-2016]
+Row 4: [Level | District Code | District Name | School Code | School Name | Content | Test | Number of Total Records]
+Row 5: [STATE | 0000 | All Districts | 0000 | All Schools | ELA | ELA Grade 03 | 66285]
+Row 6: [STATE | 0000 | All Districts | 0000 | All Schools | ELA | ELA Grade 04 | 66340]
+Row 7: [STATE | 0000 | All Districts | 0000 | All Schools | ELA | ELA Grade 05 | 65833]
+Row 8: [STATE | 0000 | All Districts | 0000 | All Schools | ELA | ELA Grade 06 | 65559]
+Row 9: [STATE | 0000 | All Districts | 0000 | All Schools | ELA | ELA Grade 07 | 65974]
+Row 10: [STATE | 0000 | All Districts | 0000 | All Schools | ELA | ELA Grade 08 | 64594]
+Row 11: [STATE | 0000 | All Districts | 0000 | All Schools | ELA | ELA Grade 09 | 65545]
+Row 12: [DISTRICT | 0010 | MAPLETON 1 | 0000 | All Schools | ELA | ELA Grade 03 | 541]
+Row 13: [DISTRICT | 0010 | MAPLETON 1 | 0000 | All Schools | ELA | ELA Grade 04 | 511]
+Row 14: [DISTRICT | 0010 | MAPLETON 1 | 0000 | All Schools | ELA | ELA Grade 05 | 581]
+Row 15: [DISTRICT | 0010 | MAPLETON 1 | 0000 | All Schools | ELA | ELA Grade 06 | 590]
+Row 16: [DISTRICT | 0010 | MAPLETON 1 | 0000 | All Schools | ELA | ELA Grade 07 | 731]
+Row 17: [DISTRICT | 0010 | MAPLETON 1 | 0000 | All Schools | ELA | ELA Grade 08 | 779]
+Row 18: [DISTRICT | 0010 | MAPLETON 1 | 0000 | All Schools | ELA | ELA Grade 09 | 781]
+Row 19: [SCHOOL | 0010 | MAPLETON 1 | 0187 | MAPLETON EXPEDITIONARY SCHOOL  | ELA | ELA Grade 07 | 121]
+Row 20: [SCHOOL | 0010 | MAPLETON 1 | 0187 | MAPLETON EXPEDITIONARY SCHOOL  | ELA | ELA Grade 08 | 119]
+Row 21: [SCHOOL | 0010 | MAPLETON 1 | 0187 | MAPLETON EXPEDITIONARY SCHOOL  | ELA | ELA Grade 09 | 129]
+Row 22: [SCHOOL | 0010 | MAPLETON 1 | 0212 | MAPLETON EARLY COLLEGE HIGH SC | ELA | ELA Grade 09 | 84]
+Row 23: [SCHOOL | 0010 | MAPLETON 1 | 0263 | GLOBAL LEADERSHIP ACADEMY | ELA | ELA Grade 03 | 39]
+Row 24: [SCHOOL | 0010 | MAPLETON 1 | 0263 | GLOBAL LEADERSHIP ACADEMY | ELA | ELA Grade 04 | 27]
+Row 25: [SCHOOL | 0010 | MAPLETON 1 | 0263 | GLOBAL LEADERSHIP ACADEMY | ELA | ELA Grade 05 | 30]
+Row 26: [SCHOOL | 0010 | MAPLETON 1 | 0263 | GLOBAL LEADERSHIP ACADEMY | ELA | ELA Grade 06 | 29]
+Row 27: [SCHOOL | 0010 | MAPLETON 1 | 0263 | GLOBAL LEADERSHIP ACADEMY | ELA | ELA Grade 07 | 53]
+Row 28: [SCHOOL | 0010 | MAPLETON 1 | 0263 | GLOBAL LEADERSHIP ACADEMY | ELA | ELA Grade 08 | 56]
+Row 29: [SCHOOL | 0010 | MAPLETON 1 | 0263 | GLOBAL LEADERSHIP ACADEMY | ELA | ELA Grade 09 | 74]
+
+Searching for header patterns...
+
+SHEET: MATH
+----------------------------------------
+First 30 rows (showing first 8 columns):
+Row 0: [CMAS PARCC Math Spring 2016 Di]
+Row 1: [Test Information |  |  |  |  |  |  | Participation Information]
+Row 2: [ |  |  |  |  |  |  | ]
+Row 3: [ |  |  |  |  |  |  | 2015-2016]
+Row 4: [Level | District Code | District Name | School Code | School Name | Content | Test | Number of Total Records]
+Row 5: [STATE | 0000 | All Districts | 0000 | All Schools | Math | Math Grade 03 | 67724]
+Row 6: [STATE | 0000 | All Districts | 0000 | All Schools | Math | Math Grade 04 | 66793]
+Row 7: [STATE | 0000 | All Districts | 0000 | All Schools | Math | Math Grade 05 | 65838]
+Row 8: [STATE | 0000 | All Districts | 0000 | All Schools | Math | Math Grade 06 | 65653]
+Row 9: [STATE | 0000 | All Districts | 0000 | All Schools | Math | Math Grade 07 | 63005]
+Row 10: [STATE | 0000 | All Districts | 0000 | All Schools | Math | Math Grade 08 | 49205]
+Row 11: [STATE | 0000 | All Districts | 0000 | All Schools | Math | Algebra I** | 52820]
+Row 12: [STATE | 0000 | All Districts | 0000 | All Schools | Math | Algebra II** | 3506]
+Row 13: [STATE | 0000 | All Districts | 0000 | All Schools | Math | Geometry** | 14786]
+Row 14: [STATE | 0000 | All Districts | 0000 | All Schools | Math | Integrated I** | 11059]
+Row 15: [STATE | 0000 | All Districts | 0000 | All Schools | Math | Integrated II** | 1844]
+Row 16: [STATE | 0000 | All Districts | 0000 | All Schools | Math | Integrated III** | 324]
+Row 17: [DISTRICT | 0010 | MAPLETON 1 | 0000 | All Schools | Math | Math Grade 03 | 551]
+Row 18: [DISTRICT | 0010 | MAPLETON 1 | 0000 | All Schools | Math | Math Grade 04 | 513]
+Row 19: [DISTRICT | 0010 | MAPLETON 1 | 0000 | All Schools | Math | Math Grade 05 | 578]
+Row 20: [DISTRICT | 0010 | MAPLETON 1 | 0000 | All Schools | Math | Math Grade 06 | 591]
+Row 21: [DISTRICT | 0010 | MAPLETON 1 | 0000 | All Schools | Math | Math Grade 07 | 718]
+Row 22: [DISTRICT | 0010 | MAPLETON 1 | 0000 | All Schools | Math | Math Grade 08 | 731]
+Row 23: [DISTRICT | 0010 | MAPLETON 1 | 0000 | All Schools | Math | Algebra I** | 702]
+Row 24: [DISTRICT | 0010 | MAPLETON 1 | 0000 | All Schools | Math | Algebra II** | 20]
+Row 25: [DISTRICT | 0010 | MAPLETON 1 | 0000 | All Schools | Math | Geometry** | 138]
+Row 26: [SCHOOL | 0010 | MAPLETON 1 | 0187 | MAPLETON EXPEDITIONARY SCHOOL  | Math | Math Grade 07 | 121]
+Row 27: [SCHOOL | 0010 | MAPLETON 1 | 0187 | MAPLETON EXPEDITIONARY SCHOOL  | Math | Math Grade 08 | 119]
+Row 28: [SCHOOL | 0010 | MAPLETON 1 | 0187 | MAPLETON EXPEDITIONARY SCHOOL  | Math | Algebra I** | 104]
+Row 29: [SCHOOL | 0010 | MAPLETON 1 | 0187 | MAPLETON EXPEDITIONARY SCHOOL  | Math | Algebra II** | *]
+
+Searching for header patterns...
+
+================================================================================
+FILE: 2017 CMAS ELA Math District & School Overall Results FINAL.xlsx
+================================================================================
+
+SHEET: District and School Detail_1
+----------------------------------------
+First 30 rows (showing first 8 columns):
+Row 0: [CMAS ELA and Math (PARCC) 2017]
+Row 1: [Test Information |  |  |  |  |  |  | Participation Information]
+Row 2: [ |  |  |  |  |  |  | 2016-2017]
+Row 3: [Level | District 
+Code | District 
+Name | School 
+Code | School 
+Name | Content | Test | Number 
+of Total 
+Records]
+Row 4: [STATE | 0000 | All Districts | 0000 | All Schools | ELA | ELA Grade 03 | 65988]
+Row 5: [STATE | 0000 | All Districts | 0000 | All Schools | ELA | ELA Grade 04 | 66982]
+Row 6: [STATE | 0000 | All Districts | 0000 | All Schools | ELA | ELA Grade 05 | 67200]
+Row 7: [STATE | 0000 | All Districts | 0000 | All Schools | ELA | ELA Grade 06 | 65908]
+Row 8: [STATE | 0000 | All Districts | 0000 | All Schools | ELA | ELA Grade 07 | 65936]
+Row 9: [STATE | 0000 | All Districts | 0000 | All Schools | ELA | ELA Grade 08 | 65937]
+Row 10: [STATE | 0000 | All Districts | 0000 | All Schools | ELA | ELA Grade 09 | 65891]
+Row 11: [STATE | 0000 | All Districts | 0000 | All Schools | Math | Math Grade 03 | 67687]
+Row 12: [STATE | 0000 | All Districts | 0000 | All Schools | Math | Math Grade 04 | 67825]
+Row 13: [STATE | 0000 | All Districts | 0000 | All Schools | Math | Math Grade 05 | 67197]
+Row 14: [STATE | 0000 | All Districts | 0000 | All Schools | Math | Math Grade 06 | 65898]
+Row 15: [STATE | 0000 | All Districts | 0000 | All Schools | Math | Math Grade 07 | 63023]
+Row 16: [STATE | 0000 | All Districts | 0000 | All Schools | Math | Math Grade 08 | 50377]
+Row 17: [STATE | 0000 | All Districts | 0000 | All Schools | Math | Algebra I | 53549]
+Row 18: [STATE | 0000 | All Districts | 0000 | All Schools | Math | Geometry | 14215]
+Row 19: [STATE | 0000 | All Districts | 0000 | All Schools | Math | Algebra II | 3171]
+Row 20: [STATE | 0000 | All Districts | 0000 | All Schools | Math | Integrated I | 11199]
+Row 21: [STATE | 0000 | All Districts | 0000 | All Schools | Math | Integrated II | 1922]
+Row 22: [STATE | 0000 | All Districts | 0000 | All Schools | Math | Integrated III | 280]
+Row 23: [DISTRICT | 1040 | ACADEMY 20 | 0000 | All Schools | ELA | ELA Grade 03 | 1725]
+Row 24: [DISTRICT | 1040 | ACADEMY 20 | 0000 | All Schools | ELA | ELA Grade 04 | 1727]
+Row 25: [DISTRICT | 1040 | ACADEMY 20 | 0000 | All Schools | ELA | ELA Grade 05 | 1756]
+Row 26: [DISTRICT | 1040 | ACADEMY 20 | 0000 | All Schools | ELA | ELA Grade 06 | 1781]
+Row 27: [DISTRICT | 1040 | ACADEMY 20 | 0000 | All Schools | ELA | ELA Grade 07 | 1973]
+Row 28: [DISTRICT | 1040 | ACADEMY 20 | 0000 | All Schools | ELA | ELA Grade 08 | 2038]
+Row 29: [DISTRICT | 1040 | ACADEMY 20 | 0000 | All Schools | ELA | ELA Grade 09 | 2123]
+
+Searching for header patterns...
+
+================================================================================
+FILE: 2018 CMAS ELA and Math District and School Summary Achievement Results_FINAL.xlsx
+================================================================================
+
+SHEET: District and School Detail_1
+----------------------------------------
+First 30 rows (showing first 8 columns):
+Row 0: [2018 CMAS English Language Art]
+Row 1: [*The value for this field is n]
+Row 2: [**The tested student populatio]
+Row 4: [Test Information |  |  |  |  |  |  | Participation Information]
+Row 5: [ |  |  |  |  |  |  | 2018]
+Row 6: [Level | District Code | District Name | School Code | School Name | Content | Test/Grade | # of Total Records]
+Row 7: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | All Grades |  399,898]
+Row 8: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | English Language Arts Grade 03 |   64,851]
+Row 9: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | English Language Arts Grade 04 |   66,970]
+Row 10: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | English Language Arts Grade 05 |   68,138]
+Row 11: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | English Language Arts Grade 06 |   67,590]
+Row 12: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | English Language Arts Grade 07 |   66,226]
+Row 13: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | English Language Arts Grade 08 |   66,123]
+Row 14: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | All Grades |  402,675]
+Row 15: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | Mathematics Grade 03 |   66,498]
+Row 16: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | Mathematics Grade 04 |   68,119]
+Row 17: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | Mathematics Grade 05 |   68,134]
+Row 18: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | Mathematics Grade 06 |   67,584]
+Row 19: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | Mathematics Grade 07 |   65,109]
+Row 20: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | Mathematics Grade 08 |   55,261]
+Row 21: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | Algebra I |    9,259]
+Row 22: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | Geometry |    1,916]
+Row 23: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | Integrated I |      704]
+Row 24: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | Integrated II |       91]
+Row 25: [DISTRICT | 1040 | ACADEMY 20 | 0000 | All Schools | English Language Arts | All Grades |   10,911]
+Row 26: [DISTRICT | 1040 | ACADEMY 20 | 0000 | All Schools | English Language Arts | English Language Arts Grade 03 |    1,657]
+Row 27: [DISTRICT | 1040 | ACADEMY 20 | 0000 | All Schools | English Language Arts | English Language Arts Grade 04 |    1,793]
+Row 28: [DISTRICT | 1040 | ACADEMY 20 | 0000 | All Schools | English Language Arts | English Language Arts Grade 05 |    1,745]
+Row 29: [DISTRICT | 1040 | ACADEMY 20 | 0000 | All Schools | English Language Arts | English Language Arts Grade 06 |    1,863]
+
+Searching for header patterns...
+Potential header at row 6: Level | District Code | District Name | School Code | School Name | Content | Test/Grade | # of Total Records | # of Valid Scores | # of No Scores
+
+================================================================================
+FILE: 2019 CMAS ELA MATH District and School Achievement Results.xlsx
+================================================================================
+
+SHEET: CMAS ELA and Math
+----------------------------------------
+First 30 rows (showing first 8 columns):
+Row 0: [ |  |  |  |  |  |  | ]
+Row 3: [2019 CMAS District and School ]
+Row 4: [English Language Arts/Literacy]
+Row 6: [- - The value for this cell is]
+Row 7: [NA = Not Available]
+Row 8: [Test Information |  |  |  |  |  |  | Participation Information]
+Row 9: [ |  |  |  |  |  |  | ]
+Row 10: [Level | District Code | District Name | School Code | School Name | Subject | Grade | Number of Total Records]
+Row 11: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | All Grades |  398,670]
+Row 12: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | 03 |   62,739]
+Row 13: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | 04 |   65,391]
+Row 14: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | 05 |   68,373]
+Row 15: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | 06 |   68,134]
+Row 16: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | 07 |   67,763]
+Row 17: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | 08 |   66,270]
+Row 18: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | All Grades |  401,498]
+Row 19: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | 03 |   64,443]
+Row 20: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | 04 |   66,562]
+Row 21: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | 05 |   68,352]
+Row 22: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | 06 |   68,128]
+Row 23: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | 07 |   67,752]
+Row 24: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | 08 |   66,261]
+Row 25: [DISTRICT | 0010 | MAPLETON 1 | 0000 | All Schools | English Language Arts | All Grades |    3,660]
+Row 26: [DISTRICT | 0010 | MAPLETON 1 | 0000 | All Schools | English Language Arts | 03 |      492]
+Row 27: [DISTRICT | 0010 | MAPLETON 1 | 0000 | All Schools | English Language Arts | 04 |      555]
+Row 28: [DISTRICT | 0010 | MAPLETON 1 | 0000 | All Schools | English Language Arts | 05 |      627]
+Row 29: [DISTRICT | 0010 | MAPLETON 1 | 0000 | All Schools | English Language Arts | 06 |      612]
+
+Searching for header patterns...
+Potential header at row 10: Level | District Code | District Name | School Code | School Name | Subject | Grade | Number of Total Records | Number of Valid Scores | Number of No Scores
+
+================================================================================
+FILE: 2021 CMAS ELA and Math District and School Summary Achievement Results - Required Tests.xlsx
+================================================================================
+
+SHEET: Interpretation Considerations
+----------------------------------------
+First 30 rows (showing first 8 columns):
+Row 1: [COVID-19 Disrupted Learning fo]
+Row 2: [The COVID-19 pandemic had an i]
+Row 4: [2021 State Assessment Results ]
+Row 5: [Spring 2021 state tests and ex]
+Row 7: [State assessments provide poin]
+Row 9: [Participation Information is C]
+Row 10: [Participation information must]
+
+Searching for header patterns...
+
+SHEET: CMAS ELA and Math
+----------------------------------------
+First 30 rows (showing first 8 columns):
+Row 0: [ |  |  |  |  |  |  | ]
+Row 3: [Colorado Measures of Academic ]
+Row 4: [2021 District and School Achie]
+Row 5: [English Language Arts/Literacy]
+Row 6: [2021 REQUIRED TESTS]
+Row 7: [Interpretation Considerations]
+Row 8: [Colorado state assessments are]
+Row 10: [COVID-19 Disrupted Learning fo]
+Row 11: [ | • Students may have had reduce]
+Row 12: [ | • Students received instructio]
+Row 13: [ | • Schools may have adjusted or]
+Row 15: [2021 State Assessment Results ]
+Row 16: [
+ | • Spring 2021 tests did not ch]
+Row 17: [ | • Scale scores and performance]
+Row 18: [ | • Individual student results c]
+Row 20: [Participation Information is C]
+Row 21: [ | • Fewer students tested in 202]
+Row 22: [ | • Some student groups tested a]
+Row 23: [ | • For some districts, schools ]
+Row 24: [- - The value for this cell is]
+Row 25: [NA = Not Available]
+Row 26: [Test Information |  |  |  |  |  |  | Participation Information]
+Row 27: [Level | District Code | District Name | School Code | School Name | Content | Grade | Number of Total Records]
+Row 28: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | 03 |   59,309]
+Row 29: [STATE | 0000 | All Districts | 0000 | All Schools | Spanish Language Arts | 03 |    1,418]
+
+Searching for header patterns...
+Potential header at row 27: Level | District Code | District Name | School Code | School Name | Content | Grade | Number of Total Records | Number of Valid Scores | Number of No Scores
+
+================================================================================
+FILE: 2022 CMAS ELA and Math District and School Summary Achievement Results.xlsx
+================================================================================
+
+SHEET: CMAS ELA and Math
+----------------------------------------
+First 30 rows (showing first 8 columns):
+Row 0: [August 2022]
+Row 3: [Colorado Measures of Academic ]
+Row 4: [2022 District and School Achie]
+Row 5: [English Language Arts/Literacy]
+Row 7: [Interpretation Considerations]
+Row 8: [COVID-19
+• Students may have  |  |  |  |  |  |  | ]
+Row 9: [- - The value for this cell is]
+Row 10: [N/A = Not Available]
+Row 11: [Test Information |  |  |  |  |  |  | Participation Information]
+Row 12: [Level | District Code | District Name | School Code | School Name | Content | Grade | Number of Total Records]
+Row 13: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | All Grades |  375,791]
+Row 14: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | 03 |   58,782]
+Row 15: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | 04 |   59,778]
+Row 16: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | 05 |   61,989]
+Row 17: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | 06 |   62,918]
+Row 18: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | 07 |   65,190]
+Row 19: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | 08 |   67,134]
+Row 20: [STATE | 0000 | All Districts | 0000 | All Schools | Spanish Language Arts | All Grades |    2,609]
+Row 21: [STATE | 0000 | All Districts | 0000 | All Schools | Spanish Language Arts | 03 |    1,381]
+Row 22: [STATE | 0000 | All Districts | 0000 | All Schools | Spanish Language Arts | 04 |    1,228]
+Row 23: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | All Grades |  378,343]
+Row 24: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | 03 |   60,156]
+Row 25: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | 04 |   60,988]
+Row 26: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | 05 |   61,973]
+Row 27: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | 06 |   62,904]
+Row 28: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | 07 |   65,189]
+Row 29: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | 08 |   67,133]
+
+Searching for header patterns...
+Potential header at row 12: Level | District Code | District Name | School Code | School Name | Content | Grade | Number of Total Records | Number of Valid Scores | Number of No Scores
+
+================================================================================
+FILE: 2023 CMAS ELA and Math District and School Summary Achievement Results.xlsx
+================================================================================
+
+SHEET: CMAS ELA and Math
+----------------------------------------
+First 30 rows (showing first 8 columns):
+Row 0: [August 2023]
+Row 3: [Colorado Measures of Academic ]
+Row 4: [2023 District and School Achie]
+Row 5: [English Language Arts/Literacy]
+Row 6: [Based on the Colorado Academic]
+Row 7: [Interpretation Considerations]
+Row 8: [•Interpretation of school, dis]
+Row 9: [- - The value for this cell is]
+Row 10: [N/A = Not Available]
+Row 11: [Test Information |  |  |  |  |  |  | Participation Information]
+Row 12: [Level | District Code | District Name | School Code | School Name | Content | Grade | Number of Total Records]
+Row 13: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | All Grades |  370,826]
+Row 14: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | 03 |   59,337]
+Row 15: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | 04 |   59,292]
+Row 16: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | 05 |   61,283]
+Row 17: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | 06 |   62,201]
+Row 18: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | 07 |   63,257]
+Row 19: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | 08 |   65,456]
+Row 20: [STATE | 0000 | All Districts | 0000 | All Schools | Spanish Language Arts | All Grades |    2,781]
+Row 21: [STATE | 0000 | All Districts | 0000 | All Schools | Spanish Language Arts | 03 |    1,538]
+Row 22: [STATE | 0000 | All Districts | 0000 | All Schools | Spanish Language Arts | 04 |    1,243]
+Row 23: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | All Grades |  373,570]
+Row 24: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | 03 |   60,851]
+Row 25: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | 04 |   60,524]
+Row 26: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | 05 |   61,275]
+Row 27: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | 06 |   62,203]
+Row 28: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | 07 |   63,272]
+Row 29: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | 08 |   65,445]
+
+Searching for header patterns...
+Potential header at row 12: Level | District Code | District Name | School Code | School Name | Content | Grade | Number of Total Records | Number of Valid Scores | Number of No Scores
+
+================================================================================
+FILE: 2024 CMAS ELA and Math District and School Summary Results.xlsx
+================================================================================
+
+SHEET: CMAS ELA and Math
+----------------------------------------
+First 30 rows (showing first 8 columns):
+Row 0: [August 2024]
+Row 3: [Colorado Measures of Academic ]
+Row 4: [2024 District and School Achie]
+Row 5: [English Language Arts and Math]
+Row 6: [Based on the 2020 Colorado Aca]
+Row 7: [Interpretation Considerations]
+Row 8: [· Interpretation of school, di]
+Row 9: [- - The value for this cell is]
+Row 10: [N/A = Not Available]
+Row 11: [Test Information |  |  |  |  |  |  | Participation Information]
+Row 12: [Level | District Code | District Name | School Code | School Name | Content | Grade | Number of Total Records]
+Row 13: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | All Grades |  369,502]
+Row 14: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | 03 |   58,699]
+Row 15: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | 04 |   60,335]
+Row 16: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | 05 |   61,384]
+Row 17: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | 06 |   61,901]
+Row 18: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | 07 |   63,030]
+Row 19: [STATE | 0000 | All Districts | 0000 | All Schools | English Language Arts | 08 |   64,153]
+Row 20: [STATE | 0000 | All Districts | 0000 | All Schools | Spanish Language Arts | All Grades |    2,961]
+Row 21: [STATE | 0000 | All Districts | 0000 | All Schools | Spanish Language Arts | 03 |    1,694]
+Row 22: [STATE | 0000 | All Districts | 0000 | All Schools | Spanish Language Arts | 04 |    1,267]
+Row 23: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | All Grades |  372,356]
+Row 24: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | 03 |   60,369]
+Row 25: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | 04 |   61,590]
+Row 26: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | 05 |   61,374]
+Row 27: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | 06 |   61,878]
+Row 28: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | 07 |   63,010]
+Row 29: [STATE | 0000 | All Districts | 0000 | All Schools | Mathematics | 08 |   64,135]
+
+Searching for header patterns...
+Potential header at row 12: Level | District Code | District Name | School Code | School Name | Content | Grade | Number of Total Records | Number of Valid Scores | Number of No Scores

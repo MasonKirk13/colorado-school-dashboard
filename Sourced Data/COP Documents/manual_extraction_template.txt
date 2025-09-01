@@ -1,0 +1,137 @@
+DPS CERTIFICATE OF PARTICIPATION (COP) MANUAL DATA EXTRACTION TEMPLATE
+======================================================================
+
+Use this template to manually extract data from each COP document or ACFR section.
+Fill in the information below, then we'll compile it into the JSON structure.
+
+EXTRACTION TEMPLATE FOR EACH COP:
+=================================
+
+COP IDENTIFICATION:
+------------------
+Document Name: __________________.pdf
+COP Series/ID: __________________ (e.g., EA801455, EP1177797)
+Document Type: [Individual COP / ACFR Section / Budget Document]
+
+FINANCIAL DETAILS:
+------------------
+Issue Date: ____/____/________ (MM/DD/YYYY)
+Maturity Date: ____/____/________ (MM/DD/YYYY)
+Original Principal Amount: $________________
+Current Outstanding Principal: $________________ (as of date: ____/____/________)
+Interest Rate: ________% [Fixed / Variable]
+Annual Debt Service Payment: $________________
+
+ADDITIONAL TERMS:
+-----------------
+Payment Frequency: [Annual / Semi-Annual / Quarterly / Monthly]
+First Payment Date: ____/____/________
+Final Payment Date: ____/____/________
+Callable: [Yes / No] - Can it be paid off early?
+If Yes, Call Date: ____/____/________
+
+PURPOSE & PROJECTS:
+-------------------
+Stated Purpose: ________________________________________________
+______________________________________________________________
+
+Specific Projects Financed:
+- Project 1: ________________________________________________
+- Project 2: ________________________________________________  
+- Project 3: ________________________________________________
+[Add more as needed]
+
+SECURITY & BACKING:
+-------------------
+What secures this debt?: ____________________________________
+______________________________________________________________
+
+Revenue Source for Payments: _________________________________
+______________________________________________________________
+
+PARTIES INVOLVED:
+-----------------
+Issuing Authority: ___________________________________________
+Trustee: ___________________________________________________
+Underwriter/Investment Banker: _______________________________
+Bond Counsel: ______________________________________________
+
+STATUS & NOTES:
+---------------
+Current Status: [Active / Retired / Refinanced / In Default]
+Special Provisions: __________________________________________
+______________________________________________________________
+
+Data Quality Notes: __________________________________________
+______________________________________________________________
+
+===============================================================
+
+AGGREGATE SUMMARY TEMPLATE (After collecting all individual COPs):
+==================================================================
+
+SUMMARY STATISTICS:
+-------------------
+Total Number of COP Documents Reviewed: ____
+Total Number of Active COPs: ____
+Total Outstanding Principal (all COPs): $________________
+Total Annual Debt Service (all COPs): $________________
+Weighted Average Interest Rate: ________%
+Earliest Maturity Date: ____/____/________
+Latest Maturity Date: ____/____/________
+
+ANNUAL DEBT SERVICE SCHEDULE (if available):
+--------------------------------------------
+2024: $________________
+2025: $________________  
+2026: $________________
+2027: $________________
+2028: $________________
+2029: $________________
+2030: $________________
+[Continue as available]
+
+DEBT BURDEN ANALYSIS (if available in ACFR):
+---------------------------------------------
+Debt Service as % of Total Budget: ________%
+Debt Service per Pupil: $________________
+Debt Service per Capita: $________________
+Legal Debt Limit: $________________
+Remaining Debt Capacity: $________________
+
+MAJOR PURPOSE CATEGORIES:
+-------------------------
+School Facilities/Construction: $________________
+Technology/Equipment: $________________
+HVAC/Energy Projects: $________________
+Safety/Security: $________________
+Deferred Maintenance: $________________
+Other: $________________
+
+REFINANCING ACTIVITY:
+---------------------
+Any recent refinancings? [Yes / No]
+If Yes, details: ____________________________________________
+__________________________________________________________
+
+INSTRUCTIONS FOR USE:
+====================
+1. Print this template or copy to a text editor
+2. Open each COP document (start with FY24 ACFR.pdf)
+3. Fill in as much information as you can find
+4. Don't worry if some fields are blank - we'll work with what's available
+5. Focus on the core financial data first: amounts, rates, dates
+6. Save each completed template with the COP name (e.g., "EA801455_extracted.txt")
+7. When done with all documents, fill in the aggregate summary
+8. Send me the completed templates and I'll convert to JSON format
+
+PRIORITY INFORMATION (if time is limited):
+==========================================
+1. Original Principal Amount
+2. Current Outstanding Principal  
+3. Interest Rate
+4. Annual Debt Service Payment
+5. Maturity Date
+6. Purpose
+
+This information alone will allow us to create accurate debt burden analysis.

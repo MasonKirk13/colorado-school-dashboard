@@ -1,0 +1,99 @@
+DPS CERTIFICATE OF PARTICIPATION (COP) ANALYSIS SUMMARY
+============================================================
+
+Analysis Date: 2025-08-05T10:33:07.560991
+Files Analyzed: 10
+Year Range: 2014 - Unknown
+
+FINDINGS BY YEAR:
+------------------------------
+
+FY 2014:
+  - Total debt references: 2
+  - Debt service references: 17
+  - Potential debt tables: 9
+  - Status: Found potential total COP debt figures, Found debt service amounts, Found 9 potential debt tables
+
+FY 2015:
+  - Total debt references: 2
+  - Debt service references: 22
+  - Potential debt tables: 9
+  - Status: Found potential total COP debt figures, Found debt service amounts, Found 9 potential debt tables
+
+FY 2016:
+  - Total debt references: 2
+  - Debt service references: 23
+  - Potential debt tables: 8
+  - Status: Found potential total COP debt figures, Found debt service amounts, Found 8 potential debt tables
+
+FY 2019:
+  - Total debt references: 1
+  - Debt service references: 24
+  - Potential debt tables: 10
+  - Status: Found potential total COP debt figures, Found debt service amounts, Found 10 potential debt tables
+
+FY 2019:
+  - Total debt references: 1
+  - Debt service references: 23
+  - Potential debt tables: 8
+  - Status: Found potential total COP debt figures, Found debt service amounts, Found 8 potential debt tables
+
+FY 2020:
+  - Total debt references: 1
+  - Debt service references: 25
+  - Potential debt tables: 9
+  - Status: Found potential total COP debt figures, Found debt service amounts, Found 9 potential debt tables
+
+FY 2021:
+  - Total debt references: 1
+  - Debt service references: 24
+  - Potential debt tables: 8
+  - Status: Found potential total COP debt figures, Found debt service amounts, Found 8 potential debt tables
+
+FY 2022:
+  - Total debt references: 1
+  - Debt service references: 29
+  - Potential debt tables: 8
+  - Status: Found potential total COP debt figures, Found debt service amounts, Found 8 potential debt tables
+
+FY Unknown:
+  - Total debt references: 1
+  - Debt service references: 28
+  - Potential debt tables: 8
+  - Status: Found potential total COP debt figures, Found debt service amounts, Found 8 potential debt tables
+
+FY Unknown:
+  - Total debt references: 1
+  - Debt service references: 28
+  - Potential debt tables: 9
+  - Status: Found potential total COP debt figures, Found debt service amounts, Found 9 potential debt tables
+
+CROSS-YEAR PATTERNS:
+------------------------------
+Years with COP data: 2021, 2022, 2020, 2014, 2015, 2016, 2019, 2019, Unknown, Unknown
+Common COP series found: er, ms, es
+
+DATA QUALITY SCORES BY YEAR:
+------------------------------
+FY 2014: 28 (higher = more data found)
+FY 2015: 33 (higher = more data found)
+FY 2016: 33 (higher = more data found)
+FY 2019: 32 (higher = more data found)
+FY 2020: 35 (higher = more data found)
+FY 2021: 33 (higher = more data found)
+FY 2022: 38 (higher = more data found)
+FY Unknown: 38 (higher = more data found)
+
+RECOMMENDATIONS:
+------------------------------
+1. Focus manual extraction on years with highest quality scores
+2. Look for debt service schedules in table sections
+3. Cross-reference COP series across multiple years
+4. Pay attention to years showing significant debt increases
+
+NEXT STEPS:
+------------------------------
+1. Review individual extracted files for the most promising years
+2. Use manual extraction templates for detailed data entry
+3. Focus on total outstanding debt and annual debt service figures
+4. Update the COP data processor with real financial data

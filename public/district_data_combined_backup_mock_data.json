@@ -1,0 +1,3549 @@
+{
+  "Denver County 1": {
+    "enrollment_trends": [
+      {
+        "year": "2014",
+        "enrollment": 851,
+        "frl": 87
+      },
+      {
+        "year": "2015",
+        "enrollment": 2069,
+        "frl": 87
+      },
+      {
+        "year": "2016",
+        "enrollment": 5278,
+        "frl": 67
+      },
+      {
+        "year": "2017",
+        "enrollment": 965,
+        "frl": 70
+      },
+      {
+        "year": "2018",
+        "enrollment": 697,
+        "frl": 74
+      },
+      {
+        "year": "2019",
+        "enrollment": 5007,
+        "frl": 65
+      },
+      {
+        "year": "2020",
+        "enrollment": 4457,
+        "frl": 55
+      },
+      {
+        "year": "2021",
+        "enrollment": 1127,
+        "frl": 92
+      },
+      {
+        "year": "2022",
+        "enrollment": 2989,
+        "frl": 79
+      },
+      {
+        "year": "2023",
+        "enrollment": 4090,
+        "frl": 22
+      },
+      {
+        "year": "2024",
+        "enrollment": 4037,
+        "frl": 28
+      },
+      {
+        "year": "2025",
+        "enrollment": 3712,
+        "frl": 65
+      }
+    ],
+    "cmas_scores": [
+      {
+        "year": "2015",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 61
+      },
+      {
+        "year": "2015",
+        "subject": "Math",
+        "met_or_exceeded_pct": 94
+      },
+      {
+        "year": "2015",
+        "subject": "Science",
+        "met_or_exceeded_pct": 66
+      },
+      {
+        "year": "2016",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 52
+      },
+      {
+        "year": "2016",
+        "subject": "Math",
+        "met_or_exceeded_pct": 59
+      },
+      {
+        "year": "2016",
+        "subject": "Science",
+        "met_or_exceeded_pct": 72
+      },
+      {
+        "year": "2017",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 87
+      },
+      {
+        "year": "2017",
+        "subject": "Math",
+        "met_or_exceeded_pct": 42
+      },
+      {
+        "year": "2017",
+        "subject": "Science",
+        "met_or_exceeded_pct": 66
+      },
+      {
+        "year": "2018",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 64
+      },
+      {
+        "year": "2018",
+        "subject": "Math",
+        "met_or_exceeded_pct": 81
+      },
+      {
+        "year": "2018",
+        "subject": "Science",
+        "met_or_exceeded_pct": 98
+      },
+      {
+        "year": "2019",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 68
+      },
+      {
+        "year": "2019",
+        "subject": "Math",
+        "met_or_exceeded_pct": 39
+      },
+      {
+        "year": "2019",
+        "subject": "Science",
+        "met_or_exceeded_pct": 55
+      },
+      {
+        "year": "2020",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 72
+      },
+      {
+        "year": "2020",
+        "subject": "Math",
+        "met_or_exceeded_pct": 79
+      },
+      {
+        "year": "2020",
+        "subject": "Science",
+        "met_or_exceeded_pct": 74
+      },
+      {
+        "year": "2021",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 98
+      },
+      {
+        "year": "2021",
+        "subject": "Math",
+        "met_or_exceeded_pct": 81
+      },
+      {
+        "year": "2021",
+        "subject": "Science",
+        "met_or_exceeded_pct": 86
+      },
+      {
+        "year": "2022",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 55
+      },
+      {
+        "year": "2022",
+        "subject": "Math",
+        "met_or_exceeded_pct": 35
+      },
+      {
+        "year": "2022",
+        "subject": "Science",
+        "met_or_exceeded_pct": 94
+      },
+      {
+        "year": "2023",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 43
+      },
+      {
+        "year": "2023",
+        "subject": "Math",
+        "met_or_exceeded_pct": 98
+      },
+      {
+        "year": "2023",
+        "subject": "Science",
+        "met_or_exceeded_pct": 62
+      }
+    ]
+  },
+  "Jefferson County R-1": {
+    "enrollment_trends": [
+      {
+        "year": "2014",
+        "enrollment": 4506,
+        "frl": 64
+      },
+      {
+        "year": "2015",
+        "enrollment": 2300,
+        "frl": 48
+      },
+      {
+        "year": "2016",
+        "enrollment": 1167,
+        "frl": 37
+      },
+      {
+        "year": "2017",
+        "enrollment": 1653,
+        "frl": 71
+      },
+      {
+        "year": "2018",
+        "enrollment": 2251,
+        "frl": 45
+      },
+      {
+        "year": "2019",
+        "enrollment": 1169,
+        "frl": 82
+      },
+      {
+        "year": "2020",
+        "enrollment": 2567,
+        "frl": 34
+      },
+      {
+        "year": "2021",
+        "enrollment": 1094,
+        "frl": 68
+      },
+      {
+        "year": "2022",
+        "enrollment": 3189,
+        "frl": 21
+      },
+      {
+        "year": "2023",
+        "enrollment": 4318,
+        "frl": 29
+      },
+      {
+        "year": "2024",
+        "enrollment": 684,
+        "frl": 24
+      },
+      {
+        "year": "2025",
+        "enrollment": 4082,
+        "frl": 56
+      }
+    ],
+    "cmas_scores": [
+      {
+        "year": "2015",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 43
+      },
+      {
+        "year": "2015",
+        "subject": "Math",
+        "met_or_exceeded_pct": 82
+      },
+      {
+        "year": "2015",
+        "subject": "Science",
+        "met_or_exceeded_pct": 57
+      },
+      {
+        "year": "2016",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 53
+      },
+      {
+        "year": "2016",
+        "subject": "Math",
+        "met_or_exceeded_pct": 90
+      },
+      {
+        "year": "2016",
+        "subject": "Science",
+        "met_or_exceeded_pct": 41
+      },
+      {
+        "year": "2017",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 96
+      },
+      {
+        "year": "2017",
+        "subject": "Math",
+        "met_or_exceeded_pct": 77
+      },
+      {
+        "year": "2017",
+        "subject": "Science",
+        "met_or_exceeded_pct": 80
+      },
+      {
+        "year": "2018",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 74
+      },
+      {
+        "year": "2018",
+        "subject": "Math",
+        "met_or_exceeded_pct": 57
+      },
+      {
+        "year": "2018",
+        "subject": "Science",
+        "met_or_exceeded_pct": 47
+      },
+      {
+        "year": "2019",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 34
+      },
+      {
+        "year": "2019",
+        "subject": "Math",
+        "met_or_exceeded_pct": 83
+      },
+      {
+        "year": "2019",
+        "subject": "Science",
+        "met_or_exceeded_pct": 91
+      },
+      {
+        "year": "2020",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 61
+      },
+      {
+        "year": "2020",
+        "subject": "Math",
+        "met_or_exceeded_pct": 38
+      },
+      {
+        "year": "2020",
+        "subject": "Science",
+        "met_or_exceeded_pct": 88
+      },
+      {
+        "year": "2021",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 71
+      },
+      {
+        "year": "2021",
+        "subject": "Math",
+        "met_or_exceeded_pct": 72
+      },
+      {
+        "year": "2021",
+        "subject": "Science",
+        "met_or_exceeded_pct": 68
+      },
+      {
+        "year": "2022",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 86
+      },
+      {
+        "year": "2022",
+        "subject": "Math",
+        "met_or_exceeded_pct": 89
+      },
+      {
+        "year": "2022",
+        "subject": "Science",
+        "met_or_exceeded_pct": 93
+      },
+      {
+        "year": "2023",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 51
+      },
+      {
+        "year": "2023",
+        "subject": "Math",
+        "met_or_exceeded_pct": 36
+      },
+      {
+        "year": "2023",
+        "subject": "Science",
+        "met_or_exceeded_pct": 57
+      }
+    ]
+  },
+  "Cherry Creek 5": {
+    "enrollment_trends": [
+      {
+        "year": "2014",
+        "enrollment": 4237,
+        "frl": 40
+      },
+      {
+        "year": "2015",
+        "enrollment": 2525,
+        "frl": 25
+      },
+      {
+        "year": "2016",
+        "enrollment": 4896,
+        "frl": 61
+      },
+      {
+        "year": "2017",
+        "enrollment": 4373,
+        "frl": 51
+      },
+      {
+        "year": "2018",
+        "enrollment": 2081,
+        "frl": 34
+      },
+      {
+        "year": "2019",
+        "enrollment": 4443,
+        "frl": 59
+      },
+      {
+        "year": "2020",
+        "enrollment": 1545,
+        "frl": 50
+      },
+      {
+        "year": "2021",
+        "enrollment": 5486,
+        "frl": 43
+      },
+      {
+        "year": "2022",
+        "enrollment": 1511,
+        "frl": 21
+      },
+      {
+        "year": "2023",
+        "enrollment": 658,
+        "frl": 75
+      },
+      {
+        "year": "2024",
+        "enrollment": 4337,
+        "frl": 55
+      },
+      {
+        "year": "2025",
+        "enrollment": 4206,
+        "frl": 62
+      }
+    ],
+    "cmas_scores": [
+      {
+        "year": "2015",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 31
+      },
+      {
+        "year": "2015",
+        "subject": "Math",
+        "met_or_exceeded_pct": 91
+      },
+      {
+        "year": "2015",
+        "subject": "Science",
+        "met_or_exceeded_pct": 32
+      },
+      {
+        "year": "2016",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 55
+      },
+      {
+        "year": "2016",
+        "subject": "Math",
+        "met_or_exceeded_pct": 95
+      },
+      {
+        "year": "2016",
+        "subject": "Science",
+        "met_or_exceeded_pct": 62
+      },
+      {
+        "year": "2017",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 60
+      },
+      {
+        "year": "2017",
+        "subject": "Math",
+        "met_or_exceeded_pct": 76
+      },
+      {
+        "year": "2017",
+        "subject": "Science",
+        "met_or_exceeded_pct": 46
+      },
+      {
+        "year": "2018",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 66
+      },
+      {
+        "year": "2018",
+        "subject": "Math",
+        "met_or_exceeded_pct": 45
+      },
+      {
+        "year": "2018",
+        "subject": "Science",
+        "met_or_exceeded_pct": 89
+      },
+      {
+        "year": "2019",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 98
+      },
+      {
+        "year": "2019",
+        "subject": "Math",
+        "met_or_exceeded_pct": 71
+      },
+      {
+        "year": "2019",
+        "subject": "Science",
+        "met_or_exceeded_pct": 77
+      },
+      {
+        "year": "2020",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 40
+      },
+      {
+        "year": "2020",
+        "subject": "Math",
+        "met_or_exceeded_pct": 50
+      },
+      {
+        "year": "2020",
+        "subject": "Science",
+        "met_or_exceeded_pct": 83
+      },
+      {
+        "year": "2021",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 53
+      },
+      {
+        "year": "2021",
+        "subject": "Math",
+        "met_or_exceeded_pct": 58
+      },
+      {
+        "year": "2021",
+        "subject": "Science",
+        "met_or_exceeded_pct": 96
+      },
+      {
+        "year": "2022",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 89
+      },
+      {
+        "year": "2022",
+        "subject": "Math",
+        "met_or_exceeded_pct": 96
+      },
+      {
+        "year": "2022",
+        "subject": "Science",
+        "met_or_exceeded_pct": 97
+      },
+      {
+        "year": "2023",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 86
+      },
+      {
+        "year": "2023",
+        "subject": "Math",
+        "met_or_exceeded_pct": 74
+      },
+      {
+        "year": "2023",
+        "subject": "Science",
+        "met_or_exceeded_pct": 49
+      }
+    ]
+  },
+  "Adams 12 Five Star": {
+    "enrollment_trends": [
+      {
+        "year": "2014",
+        "enrollment": 3576,
+        "frl": 69
+      },
+      {
+        "year": "2015",
+        "enrollment": 4538,
+        "frl": 91
+      },
+      {
+        "year": "2016",
+        "enrollment": 4108,
+        "frl": 47
+      },
+      {
+        "year": "2017",
+        "enrollment": 2713,
+        "frl": 28
+      },
+      {
+        "year": "2018",
+        "enrollment": 4217,
+        "frl": 67
+      },
+      {
+        "year": "2019",
+        "enrollment": 2780,
+        "frl": 22
+      },
+      {
+        "year": "2020",
+        "enrollment": 1239,
+        "frl": 74
+      },
+      {
+        "year": "2021",
+        "enrollment": 784,
+        "frl": 88
+      },
+      {
+        "year": "2022",
+        "enrollment": 767,
+        "frl": 40
+      },
+      {
+        "year": "2023",
+        "enrollment": 5363,
+        "frl": 66
+      },
+      {
+        "year": "2024",
+        "enrollment": 4450,
+        "frl": 90
+      },
+      {
+        "year": "2025",
+        "enrollment": 5434,
+        "frl": 79
+      }
+    ],
+    "cmas_scores": [
+      {
+        "year": "2015",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 72
+      },
+      {
+        "year": "2015",
+        "subject": "Math",
+        "met_or_exceeded_pct": 36
+      },
+      {
+        "year": "2015",
+        "subject": "Science",
+        "met_or_exceeded_pct": 77
+      },
+      {
+        "year": "2016",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 47
+      },
+      {
+        "year": "2016",
+        "subject": "Math",
+        "met_or_exceeded_pct": 46
+      },
+      {
+        "year": "2016",
+        "subject": "Science",
+        "met_or_exceeded_pct": 32
+      },
+      {
+        "year": "2017",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 69
+      },
+      {
+        "year": "2017",
+        "subject": "Math",
+        "met_or_exceeded_pct": 75
+      },
+      {
+        "year": "2017",
+        "subject": "Science",
+        "met_or_exceeded_pct": 75
+      },
+      {
+        "year": "2018",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 35
+      },
+      {
+        "year": "2018",
+        "subject": "Math",
+        "met_or_exceeded_pct": 75
+      },
+      {
+        "year": "2018",
+        "subject": "Science",
+        "met_or_exceeded_pct": 55
+      },
+      {
+        "year": "2019",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 94
+      },
+      {
+        "year": "2019",
+        "subject": "Math",
+        "met_or_exceeded_pct": 57
+      },
+      {
+        "year": "2019",
+        "subject": "Science",
+        "met_or_exceeded_pct": 64
+      },
+      {
+        "year": "2020",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 32
+      },
+      {
+        "year": "2020",
+        "subject": "Math",
+        "met_or_exceeded_pct": 60
+      },
+      {
+        "year": "2020",
+        "subject": "Science",
+        "met_or_exceeded_pct": 34
+      },
+      {
+        "year": "2021",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 56
+      },
+      {
+        "year": "2021",
+        "subject": "Math",
+        "met_or_exceeded_pct": 88
+      },
+      {
+        "year": "2021",
+        "subject": "Science",
+        "met_or_exceeded_pct": 95
+      },
+      {
+        "year": "2022",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 74
+      },
+      {
+        "year": "2022",
+        "subject": "Math",
+        "met_or_exceeded_pct": 48
+      },
+      {
+        "year": "2022",
+        "subject": "Science",
+        "met_or_exceeded_pct": 95
+      },
+      {
+        "year": "2023",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 66
+      },
+      {
+        "year": "2023",
+        "subject": "Math",
+        "met_or_exceeded_pct": 55
+      },
+      {
+        "year": "2023",
+        "subject": "Science",
+        "met_or_exceeded_pct": 66
+      }
+    ]
+  },
+  "Adams County 14": {
+    "enrollment_trends": [
+      {
+        "year": "2014",
+        "enrollment": 669,
+        "frl": 97
+      },
+      {
+        "year": "2015",
+        "enrollment": 3068,
+        "frl": 81
+      },
+      {
+        "year": "2016",
+        "enrollment": 3932,
+        "frl": 82
+      },
+      {
+        "year": "2017",
+        "enrollment": 5135,
+        "frl": 85
+      },
+      {
+        "year": "2018",
+        "enrollment": 4661,
+        "frl": 84
+      },
+      {
+        "year": "2019",
+        "enrollment": 4755,
+        "frl": 22
+      },
+      {
+        "year": "2020",
+        "enrollment": 541,
+        "frl": 54
+      },
+      {
+        "year": "2021",
+        "enrollment": 769,
+        "frl": 67
+      },
+      {
+        "year": "2022",
+        "enrollment": 514,
+        "frl": 69
+      },
+      {
+        "year": "2023",
+        "enrollment": 2295,
+        "frl": 99
+      },
+      {
+        "year": "2024",
+        "enrollment": 1918,
+        "frl": 93
+      },
+      {
+        "year": "2025",
+        "enrollment": 3309,
+        "frl": 31
+      }
+    ],
+    "cmas_scores": [
+      {
+        "year": "2015",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 76
+      },
+      {
+        "year": "2015",
+        "subject": "Math",
+        "met_or_exceeded_pct": 43
+      },
+      {
+        "year": "2015",
+        "subject": "Science",
+        "met_or_exceeded_pct": 47
+      },
+      {
+        "year": "2016",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 41
+      },
+      {
+        "year": "2016",
+        "subject": "Math",
+        "met_or_exceeded_pct": 68
+      },
+      {
+        "year": "2016",
+        "subject": "Science",
+        "met_or_exceeded_pct": 38
+      },
+      {
+        "year": "2017",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 86
+      },
+      {
+        "year": "2017",
+        "subject": "Math",
+        "met_or_exceeded_pct": 30
+      },
+      {
+        "year": "2017",
+        "subject": "Science",
+        "met_or_exceeded_pct": 33
+      },
+      {
+        "year": "2018",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 69
+      },
+      {
+        "year": "2018",
+        "subject": "Math",
+        "met_or_exceeded_pct": 87
+      },
+      {
+        "year": "2018",
+        "subject": "Science",
+        "met_or_exceeded_pct": 75
+      },
+      {
+        "year": "2019",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 43
+      },
+      {
+        "year": "2019",
+        "subject": "Math",
+        "met_or_exceeded_pct": 71
+      },
+      {
+        "year": "2019",
+        "subject": "Science",
+        "met_or_exceeded_pct": 57
+      },
+      {
+        "year": "2020",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 31
+      },
+      {
+        "year": "2020",
+        "subject": "Math",
+        "met_or_exceeded_pct": 78
+      },
+      {
+        "year": "2020",
+        "subject": "Science",
+        "met_or_exceeded_pct": 86
+      },
+      {
+        "year": "2021",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 50
+      },
+      {
+        "year": "2021",
+        "subject": "Math",
+        "met_or_exceeded_pct": 52
+      },
+      {
+        "year": "2021",
+        "subject": "Science",
+        "met_or_exceeded_pct": 45
+      },
+      {
+        "year": "2022",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 62
+      },
+      {
+        "year": "2022",
+        "subject": "Math",
+        "met_or_exceeded_pct": 89
+      },
+      {
+        "year": "2022",
+        "subject": "Science",
+        "met_or_exceeded_pct": 51
+      },
+      {
+        "year": "2023",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 88
+      },
+      {
+        "year": "2023",
+        "subject": "Math",
+        "met_or_exceeded_pct": 61
+      },
+      {
+        "year": "2023",
+        "subject": "Science",
+        "met_or_exceeded_pct": 45
+      }
+    ]
+  },
+  "Mapleton 1": {
+    "enrollment_trends": [
+      {
+        "year": "2014",
+        "enrollment": 2395,
+        "frl": 44
+      },
+      {
+        "year": "2015",
+        "enrollment": 826,
+        "frl": 96
+      },
+      {
+        "year": "2016",
+        "enrollment": 2784,
+        "frl": 85
+      },
+      {
+        "year": "2017",
+        "enrollment": 1277,
+        "frl": 64
+      },
+      {
+        "year": "2018",
+        "enrollment": 5477,
+        "frl": 83
+      },
+      {
+        "year": "2019",
+        "enrollment": 3243,
+        "frl": 50
+      },
+      {
+        "year": "2020",
+        "enrollment": 1476,
+        "frl": 94
+      },
+      {
+        "year": "2021",
+        "enrollment": 2848,
+        "frl": 35
+      },
+      {
+        "year": "2022",
+        "enrollment": 2266,
+        "frl": 43
+      },
+      {
+        "year": "2023",
+        "enrollment": 3765,
+        "frl": 96
+      },
+      {
+        "year": "2024",
+        "enrollment": 5105,
+        "frl": 33
+      },
+      {
+        "year": "2025",
+        "enrollment": 5468,
+        "frl": 76
+      }
+    ],
+    "cmas_scores": [
+      {
+        "year": "2015",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 55
+      },
+      {
+        "year": "2015",
+        "subject": "Math",
+        "met_or_exceeded_pct": 34
+      },
+      {
+        "year": "2015",
+        "subject": "Science",
+        "met_or_exceeded_pct": 87
+      },
+      {
+        "year": "2016",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 78
+      },
+      {
+        "year": "2016",
+        "subject": "Math",
+        "met_or_exceeded_pct": 90
+      },
+      {
+        "year": "2016",
+        "subject": "Science",
+        "met_or_exceeded_pct": 63
+      },
+      {
+        "year": "2017",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 40
+      },
+      {
+        "year": "2017",
+        "subject": "Math",
+        "met_or_exceeded_pct": 57
+      },
+      {
+        "year": "2017",
+        "subject": "Science",
+        "met_or_exceeded_pct": 33
+      },
+      {
+        "year": "2018",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 94
+      },
+      {
+        "year": "2018",
+        "subject": "Math",
+        "met_or_exceeded_pct": 31
+      },
+      {
+        "year": "2018",
+        "subject": "Science",
+        "met_or_exceeded_pct": 59
+      },
+      {
+        "year": "2019",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 73
+      },
+      {
+        "year": "2019",
+        "subject": "Math",
+        "met_or_exceeded_pct": 79
+      },
+      {
+        "year": "2019",
+        "subject": "Science",
+        "met_or_exceeded_pct": 93
+      },
+      {
+        "year": "2020",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 47
+      },
+      {
+        "year": "2020",
+        "subject": "Math",
+        "met_or_exceeded_pct": 79
+      },
+      {
+        "year": "2020",
+        "subject": "Science",
+        "met_or_exceeded_pct": 77
+      },
+      {
+        "year": "2021",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 72
+      },
+      {
+        "year": "2021",
+        "subject": "Math",
+        "met_or_exceeded_pct": 59
+      },
+      {
+        "year": "2021",
+        "subject": "Science",
+        "met_or_exceeded_pct": 84
+      },
+      {
+        "year": "2022",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 52
+      },
+      {
+        "year": "2022",
+        "subject": "Math",
+        "met_or_exceeded_pct": 53
+      },
+      {
+        "year": "2022",
+        "subject": "Science",
+        "met_or_exceeded_pct": 43
+      },
+      {
+        "year": "2023",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 95
+      },
+      {
+        "year": "2023",
+        "subject": "Math",
+        "met_or_exceeded_pct": 62
+      },
+      {
+        "year": "2023",
+        "subject": "Science",
+        "met_or_exceeded_pct": 83
+      }
+    ]
+  },
+  "Adams-Arapahoe 28J": {
+    "enrollment_trends": [
+      {
+        "year": "2014",
+        "enrollment": 4820,
+        "frl": 47
+      },
+      {
+        "year": "2015",
+        "enrollment": 1634,
+        "frl": 59
+      },
+      {
+        "year": "2016",
+        "enrollment": 709,
+        "frl": 31
+      },
+      {
+        "year": "2017",
+        "enrollment": 2833,
+        "frl": 91
+      },
+      {
+        "year": "2018",
+        "enrollment": 2511,
+        "frl": 89
+      },
+      {
+        "year": "2019",
+        "enrollment": 3517,
+        "frl": 49
+      },
+      {
+        "year": "2020",
+        "enrollment": 3047,
+        "frl": 39
+      },
+      {
+        "year": "2021",
+        "enrollment": 1117,
+        "frl": 88
+      },
+      {
+        "year": "2022",
+        "enrollment": 921,
+        "frl": 75
+      },
+      {
+        "year": "2023",
+        "enrollment": 538,
+        "frl": 73
+      },
+      {
+        "year": "2024",
+        "enrollment": 4952,
+        "frl": 47
+      },
+      {
+        "year": "2025",
+        "enrollment": 1274,
+        "frl": 68
+      }
+    ],
+    "cmas_scores": [
+      {
+        "year": "2015",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 89
+      },
+      {
+        "year": "2015",
+        "subject": "Math",
+        "met_or_exceeded_pct": 58
+      },
+      {
+        "year": "2015",
+        "subject": "Science",
+        "met_or_exceeded_pct": 73
+      },
+      {
+        "year": "2016",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 64
+      },
+      {
+        "year": "2016",
+        "subject": "Math",
+        "met_or_exceeded_pct": 92
+      },
+      {
+        "year": "2016",
+        "subject": "Science",
+        "met_or_exceeded_pct": 84
+      },
+      {
+        "year": "2017",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 85
+      },
+      {
+        "year": "2017",
+        "subject": "Math",
+        "met_or_exceeded_pct": 43
+      },
+      {
+        "year": "2017",
+        "subject": "Science",
+        "met_or_exceeded_pct": 44
+      },
+      {
+        "year": "2018",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 46
+      },
+      {
+        "year": "2018",
+        "subject": "Math",
+        "met_or_exceeded_pct": 87
+      },
+      {
+        "year": "2018",
+        "subject": "Science",
+        "met_or_exceeded_pct": 95
+      },
+      {
+        "year": "2019",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 69
+      },
+      {
+        "year": "2019",
+        "subject": "Math",
+        "met_or_exceeded_pct": 89
+      },
+      {
+        "year": "2019",
+        "subject": "Science",
+        "met_or_exceeded_pct": 46
+      },
+      {
+        "year": "2020",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 38
+      },
+      {
+        "year": "2020",
+        "subject": "Math",
+        "met_or_exceeded_pct": 69
+      },
+      {
+        "year": "2020",
+        "subject": "Science",
+        "met_or_exceeded_pct": 77
+      },
+      {
+        "year": "2021",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 67
+      },
+      {
+        "year": "2021",
+        "subject": "Math",
+        "met_or_exceeded_pct": 52
+      },
+      {
+        "year": "2021",
+        "subject": "Science",
+        "met_or_exceeded_pct": 60
+      },
+      {
+        "year": "2022",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 89
+      },
+      {
+        "year": "2022",
+        "subject": "Math",
+        "met_or_exceeded_pct": 52
+      },
+      {
+        "year": "2022",
+        "subject": "Science",
+        "met_or_exceeded_pct": 86
+      },
+      {
+        "year": "2023",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 47
+      },
+      {
+        "year": "2023",
+        "subject": "Math",
+        "met_or_exceeded_pct": 99
+      },
+      {
+        "year": "2023",
+        "subject": "Science",
+        "met_or_exceeded_pct": 60
+      }
+    ]
+  },
+  "Aspen 1": {
+    "enrollment_trends": [
+      {
+        "year": "2014",
+        "enrollment": 4774,
+        "frl": 67
+      },
+      {
+        "year": "2015",
+        "enrollment": 2320,
+        "frl": 45
+      },
+      {
+        "year": "2016",
+        "enrollment": 2939,
+        "frl": 33
+      },
+      {
+        "year": "2017",
+        "enrollment": 2070,
+        "frl": 29
+      },
+      {
+        "year": "2018",
+        "enrollment": 4914,
+        "frl": 21
+      },
+      {
+        "year": "2019",
+        "enrollment": 4784,
+        "frl": 48
+      },
+      {
+        "year": "2020",
+        "enrollment": 2925,
+        "frl": 88
+      },
+      {
+        "year": "2021",
+        "enrollment": 2951,
+        "frl": 66
+      },
+      {
+        "year": "2022",
+        "enrollment": 1009,
+        "frl": 90
+      },
+      {
+        "year": "2023",
+        "enrollment": 3035,
+        "frl": 97
+      },
+      {
+        "year": "2024",
+        "enrollment": 4836,
+        "frl": 89
+      },
+      {
+        "year": "2025",
+        "enrollment": 4693,
+        "frl": 45
+      }
+    ],
+    "cmas_scores": [
+      {
+        "year": "2015",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 94
+      },
+      {
+        "year": "2015",
+        "subject": "Math",
+        "met_or_exceeded_pct": 54
+      },
+      {
+        "year": "2015",
+        "subject": "Science",
+        "met_or_exceeded_pct": 66
+      },
+      {
+        "year": "2016",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 66
+      },
+      {
+        "year": "2016",
+        "subject": "Math",
+        "met_or_exceeded_pct": 52
+      },
+      {
+        "year": "2016",
+        "subject": "Science",
+        "met_or_exceeded_pct": 43
+      },
+      {
+        "year": "2017",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 74
+      },
+      {
+        "year": "2017",
+        "subject": "Math",
+        "met_or_exceeded_pct": 42
+      },
+      {
+        "year": "2017",
+        "subject": "Science",
+        "met_or_exceeded_pct": 42
+      },
+      {
+        "year": "2018",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 34
+      },
+      {
+        "year": "2018",
+        "subject": "Math",
+        "met_or_exceeded_pct": 74
+      },
+      {
+        "year": "2018",
+        "subject": "Science",
+        "met_or_exceeded_pct": 37
+      },
+      {
+        "year": "2019",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 35
+      },
+      {
+        "year": "2019",
+        "subject": "Math",
+        "met_or_exceeded_pct": 30
+      },
+      {
+        "year": "2019",
+        "subject": "Science",
+        "met_or_exceeded_pct": 60
+      },
+      {
+        "year": "2020",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 59
+      },
+      {
+        "year": "2020",
+        "subject": "Math",
+        "met_or_exceeded_pct": 60
+      },
+      {
+        "year": "2020",
+        "subject": "Science",
+        "met_or_exceeded_pct": 71
+      },
+      {
+        "year": "2021",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 38
+      },
+      {
+        "year": "2021",
+        "subject": "Math",
+        "met_or_exceeded_pct": 57
+      },
+      {
+        "year": "2021",
+        "subject": "Science",
+        "met_or_exceeded_pct": 39
+      },
+      {
+        "year": "2022",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 40
+      },
+      {
+        "year": "2022",
+        "subject": "Math",
+        "met_or_exceeded_pct": 92
+      },
+      {
+        "year": "2022",
+        "subject": "Science",
+        "met_or_exceeded_pct": 50
+      },
+      {
+        "year": "2023",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 98
+      },
+      {
+        "year": "2023",
+        "subject": "Math",
+        "met_or_exceeded_pct": 85
+      },
+      {
+        "year": "2023",
+        "subject": "Science",
+        "met_or_exceeded_pct": 54
+      }
+    ]
+  },
+  "Boulder Valley RE-2": {
+    "enrollment_trends": [
+      {
+        "year": "2014",
+        "enrollment": 2340,
+        "frl": 84
+      },
+      {
+        "year": "2015",
+        "enrollment": 4697,
+        "frl": 25
+      },
+      {
+        "year": "2016",
+        "enrollment": 1596,
+        "frl": 29
+      },
+      {
+        "year": "2017",
+        "enrollment": 5132,
+        "frl": 97
+      },
+      {
+        "year": "2018",
+        "enrollment": 3195,
+        "frl": 63
+      },
+      {
+        "year": "2019",
+        "enrollment": 4701,
+        "frl": 39
+      },
+      {
+        "year": "2020",
+        "enrollment": 699,
+        "frl": 83
+      },
+      {
+        "year": "2021",
+        "enrollment": 4010,
+        "frl": 66
+      },
+      {
+        "year": "2022",
+        "enrollment": 2581,
+        "frl": 80
+      },
+      {
+        "year": "2023",
+        "enrollment": 2411,
+        "frl": 84
+      },
+      {
+        "year": "2024",
+        "enrollment": 1013,
+        "frl": 66
+      },
+      {
+        "year": "2025",
+        "enrollment": 1359,
+        "frl": 53
+      }
+    ],
+    "cmas_scores": [
+      {
+        "year": "2015",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 78
+      },
+      {
+        "year": "2015",
+        "subject": "Math",
+        "met_or_exceeded_pct": 39
+      },
+      {
+        "year": "2015",
+        "subject": "Science",
+        "met_or_exceeded_pct": 57
+      },
+      {
+        "year": "2016",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 35
+      },
+      {
+        "year": "2016",
+        "subject": "Math",
+        "met_or_exceeded_pct": 91
+      },
+      {
+        "year": "2016",
+        "subject": "Science",
+        "met_or_exceeded_pct": 79
+      },
+      {
+        "year": "2017",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 69
+      },
+      {
+        "year": "2017",
+        "subject": "Math",
+        "met_or_exceeded_pct": 87
+      },
+      {
+        "year": "2017",
+        "subject": "Science",
+        "met_or_exceeded_pct": 49
+      },
+      {
+        "year": "2018",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 99
+      },
+      {
+        "year": "2018",
+        "subject": "Math",
+        "met_or_exceeded_pct": 90
+      },
+      {
+        "year": "2018",
+        "subject": "Science",
+        "met_or_exceeded_pct": 54
+      },
+      {
+        "year": "2019",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 51
+      },
+      {
+        "year": "2019",
+        "subject": "Math",
+        "met_or_exceeded_pct": 94
+      },
+      {
+        "year": "2019",
+        "subject": "Science",
+        "met_or_exceeded_pct": 83
+      },
+      {
+        "year": "2020",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 45
+      },
+      {
+        "year": "2020",
+        "subject": "Math",
+        "met_or_exceeded_pct": 85
+      },
+      {
+        "year": "2020",
+        "subject": "Science",
+        "met_or_exceeded_pct": 79
+      },
+      {
+        "year": "2021",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 52
+      },
+      {
+        "year": "2021",
+        "subject": "Math",
+        "met_or_exceeded_pct": 76
+      },
+      {
+        "year": "2021",
+        "subject": "Science",
+        "met_or_exceeded_pct": 80
+      },
+      {
+        "year": "2022",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 58
+      },
+      {
+        "year": "2022",
+        "subject": "Math",
+        "met_or_exceeded_pct": 71
+      },
+      {
+        "year": "2022",
+        "subject": "Science",
+        "met_or_exceeded_pct": 88
+      },
+      {
+        "year": "2023",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 37
+      },
+      {
+        "year": "2023",
+        "subject": "Math",
+        "met_or_exceeded_pct": 73
+      },
+      {
+        "year": "2023",
+        "subject": "Science",
+        "met_or_exceeded_pct": 66
+      }
+    ]
+  },
+  "Telluride R-1": {
+    "enrollment_trends": [
+      {
+        "year": "2014",
+        "enrollment": 4688,
+        "frl": 48
+      },
+      {
+        "year": "2015",
+        "enrollment": 1379,
+        "frl": 61
+      },
+      {
+        "year": "2016",
+        "enrollment": 1238,
+        "frl": 77
+      },
+      {
+        "year": "2017",
+        "enrollment": 1542,
+        "frl": 96
+      },
+      {
+        "year": "2018",
+        "enrollment": 1492,
+        "frl": 31
+      },
+      {
+        "year": "2019",
+        "enrollment": 2219,
+        "frl": 59
+      },
+      {
+        "year": "2020",
+        "enrollment": 2474,
+        "frl": 54
+      },
+      {
+        "year": "2021",
+        "enrollment": 4804,
+        "frl": 86
+      },
+      {
+        "year": "2022",
+        "enrollment": 1014,
+        "frl": 79
+      },
+      {
+        "year": "2023",
+        "enrollment": 2347,
+        "frl": 76
+      },
+      {
+        "year": "2024",
+        "enrollment": 1361,
+        "frl": 31
+      },
+      {
+        "year": "2025",
+        "enrollment": 3037,
+        "frl": 75
+      }
+    ],
+    "cmas_scores": [
+      {
+        "year": "2015",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 46
+      },
+      {
+        "year": "2015",
+        "subject": "Math",
+        "met_or_exceeded_pct": 81
+      },
+      {
+        "year": "2015",
+        "subject": "Science",
+        "met_or_exceeded_pct": 46
+      },
+      {
+        "year": "2016",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 83
+      },
+      {
+        "year": "2016",
+        "subject": "Math",
+        "met_or_exceeded_pct": 36
+      },
+      {
+        "year": "2016",
+        "subject": "Science",
+        "met_or_exceeded_pct": 41
+      },
+      {
+        "year": "2017",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 94
+      },
+      {
+        "year": "2017",
+        "subject": "Math",
+        "met_or_exceeded_pct": 46
+      },
+      {
+        "year": "2017",
+        "subject": "Science",
+        "met_or_exceeded_pct": 94
+      },
+      {
+        "year": "2018",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 33
+      },
+      {
+        "year": "2018",
+        "subject": "Math",
+        "met_or_exceeded_pct": 98
+      },
+      {
+        "year": "2018",
+        "subject": "Science",
+        "met_or_exceeded_pct": 59
+      },
+      {
+        "year": "2019",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 78
+      },
+      {
+        "year": "2019",
+        "subject": "Math",
+        "met_or_exceeded_pct": 84
+      },
+      {
+        "year": "2019",
+        "subject": "Science",
+        "met_or_exceeded_pct": 91
+      },
+      {
+        "year": "2020",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 92
+      },
+      {
+        "year": "2020",
+        "subject": "Math",
+        "met_or_exceeded_pct": 95
+      },
+      {
+        "year": "2020",
+        "subject": "Science",
+        "met_or_exceeded_pct": 63
+      },
+      {
+        "year": "2021",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 53
+      },
+      {
+        "year": "2021",
+        "subject": "Math",
+        "met_or_exceeded_pct": 96
+      },
+      {
+        "year": "2021",
+        "subject": "Science",
+        "met_or_exceeded_pct": 57
+      },
+      {
+        "year": "2022",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 67
+      },
+      {
+        "year": "2022",
+        "subject": "Math",
+        "met_or_exceeded_pct": 47
+      },
+      {
+        "year": "2022",
+        "subject": "Science",
+        "met_or_exceeded_pct": 92
+      },
+      {
+        "year": "2023",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 95
+      },
+      {
+        "year": "2023",
+        "subject": "Math",
+        "met_or_exceeded_pct": 36
+      },
+      {
+        "year": "2023",
+        "subject": "Science",
+        "met_or_exceeded_pct": 33
+      }
+    ]
+  },
+  "Kit Carson R-1": {
+    "enrollment_trends": [
+      {
+        "year": "2014",
+        "enrollment": 2094,
+        "frl": 66
+      },
+      {
+        "year": "2015",
+        "enrollment": 4523,
+        "frl": 83
+      },
+      {
+        "year": "2016",
+        "enrollment": 5477,
+        "frl": 33
+      },
+      {
+        "year": "2017",
+        "enrollment": 5071,
+        "frl": 59
+      },
+      {
+        "year": "2018",
+        "enrollment": 2920,
+        "frl": 50
+      },
+      {
+        "year": "2019",
+        "enrollment": 2563,
+        "frl": 78
+      },
+      {
+        "year": "2020",
+        "enrollment": 1496,
+        "frl": 75
+      },
+      {
+        "year": "2021",
+        "enrollment": 1692,
+        "frl": 73
+      },
+      {
+        "year": "2022",
+        "enrollment": 801,
+        "frl": 87
+      },
+      {
+        "year": "2023",
+        "enrollment": 2297,
+        "frl": 31
+      },
+      {
+        "year": "2024",
+        "enrollment": 3059,
+        "frl": 98
+      },
+      {
+        "year": "2025",
+        "enrollment": 3533,
+        "frl": 63
+      }
+    ],
+    "cmas_scores": [
+      {
+        "year": "2015",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 46
+      },
+      {
+        "year": "2015",
+        "subject": "Math",
+        "met_or_exceeded_pct": 42
+      },
+      {
+        "year": "2015",
+        "subject": "Science",
+        "met_or_exceeded_pct": 88
+      },
+      {
+        "year": "2016",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 42
+      },
+      {
+        "year": "2016",
+        "subject": "Math",
+        "met_or_exceeded_pct": 73
+      },
+      {
+        "year": "2016",
+        "subject": "Science",
+        "met_or_exceeded_pct": 42
+      },
+      {
+        "year": "2017",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 76
+      },
+      {
+        "year": "2017",
+        "subject": "Math",
+        "met_or_exceeded_pct": 91
+      },
+      {
+        "year": "2017",
+        "subject": "Science",
+        "met_or_exceeded_pct": 30
+      },
+      {
+        "year": "2018",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 57
+      },
+      {
+        "year": "2018",
+        "subject": "Math",
+        "met_or_exceeded_pct": 60
+      },
+      {
+        "year": "2018",
+        "subject": "Science",
+        "met_or_exceeded_pct": 45
+      },
+      {
+        "year": "2019",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 72
+      },
+      {
+        "year": "2019",
+        "subject": "Math",
+        "met_or_exceeded_pct": 46
+      },
+      {
+        "year": "2019",
+        "subject": "Science",
+        "met_or_exceeded_pct": 47
+      },
+      {
+        "year": "2020",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 90
+      },
+      {
+        "year": "2020",
+        "subject": "Math",
+        "met_or_exceeded_pct": 72
+      },
+      {
+        "year": "2020",
+        "subject": "Science",
+        "met_or_exceeded_pct": 76
+      },
+      {
+        "year": "2021",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 41
+      },
+      {
+        "year": "2021",
+        "subject": "Math",
+        "met_or_exceeded_pct": 33
+      },
+      {
+        "year": "2021",
+        "subject": "Science",
+        "met_or_exceeded_pct": 93
+      },
+      {
+        "year": "2022",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 55
+      },
+      {
+        "year": "2022",
+        "subject": "Math",
+        "met_or_exceeded_pct": 38
+      },
+      {
+        "year": "2022",
+        "subject": "Science",
+        "met_or_exceeded_pct": 91
+      },
+      {
+        "year": "2023",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 94
+      },
+      {
+        "year": "2023",
+        "subject": "Math",
+        "met_or_exceeded_pct": 48
+      },
+      {
+        "year": "2023",
+        "subject": "Science",
+        "met_or_exceeded_pct": 48
+      }
+    ]
+  },
+  "Colorado Springs 11": {
+    "enrollment_trends": [
+      {
+        "year": "2014",
+        "enrollment": 901,
+        "frl": 27
+      },
+      {
+        "year": "2015",
+        "enrollment": 4668,
+        "frl": 35
+      },
+      {
+        "year": "2016",
+        "enrollment": 4380,
+        "frl": 66
+      },
+      {
+        "year": "2017",
+        "enrollment": 5410,
+        "frl": 85
+      },
+      {
+        "year": "2018",
+        "enrollment": 1647,
+        "frl": 82
+      },
+      {
+        "year": "2019",
+        "enrollment": 5277,
+        "frl": 33
+      },
+      {
+        "year": "2020",
+        "enrollment": 1881,
+        "frl": 72
+      },
+      {
+        "year": "2021",
+        "enrollment": 2104,
+        "frl": 61
+      },
+      {
+        "year": "2022",
+        "enrollment": 1995,
+        "frl": 65
+      },
+      {
+        "year": "2023",
+        "enrollment": 4263,
+        "frl": 46
+      },
+      {
+        "year": "2024",
+        "enrollment": 4118,
+        "frl": 22
+      },
+      {
+        "year": "2025",
+        "enrollment": 5290,
+        "frl": 52
+      }
+    ],
+    "cmas_scores": [
+      {
+        "year": "2015",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 99
+      },
+      {
+        "year": "2015",
+        "subject": "Math",
+        "met_or_exceeded_pct": 73
+      },
+      {
+        "year": "2015",
+        "subject": "Science",
+        "met_or_exceeded_pct": 64
+      },
+      {
+        "year": "2016",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 80
+      },
+      {
+        "year": "2016",
+        "subject": "Math",
+        "met_or_exceeded_pct": 65
+      },
+      {
+        "year": "2016",
+        "subject": "Science",
+        "met_or_exceeded_pct": 64
+      },
+      {
+        "year": "2017",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 39
+      },
+      {
+        "year": "2017",
+        "subject": "Math",
+        "met_or_exceeded_pct": 52
+      },
+      {
+        "year": "2017",
+        "subject": "Science",
+        "met_or_exceeded_pct": 65
+      },
+      {
+        "year": "2018",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 64
+      },
+      {
+        "year": "2018",
+        "subject": "Math",
+        "met_or_exceeded_pct": 43
+      },
+      {
+        "year": "2018",
+        "subject": "Science",
+        "met_or_exceeded_pct": 55
+      },
+      {
+        "year": "2019",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 70
+      },
+      {
+        "year": "2019",
+        "subject": "Math",
+        "met_or_exceeded_pct": 49
+      },
+      {
+        "year": "2019",
+        "subject": "Science",
+        "met_or_exceeded_pct": 59
+      },
+      {
+        "year": "2020",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 40
+      },
+      {
+        "year": "2020",
+        "subject": "Math",
+        "met_or_exceeded_pct": 40
+      },
+      {
+        "year": "2020",
+        "subject": "Science",
+        "met_or_exceeded_pct": 82
+      },
+      {
+        "year": "2021",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 30
+      },
+      {
+        "year": "2021",
+        "subject": "Math",
+        "met_or_exceeded_pct": 79
+      },
+      {
+        "year": "2021",
+        "subject": "Science",
+        "met_or_exceeded_pct": 74
+      },
+      {
+        "year": "2022",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 85
+      },
+      {
+        "year": "2022",
+        "subject": "Math",
+        "met_or_exceeded_pct": 33
+      },
+      {
+        "year": "2022",
+        "subject": "Science",
+        "met_or_exceeded_pct": 37
+      },
+      {
+        "year": "2023",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 56
+      },
+      {
+        "year": "2023",
+        "subject": "Math",
+        "met_or_exceeded_pct": 65
+      },
+      {
+        "year": "2023",
+        "subject": "Science",
+        "met_or_exceeded_pct": 50
+      }
+    ]
+  },
+  "Gunnison Watershed RE1J": {
+    "enrollment_trends": [
+      {
+        "year": "2014",
+        "enrollment": 2995,
+        "frl": 98
+      },
+      {
+        "year": "2015",
+        "enrollment": 2553,
+        "frl": 43
+      },
+      {
+        "year": "2016",
+        "enrollment": 4466,
+        "frl": 56
+      },
+      {
+        "year": "2017",
+        "enrollment": 4597,
+        "frl": 82
+      },
+      {
+        "year": "2018",
+        "enrollment": 1611,
+        "frl": 39
+      },
+      {
+        "year": "2019",
+        "enrollment": 2569,
+        "frl": 34
+      },
+      {
+        "year": "2020",
+        "enrollment": 2124,
+        "frl": 87
+      },
+      {
+        "year": "2021",
+        "enrollment": 3450,
+        "frl": 26
+      },
+      {
+        "year": "2022",
+        "enrollment": 849,
+        "frl": 44
+      },
+      {
+        "year": "2023",
+        "enrollment": 4831,
+        "frl": 39
+      },
+      {
+        "year": "2024",
+        "enrollment": 4238,
+        "frl": 79
+      },
+      {
+        "year": "2025",
+        "enrollment": 5405,
+        "frl": 61
+      }
+    ],
+    "cmas_scores": [
+      {
+        "year": "2015",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 49
+      },
+      {
+        "year": "2015",
+        "subject": "Math",
+        "met_or_exceeded_pct": 44
+      },
+      {
+        "year": "2015",
+        "subject": "Science",
+        "met_or_exceeded_pct": 62
+      },
+      {
+        "year": "2016",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 88
+      },
+      {
+        "year": "2016",
+        "subject": "Math",
+        "met_or_exceeded_pct": 71
+      },
+      {
+        "year": "2016",
+        "subject": "Science",
+        "met_or_exceeded_pct": 66
+      },
+      {
+        "year": "2017",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 41
+      },
+      {
+        "year": "2017",
+        "subject": "Math",
+        "met_or_exceeded_pct": 59
+      },
+      {
+        "year": "2017",
+        "subject": "Science",
+        "met_or_exceeded_pct": 49
+      },
+      {
+        "year": "2018",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 70
+      },
+      {
+        "year": "2018",
+        "subject": "Math",
+        "met_or_exceeded_pct": 86
+      },
+      {
+        "year": "2018",
+        "subject": "Science",
+        "met_or_exceeded_pct": 74
+      },
+      {
+        "year": "2019",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 94
+      },
+      {
+        "year": "2019",
+        "subject": "Math",
+        "met_or_exceeded_pct": 32
+      },
+      {
+        "year": "2019",
+        "subject": "Science",
+        "met_or_exceeded_pct": 32
+      },
+      {
+        "year": "2020",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 98
+      },
+      {
+        "year": "2020",
+        "subject": "Math",
+        "met_or_exceeded_pct": 32
+      },
+      {
+        "year": "2020",
+        "subject": "Science",
+        "met_or_exceeded_pct": 46
+      },
+      {
+        "year": "2021",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 33
+      },
+      {
+        "year": "2021",
+        "subject": "Math",
+        "met_or_exceeded_pct": 30
+      },
+      {
+        "year": "2021",
+        "subject": "Science",
+        "met_or_exceeded_pct": 99
+      },
+      {
+        "year": "2022",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 94
+      },
+      {
+        "year": "2022",
+        "subject": "Math",
+        "met_or_exceeded_pct": 76
+      },
+      {
+        "year": "2022",
+        "subject": "Science",
+        "met_or_exceeded_pct": 60
+      },
+      {
+        "year": "2023",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 41
+      },
+      {
+        "year": "2023",
+        "subject": "Math",
+        "met_or_exceeded_pct": 75
+      },
+      {
+        "year": "2023",
+        "subject": "Science",
+        "met_or_exceeded_pct": 99
+      }
+    ]
+  },
+  "Prairie RE-11": {
+    "enrollment_trends": [
+      {
+        "year": "2014",
+        "enrollment": 1794,
+        "frl": 82
+      },
+      {
+        "year": "2015",
+        "enrollment": 3772,
+        "frl": 76
+      },
+      {
+        "year": "2016",
+        "enrollment": 4571,
+        "frl": 84
+      },
+      {
+        "year": "2017",
+        "enrollment": 4078,
+        "frl": 95
+      },
+      {
+        "year": "2018",
+        "enrollment": 4218,
+        "frl": 36
+      },
+      {
+        "year": "2019",
+        "enrollment": 1649,
+        "frl": 91
+      },
+      {
+        "year": "2020",
+        "enrollment": 4355,
+        "frl": 50
+      },
+      {
+        "year": "2021",
+        "enrollment": 3621,
+        "frl": 69
+      },
+      {
+        "year": "2022",
+        "enrollment": 3503,
+        "frl": 78
+      },
+      {
+        "year": "2023",
+        "enrollment": 1261,
+        "frl": 21
+      },
+      {
+        "year": "2024",
+        "enrollment": 5037,
+        "frl": 87
+      },
+      {
+        "year": "2025",
+        "enrollment": 1151,
+        "frl": 39
+      }
+    ],
+    "cmas_scores": [
+      {
+        "year": "2015",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 90
+      },
+      {
+        "year": "2015",
+        "subject": "Math",
+        "met_or_exceeded_pct": 85
+      },
+      {
+        "year": "2015",
+        "subject": "Science",
+        "met_or_exceeded_pct": 34
+      },
+      {
+        "year": "2016",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 99
+      },
+      {
+        "year": "2016",
+        "subject": "Math",
+        "met_or_exceeded_pct": 44
+      },
+      {
+        "year": "2016",
+        "subject": "Science",
+        "met_or_exceeded_pct": 68
+      },
+      {
+        "year": "2017",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 68
+      },
+      {
+        "year": "2017",
+        "subject": "Math",
+        "met_or_exceeded_pct": 91
+      },
+      {
+        "year": "2017",
+        "subject": "Science",
+        "met_or_exceeded_pct": 32
+      },
+      {
+        "year": "2018",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 85
+      },
+      {
+        "year": "2018",
+        "subject": "Math",
+        "met_or_exceeded_pct": 41
+      },
+      {
+        "year": "2018",
+        "subject": "Science",
+        "met_or_exceeded_pct": 79
+      },
+      {
+        "year": "2019",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 69
+      },
+      {
+        "year": "2019",
+        "subject": "Math",
+        "met_or_exceeded_pct": 87
+      },
+      {
+        "year": "2019",
+        "subject": "Science",
+        "met_or_exceeded_pct": 97
+      },
+      {
+        "year": "2020",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 55
+      },
+      {
+        "year": "2020",
+        "subject": "Math",
+        "met_or_exceeded_pct": 61
+      },
+      {
+        "year": "2020",
+        "subject": "Science",
+        "met_or_exceeded_pct": 61
+      },
+      {
+        "year": "2021",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 64
+      },
+      {
+        "year": "2021",
+        "subject": "Math",
+        "met_or_exceeded_pct": 85
+      },
+      {
+        "year": "2021",
+        "subject": "Science",
+        "met_or_exceeded_pct": 70
+      },
+      {
+        "year": "2022",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 96
+      },
+      {
+        "year": "2022",
+        "subject": "Math",
+        "met_or_exceeded_pct": 47
+      },
+      {
+        "year": "2022",
+        "subject": "Science",
+        "met_or_exceeded_pct": 89
+      },
+      {
+        "year": "2023",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 38
+      },
+      {
+        "year": "2023",
+        "subject": "Math",
+        "met_or_exceeded_pct": 62
+      },
+      {
+        "year": "2023",
+        "subject": "Science",
+        "met_or_exceeded_pct": 97
+      }
+    ]
+  },
+  "West Grand 1-JT": {
+    "enrollment_trends": [
+      {
+        "year": "2014",
+        "enrollment": 1580,
+        "frl": 66
+      },
+      {
+        "year": "2015",
+        "enrollment": 5299,
+        "frl": 57
+      },
+      {
+        "year": "2016",
+        "enrollment": 4910,
+        "frl": 98
+      },
+      {
+        "year": "2017",
+        "enrollment": 966,
+        "frl": 68
+      },
+      {
+        "year": "2018",
+        "enrollment": 4097,
+        "frl": 82
+      },
+      {
+        "year": "2019",
+        "enrollment": 3312,
+        "frl": 39
+      },
+      {
+        "year": "2020",
+        "enrollment": 4172,
+        "frl": 59
+      },
+      {
+        "year": "2021",
+        "enrollment": 5386,
+        "frl": 47
+      },
+      {
+        "year": "2022",
+        "enrollment": 4682,
+        "frl": 49
+      },
+      {
+        "year": "2023",
+        "enrollment": 1001,
+        "frl": 43
+      },
+      {
+        "year": "2024",
+        "enrollment": 1439,
+        "frl": 82
+      },
+      {
+        "year": "2025",
+        "enrollment": 2237,
+        "frl": 43
+      }
+    ],
+    "cmas_scores": [
+      {
+        "year": "2015",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 60
+      },
+      {
+        "year": "2015",
+        "subject": "Math",
+        "met_or_exceeded_pct": 42
+      },
+      {
+        "year": "2015",
+        "subject": "Science",
+        "met_or_exceeded_pct": 81
+      },
+      {
+        "year": "2016",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 91
+      },
+      {
+        "year": "2016",
+        "subject": "Math",
+        "met_or_exceeded_pct": 89
+      },
+      {
+        "year": "2016",
+        "subject": "Science",
+        "met_or_exceeded_pct": 83
+      },
+      {
+        "year": "2017",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 35
+      },
+      {
+        "year": "2017",
+        "subject": "Math",
+        "met_or_exceeded_pct": 35
+      },
+      {
+        "year": "2017",
+        "subject": "Science",
+        "met_or_exceeded_pct": 84
+      },
+      {
+        "year": "2018",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 47
+      },
+      {
+        "year": "2018",
+        "subject": "Math",
+        "met_or_exceeded_pct": 42
+      },
+      {
+        "year": "2018",
+        "subject": "Science",
+        "met_or_exceeded_pct": 88
+      },
+      {
+        "year": "2019",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 67
+      },
+      {
+        "year": "2019",
+        "subject": "Math",
+        "met_or_exceeded_pct": 88
+      },
+      {
+        "year": "2019",
+        "subject": "Science",
+        "met_or_exceeded_pct": 30
+      },
+      {
+        "year": "2020",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 80
+      },
+      {
+        "year": "2020",
+        "subject": "Math",
+        "met_or_exceeded_pct": 66
+      },
+      {
+        "year": "2020",
+        "subject": "Science",
+        "met_or_exceeded_pct": 94
+      },
+      {
+        "year": "2021",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 93
+      },
+      {
+        "year": "2021",
+        "subject": "Math",
+        "met_or_exceeded_pct": 85
+      },
+      {
+        "year": "2021",
+        "subject": "Science",
+        "met_or_exceeded_pct": 56
+      },
+      {
+        "year": "2022",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 44
+      },
+      {
+        "year": "2022",
+        "subject": "Math",
+        "met_or_exceeded_pct": 53
+      },
+      {
+        "year": "2022",
+        "subject": "Science",
+        "met_or_exceeded_pct": 49
+      },
+      {
+        "year": "2023",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 68
+      },
+      {
+        "year": "2023",
+        "subject": "Math",
+        "met_or_exceeded_pct": 89
+      },
+      {
+        "year": "2023",
+        "subject": "Science",
+        "met_or_exceeded_pct": 30
+      }
+    ]
+  },
+  "Agate 300": {
+    "enrollment_trends": [
+      {
+        "year": "2014",
+        "enrollment": 3697,
+        "frl": 62
+      },
+      {
+        "year": "2015",
+        "enrollment": 1318,
+        "frl": 98
+      },
+      {
+        "year": "2016",
+        "enrollment": 2492,
+        "frl": 21
+      },
+      {
+        "year": "2017",
+        "enrollment": 930,
+        "frl": 40
+      },
+      {
+        "year": "2018",
+        "enrollment": 2642,
+        "frl": 46
+      },
+      {
+        "year": "2019",
+        "enrollment": 4033,
+        "frl": 54
+      },
+      {
+        "year": "2020",
+        "enrollment": 2953,
+        "frl": 39
+      },
+      {
+        "year": "2021",
+        "enrollment": 1729,
+        "frl": 43
+      },
+      {
+        "year": "2022",
+        "enrollment": 1324,
+        "frl": 47
+      },
+      {
+        "year": "2023",
+        "enrollment": 1071,
+        "frl": 78
+      },
+      {
+        "year": "2024",
+        "enrollment": 847,
+        "frl": 68
+      },
+      {
+        "year": "2025",
+        "enrollment": 2051,
+        "frl": 39
+      }
+    ],
+    "cmas_scores": "This district does not participate in CMAS"
+  },
+  "Branson Reorganized 82": {
+    "enrollment_trends": [
+      {
+        "year": "2014",
+        "enrollment": 4264,
+        "frl": 41
+      },
+      {
+        "year": "2015",
+        "enrollment": 2358,
+        "frl": 80
+      },
+      {
+        "year": "2016",
+        "enrollment": 2981,
+        "frl": 41
+      },
+      {
+        "year": "2017",
+        "enrollment": 3087,
+        "frl": 94
+      },
+      {
+        "year": "2018",
+        "enrollment": 1591,
+        "frl": 82
+      },
+      {
+        "year": "2019",
+        "enrollment": 4294,
+        "frl": 97
+      },
+      {
+        "year": "2020",
+        "enrollment": 2083,
+        "frl": 90
+      },
+      {
+        "year": "2021",
+        "enrollment": 1052,
+        "frl": 72
+      },
+      {
+        "year": "2022",
+        "enrollment": 2149,
+        "frl": 58
+      },
+      {
+        "year": "2023",
+        "enrollment": 4341,
+        "frl": 69
+      },
+      {
+        "year": "2024",
+        "enrollment": 1583,
+        "frl": 41
+      },
+      {
+        "year": "2025",
+        "enrollment": 2368,
+        "frl": 96
+      }
+    ],
+    "cmas_scores": "This district does not participate in CMAS"
+  },
+  "Pueblo City 60": {
+    "enrollment_trends": [
+      {
+        "year": "2014",
+        "enrollment": 5047,
+        "frl": 40
+      },
+      {
+        "year": "2015",
+        "enrollment": 1425,
+        "frl": 38
+      },
+      {
+        "year": "2016",
+        "enrollment": 573,
+        "frl": 63
+      },
+      {
+        "year": "2017",
+        "enrollment": 2385,
+        "frl": 50
+      },
+      {
+        "year": "2018",
+        "enrollment": 1940,
+        "frl": 62
+      },
+      {
+        "year": "2019",
+        "enrollment": 5270,
+        "frl": 39
+      },
+      {
+        "year": "2020",
+        "enrollment": 2317,
+        "frl": 29
+      },
+      {
+        "year": "2021",
+        "enrollment": 4877,
+        "frl": 89
+      },
+      {
+        "year": "2022",
+        "enrollment": 4571,
+        "frl": 74
+      },
+      {
+        "year": "2023",
+        "enrollment": 2966,
+        "frl": 73
+      },
+      {
+        "year": "2024",
+        "enrollment": 773,
+        "frl": 91
+      },
+      {
+        "year": "2025",
+        "enrollment": 952,
+        "frl": 23
+      }
+    ],
+    "cmas_scores": [
+      {
+        "year": "2015",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 73
+      },
+      {
+        "year": "2015",
+        "subject": "Math",
+        "met_or_exceeded_pct": 48
+      },
+      {
+        "year": "2015",
+        "subject": "Science",
+        "met_or_exceeded_pct": 94
+      },
+      {
+        "year": "2016",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 51
+      },
+      {
+        "year": "2016",
+        "subject": "Math",
+        "met_or_exceeded_pct": 78
+      },
+      {
+        "year": "2016",
+        "subject": "Science",
+        "met_or_exceeded_pct": 65
+      },
+      {
+        "year": "2017",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 97
+      },
+      {
+        "year": "2017",
+        "subject": "Math",
+        "met_or_exceeded_pct": 86
+      },
+      {
+        "year": "2017",
+        "subject": "Science",
+        "met_or_exceeded_pct": 40
+      },
+      {
+        "year": "2018",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 82
+      },
+      {
+        "year": "2018",
+        "subject": "Math",
+        "met_or_exceeded_pct": 43
+      },
+      {
+        "year": "2018",
+        "subject": "Science",
+        "met_or_exceeded_pct": 59
+      },
+      {
+        "year": "2019",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 98
+      },
+      {
+        "year": "2019",
+        "subject": "Math",
+        "met_or_exceeded_pct": 51
+      },
+      {
+        "year": "2019",
+        "subject": "Science",
+        "met_or_exceeded_pct": 73
+      },
+      {
+        "year": "2020",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 98
+      },
+      {
+        "year": "2020",
+        "subject": "Math",
+        "met_or_exceeded_pct": 68
+      },
+      {
+        "year": "2020",
+        "subject": "Science",
+        "met_or_exceeded_pct": 57
+      },
+      {
+        "year": "2021",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 42
+      },
+      {
+        "year": "2021",
+        "subject": "Math",
+        "met_or_exceeded_pct": 62
+      },
+      {
+        "year": "2021",
+        "subject": "Science",
+        "met_or_exceeded_pct": 43
+      },
+      {
+        "year": "2022",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 90
+      },
+      {
+        "year": "2022",
+        "subject": "Math",
+        "met_or_exceeded_pct": 83
+      },
+      {
+        "year": "2022",
+        "subject": "Science",
+        "met_or_exceeded_pct": 46
+      },
+      {
+        "year": "2023",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 75
+      },
+      {
+        "year": "2023",
+        "subject": "Math",
+        "met_or_exceeded_pct": 65
+      },
+      {
+        "year": "2023",
+        "subject": "Science",
+        "met_or_exceeded_pct": 42
+      }
+    ]
+  },
+  "Pueblo County 70": {
+    "enrollment_trends": [
+      {
+        "year": "2014",
+        "enrollment": 4387,
+        "frl": 58
+      },
+      {
+        "year": "2015",
+        "enrollment": 2553,
+        "frl": 41
+      },
+      {
+        "year": "2016",
+        "enrollment": 2229,
+        "frl": 75
+      },
+      {
+        "year": "2017",
+        "enrollment": 967,
+        "frl": 98
+      },
+      {
+        "year": "2018",
+        "enrollment": 4434,
+        "frl": 48
+      },
+      {
+        "year": "2019",
+        "enrollment": 4650,
+        "frl": 54
+      },
+      {
+        "year": "2020",
+        "enrollment": 4732,
+        "frl": 67
+      },
+      {
+        "year": "2021",
+        "enrollment": 5399,
+        "frl": 61
+      },
+      {
+        "year": "2022",
+        "enrollment": 2005,
+        "frl": 99
+      },
+      {
+        "year": "2023",
+        "enrollment": 2120,
+        "frl": 60
+      },
+      {
+        "year": "2024",
+        "enrollment": 3230,
+        "frl": 48
+      },
+      {
+        "year": "2025",
+        "enrollment": 2586,
+        "frl": 89
+      }
+    ],
+    "cmas_scores": [
+      {
+        "year": "2015",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 60
+      },
+      {
+        "year": "2015",
+        "subject": "Math",
+        "met_or_exceeded_pct": 83
+      },
+      {
+        "year": "2015",
+        "subject": "Science",
+        "met_or_exceeded_pct": 97
+      },
+      {
+        "year": "2016",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 99
+      },
+      {
+        "year": "2016",
+        "subject": "Math",
+        "met_or_exceeded_pct": 41
+      },
+      {
+        "year": "2016",
+        "subject": "Science",
+        "met_or_exceeded_pct": 64
+      },
+      {
+        "year": "2017",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 64
+      },
+      {
+        "year": "2017",
+        "subject": "Math",
+        "met_or_exceeded_pct": 80
+      },
+      {
+        "year": "2017",
+        "subject": "Science",
+        "met_or_exceeded_pct": 33
+      },
+      {
+        "year": "2018",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 91
+      },
+      {
+        "year": "2018",
+        "subject": "Math",
+        "met_or_exceeded_pct": 43
+      },
+      {
+        "year": "2018",
+        "subject": "Science",
+        "met_or_exceeded_pct": 85
+      },
+      {
+        "year": "2019",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 70
+      },
+      {
+        "year": "2019",
+        "subject": "Math",
+        "met_or_exceeded_pct": 78
+      },
+      {
+        "year": "2019",
+        "subject": "Science",
+        "met_or_exceeded_pct": 58
+      },
+      {
+        "year": "2020",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 86
+      },
+      {
+        "year": "2020",
+        "subject": "Math",
+        "met_or_exceeded_pct": 43
+      },
+      {
+        "year": "2020",
+        "subject": "Science",
+        "met_or_exceeded_pct": 64
+      },
+      {
+        "year": "2021",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 35
+      },
+      {
+        "year": "2021",
+        "subject": "Math",
+        "met_or_exceeded_pct": 88
+      },
+      {
+        "year": "2021",
+        "subject": "Science",
+        "met_or_exceeded_pct": 53
+      },
+      {
+        "year": "2022",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 46
+      },
+      {
+        "year": "2022",
+        "subject": "Math",
+        "met_or_exceeded_pct": 37
+      },
+      {
+        "year": "2022",
+        "subject": "Science",
+        "met_or_exceeded_pct": 38
+      },
+      {
+        "year": "2023",
+        "subject": "ELA",
+        "met_or_exceeded_pct": 57
+      },
+      {
+        "year": "2023",
+        "subject": "Math",
+        "met_or_exceeded_pct": 57
+      },
+      {
+        "year": "2023",
+        "subject": "Science",
+        "met_or_exceeded_pct": 63
+      }
+    ]
+  }
+}

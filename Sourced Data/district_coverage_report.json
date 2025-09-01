@@ -1,0 +1,1080 @@
+{
+  "summary": {
+    "totalInMap": 178,
+    "totalWithData": 386,
+    "totalInCMAS": 371,
+    "missingFromData": 177
+  },
+  "missingDistricts": [
+    "Academy 20 School District",
+    "Adams County 14 School District",
+    "Adams-Arapahoe 28J School District",
+    "Agate 300 School District",
+    "Aguilar Reorganized 6 School District",
+    "Akron R-1 School District",
+    "Alamosa RE-11J School District",
+    "Archuleta County 50 JT School District",
+    "Arickaree R-2 School District",
+    "Arriba-Flagler C-20 School District",
+    "Aspen 1 School District",
+    "Ault-Highland RE-9 School District",
+    "Bayfield 10 JT.-R School District",
+    "Bennett 29J School District",
+    "Bethune R-5 School District",
+    "Big Sandy 100J School District",
+    "Boulder Valley RE 2 School District",
+    "Branson Reorganized 82 School District",
+    "Briggsdale RE-10 School District",
+    "Brighton 27J School District",
+    "Brush RE-2(J) School District",
+    "Buena Vista R-31 School District",
+    "Buffalo RE-4 School District",
+    "Burlington RE-6J School District",
+    "Byers 32J School District",
+    "Calhan RJ-1 School District",
+    "Campo RE-6 School District",
+    "Canon City RE-1 School District",
+    "Centennial R-1 School District",
+    "Center 26 JT School District",
+    "Cheraw 31 School District",
+    "Cherry Creek 5 School District",
+    "Cheyenne County RE-5 School District",
+    "Cheyenne Mountain 12 School District",
+    "Clear Creek RE-1 School District",
+    "Colorado Springs 11 School District",
+    "Consolidated C-1 School District",
+    "Cotopaxi RE-3 School District",
+    "Creede Consolidated 1 School District",
+    "Cripple Creek-Victor RE-1 School District",
+    "Crowley County RE-1-J School District",
+    "DeBeque 49JT School District",
+    "Deer Trail 26J School District",
+    "Del Norte C-7 School District",
+    "Delta County School District 50(J)",
+    "Denver County 1 School District",
+    "Dolores County RE No. 2 School District",
+    "Dolores RE-4A School District",
+    "Douglas County RE 1 School District",
+    "Durango 9-R School District",
+    "Eads RE-1 School District",
+    "Eagle County School District RE50J",
+    "East Grand 2 School District",
+    "East Otero R-1 School District",
+    "Eaton RE-2 School District",
+    "Edison 54 JT School District",
+    "Elbert 200 School District",
+    "Elizabeth C-1 School District",
+    "Ellicott 22 School District",
+    "Englewood 1 School District",
+    "Falcon 49 School District",
+    "Florence RE-2 School District",
+    "Fort Morgan RE-3 School District",
+    "Fountain 8 School District",
+    "Fowler R-4J School District",
+    "Frenchman RE-3 School District",
+    "Garfield 16 School District",
+    "Garfield RE-2 School District",
+    "Genoa-Hugo C113 School District",
+    "Gilcrest RE-1 School District",
+    "Gilpin County RE-1 School District",
+    "Granada RE-1 School District",
+    "Greeley 6 School District",
+    "Gunnison RE1J School District",
+    "Hanover 28 School District",
+    "Harrison 2 School District",
+    "Haxtun RE-2J School District",
+    "Hayden RE-1 School District",
+    "Hi-Plains R-23 School District",
+    "Hinsdale County RE 1 School District",
+    "Hoehne Reorganized 3 School District",
+    "Holly RE-3 School District",
+    "Holyoke RE-1J School District",
+    "Huerfano RE-1 School District",
+    "Idalia RJ-3 School District",
+    "Ignacio 11 JT School District",
+    "Jefferson County R-1 School District",
+    "Johnstown-Milliken RE-5J School District",
+    "Julesburg RE-1 School District",
+    "Karval RE-23 School District",
+    "Keenesburg RE-3J School District",
+    "Kim Reorganized 88 School District",
+    "Kiowa C-2 School District",
+    "Kit Carson R-1 School District",
+    "La Veta RE-2 School District",
+    "Lake County R-1 School District",
+    "Lamar RE-2 School District",
+    "Las Animas RE-1 School District",
+    "Lewis Palmer 38 School District",
+    "Liberty J-4 School District",
+    "Limon RE-4J School District",
+    "Littleton 6 School District",
+    "Lone Star 101 School District",
+    "Mancos RE-6 School District",
+    "Manitou Springs 14 School District",
+    "Manzanola 3J School District",
+    "Mapleton 1 School District",
+    "McClave RE-2 School District",
+    "Meeker RE1 School District",
+    "Mesa County Valley 51 School District",
+    "MiamiYoder 60 JT School District",
+    "Moffat 2 School District",
+    "Moffat County RE:No 1 School District",
+    "Monte Vista C-8 School District",
+    "Montezuma-Cortez RE-1 School District",
+    "Montrose County RE-1J School District",
+    "Mountain Valley RE 1 School District",
+    "North Conejos RE-1J School District",
+    "North Park School District R-1",
+    "Norwood R-2J School District",
+    "Otis R-3 School District",
+    "Ouray R-1 School District",
+    "Park (Estes Park) R-3 School District",
+    "Park County RE-2 School District",
+    "Pawnee RE-12 School District",
+    "Peyton 23 JT School District",
+    "Plainview RE-2 School District",
+    "Plateau RE-5 School District",
+    "Plateau Valley 50 School District",
+    "Platte Canyon 1 School District",
+    "Platte Valley RE-3 School District",
+    "Platte Valley RE-7 School District",
+    "Poudre R-1 School District",
+    "Prairie RE-11 School District",
+    "Primero Reorganized 2 School District",
+    "Pritchett RE-3 School District",
+    "Pueblo City Schools",
+    "Pueblo County Rural 70 School District",
+    "Rangely RE-4 School District",
+    "Ridgway R-2 School District",
+    "Roaring Fork RE-1 School District",
+    "Rocky Ford R-2 School District",
+    "Salida R-32 School District",
+    "Sanford 6J School District",
+    "Sangre De Cristo RE-22J School District",
+    "Sargent RE-33J School District",
+    "Sheridan 2 School District",
+    "Sierra Grande R-30 School District",
+    "Silverton 1 School District",
+    "South Conejos RE-10 School District",
+    "South Routt RE 3 School District",
+    "Springfield RE-4 School District",
+    "St. Vrain Valley RE 1J School District",
+    "Steamboat Springs RE-2 School District",
+    "Strasburg 31J School District",
+    "Stratton R-4 School District",
+    "Summit RE-1 School District",
+    "Swink 33 School District",
+    "Telluride R-1 School District",
+    "Thompson R-2J School District",
+    "Trinidad 1 School District",
+    "Valley RE-1 School District",
+    "Vilas RE-5 School District",
+    "Walsh RE-1 School District",
+    "Weld County RE-8 School District",
+    "Weldon Valley RE-20(J) School District",
+    "West End RE-2 School District",
+    "West Grand 1-JT. School District",
+    "Westminster 50 School District",
+    "Widefield 3 School District",
+    "Wiggins RE-50(J) School District",
+    "Wiley RE-13 JT School District",
+    "Windsor RE-4 School District",
+    "Woodland Park RE-2 School District",
+    "Woodlin R-104 School District",
+    "Wray RD-2 School District",
+    "Yuma 1 School District"
+  ],
+  "potentialMatches": [
+    {
+      "geoName": "Denver County 1 School District",
+      "dataName": "Custer County School District C-1",
+      "similarity": 0.8
+    },
+    {
+      "geoName": "Weld County RE-8 School District",
+      "dataName": "Weld County School District RE-3J",
+      "similarity": 0.8
+    },
+    {
+      "geoName": "Elizabeth C-1 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.75
+    },
+    {
+      "geoName": "Dolores County RE No. 2 School District",
+      "dataName": "Dolores County RE No.2",
+      "similarity": 0.7142857142857143
+    },
+    {
+      "geoName": "Archuleta County 50 JT School District",
+      "dataName": "Archuleta County 50 Jt",
+      "similarity": 0.6666666666666666
+    },
+    {
+      "geoName": "Boulder Valley RE 2 School District",
+      "dataName": "Boulder Valley Re 2",
+      "similarity": 0.6666666666666666
+    },
+    {
+      "geoName": "Douglas County RE 1 School District",
+      "dataName": "Custer County School District C-1",
+      "similarity": 0.6666666666666666
+    },
+    {
+      "geoName": "Hinsdale County RE 1 School District",
+      "dataName": "Custer County School District C-1",
+      "similarity": 0.6666666666666666
+    },
+    {
+      "geoName": "Mesa County Valley 51 School District",
+      "dataName": "Mesa County Valley 51",
+      "similarity": 0.6666666666666666
+    },
+    {
+      "geoName": "Moffat County RE:No 1 School District",
+      "dataName": "Custer County School District C-1",
+      "similarity": 0.6666666666666666
+    },
+    {
+      "geoName": "Mountain Valley RE 1 School District",
+      "dataName": "Mountain Valley RE 1",
+      "similarity": 0.6666666666666666
+    },
+    {
+      "geoName": "Pueblo City Schools",
+      "dataName": "Pueblo City 60",
+      "similarity": 0.6666666666666666
+    },
+    {
+      "geoName": "Sangre De Cristo RE-22J School District",
+      "dataName": "Sangre De Cristo Re-22J",
+      "similarity": 0.6666666666666666
+    },
+    {
+      "geoName": "South Routt RE 3 School District",
+      "dataName": "South Routt RE 3",
+      "similarity": 0.6666666666666666
+    },
+    {
+      "geoName": "Adams County 14 School District",
+      "dataName": "Adams County 14",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Aguilar Reorganized 6 School District",
+      "dataName": "Aguilar Reorganized 6",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Big Sandy 100J School District",
+      "dataName": "Big Sandy 100J",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Branson Reorganized 82 School District",
+      "dataName": "Branson Reorganized 82",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Buena Vista R-31 School District",
+      "dataName": "Buena Vista R-31",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Canon City RE-1 School District",
+      "dataName": "Canon City RE-1",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Center 26 JT School District",
+      "dataName": "Center 26 JT",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Cherry Creek 5 School District",
+      "dataName": "Cherry Creek 5",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Cheyenne County RE-5 School District",
+      "dataName": "Cheyenne County Re-5",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Cheyenne Mountain 12 School District",
+      "dataName": "Cheyenne Mountain 12",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Clear Creek RE-1 School District",
+      "dataName": "Clear Creek RE-1",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Colorado Springs 11 School District",
+      "dataName": "Colorado Springs 11",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Consolidated C-1 School District",
+      "dataName": "Custer County School District C-1",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Cotopaxi RE-3 School District",
+      "dataName": "Weld County School District RE-3J",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Creede Consolidated 1 School District",
+      "dataName": "Custer County School District C-1",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Cripple Creek-Victor RE-1 School District",
+      "dataName": "Cripple Creek-Victor RE-1",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Crowley County RE-1-J School District",
+      "dataName": "Crowley County RE-1-J",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Deer Trail 26J School District",
+      "dataName": "Deer Trail 26J",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Del Norte C-7 School District",
+      "dataName": "DEL NORTE C-7",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Delta County School District 50(J)",
+      "dataName": "Custer County School District C-1",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Eagle County School District RE50J",
+      "dataName": "Custer County School District C-1",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "East Grand 2 School District",
+      "dataName": "East Grand 2",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "East Otero R-1 School District",
+      "dataName": "East Otero R-1",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Edison 54 JT School District",
+      "dataName": "Edison 54 JT",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Fort Morgan RE-3 School District",
+      "dataName": "Fort Morgan Re-3",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Frenchman RE-3 School District",
+      "dataName": "Weld County School District RE-3J",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Gilpin County RE-1 School District",
+      "dataName": "Custer County School District C-1",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Hoehne Reorganized 3 School District",
+      "dataName": "Hoehne Reorganized 3",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Ignacio 11 JT School District",
+      "dataName": "Ignacio 11 JT",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Jefferson County R-1 School District",
+      "dataName": "Custer County School District C-1",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Keenesburg RE-3J School District",
+      "dataName": "Weld County School District RE-3J",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Kim Reorganized 88 School District",
+      "dataName": "Kim Reorganized 88",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Kit Carson R-1 School District",
+      "dataName": "Kit Carson R-1",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "La Veta RE-2 School District",
+      "dataName": "La Veta Re-2",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Lake County R-1 School District",
+      "dataName": "Custer County School District C-1",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Las Animas RE-1 School District",
+      "dataName": "Las Animas RE-1",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Lone Star 101 School District",
+      "dataName": "Lone Star 101",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Manitou Springs 14 School District",
+      "dataName": "Manitou Springs 14",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Monte Vista C-8 School District",
+      "dataName": "Monte Vista C-8",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Montrose County RE-1J School District",
+      "dataName": "Custer County School District C-1",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "North Conejos RE-1J School District",
+      "dataName": "North Conejos RE-1J",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "North Park School District R-1",
+      "dataName": "North Park R-1",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Park County RE-2 School District",
+      "dataName": "Custer County School District C-1",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Peyton 23 JT School District",
+      "dataName": "Peyton 23 Jt",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Plateau Valley 50 School District",
+      "dataName": "Plateau Valley 50",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Platte Canyon 1 School District",
+      "dataName": "Custer County School District C-1",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Platte Valley RE-3 School District",
+      "dataName": "Weld County School District RE-3J",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Platte Valley RE-7 School District",
+      "dataName": "Platte Valley RE-7",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Primero Reorganized 2 School District",
+      "dataName": "Primero Reorganized 2",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Pritchett RE-3 School District",
+      "dataName": "Weld County School District RE-3J",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Roaring Fork RE-1 School District",
+      "dataName": "Roaring Fork RE-1",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Rocky Ford R-2 School District",
+      "dataName": "Rocky Ford R-2",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Sierra Grande R-30 School District",
+      "dataName": "Sierra Grande R-30",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "South Conejos RE-10 School District",
+      "dataName": "South Conejos RE-10",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Steamboat Springs RE-2 School District",
+      "dataName": "Steamboat Springs RE-2",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Weldon Valley RE-20(J) School District",
+      "dataName": "Weldon Valley RE-20(J)",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "West End RE-2 School District",
+      "dataName": "West End RE-2",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "West Grand 1-JT. School District",
+      "dataName": "West Grand 1-JT",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Wiley RE-13 JT School District",
+      "dataName": "Wiley RE-13 Jt",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Woodland Park RE-2 School District",
+      "dataName": "Woodland Park Re-2",
+      "similarity": 0.6
+    },
+    {
+      "geoName": "Academy 20 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Adams-Arapahoe 28J School District",
+      "dataName": "Adams-Arapahoe 28J",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Agate 300 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Akron R-1 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Alamosa RE-11J School District",
+      "dataName": "Alamosa RE-11J",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Arickaree R-2 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Arriba-Flagler C-20 School District",
+      "dataName": "Arriba-Flagler C-20",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Aspen 1 School District",
+      "dataName": "School District 27J",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Ault-Highland RE-9 School District",
+      "dataName": "Ault-Highland RE-9",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Bennett 29J School District",
+      "dataName": "Bennett 29J",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Bethune R-5 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Briggsdale RE-10 School District",
+      "dataName": "Briggsdale RE-10",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Brighton 27J School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Brush RE-2(J) School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Buffalo RE-4 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Burlington RE-6J School District",
+      "dataName": "Burlington RE-6J",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Byers 32J School District",
+      "dataName": "Byers 32J",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Calhan RJ-1 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Campo RE-6 School District",
+      "dataName": "Campo RE-6",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Centennial R-1 School District",
+      "dataName": "Centennial R-1",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Cheraw 31 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "DeBeque 49JT School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Dolores RE-4A School District",
+      "dataName": "Dolores County RE No.2",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Durango 9-R School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Eads RE-1 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Eaton RE-2 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Elbert 200 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Ellicott 22 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Englewood 1 School District",
+      "dataName": "Englewood 1",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Falcon 49 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Florence RE-2 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Fountain 8 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Fowler R-4J School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Garfield 16 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Garfield RE-2 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Genoa-Hugo C113 School District",
+      "dataName": "Genoa-Hugo C113",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Gilcrest RE-1 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Granada RE-1 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Greeley 6 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Gunnison RE1J School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Hanover 28 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Harrison 2 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Haxtun RE-2J School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Hayden RE-1 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Hi-Plains R-23 School District",
+      "dataName": "Hi-Plains R-23",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Holly RE-3 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Holyoke RE-1J School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Huerfano RE-1 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Idalia RJ-3 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Johnstown-Milliken RE-5J School District",
+      "dataName": "Johnstown-Milliken RE-5J",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Julesburg RE-1 School District",
+      "dataName": "Julesburg Re-1",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Karval RE-23 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Kiowa C-2 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Lamar RE-2 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Liberty J-4 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Limon RE-4J School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Littleton 6 School District",
+      "dataName": "Littleton 6",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Mancos RE-6 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Manzanola 3J School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Mapleton 1 School District",
+      "dataName": "Mapleton 1",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "McClave RE-2 School District",
+      "dataName": "McClave Re-2",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Meeker RE1 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Moffat 2 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Montezuma-Cortez RE-1 School District",
+      "dataName": "Montezuma-Cortez RE-1",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Norwood R-2J School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Otis R-3 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Ouray R-1 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Pawnee RE-12 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Plainview RE-2 School District",
+      "dataName": "Plainview RE-2",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Plateau RE-5 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Poudre R-1 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Prairie RE-11 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Pueblo County Rural 70 School District",
+      "dataName": "Pueblo County 70",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Rangely RE-4 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Ridgway R-2 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Salida R-32 School District",
+      "dataName": "Salida R-32",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Sanford 6J School District",
+      "dataName": "Sanford 6J",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Sargent RE-33J School District",
+      "dataName": "Sargent RE-33J",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Sheridan 2 School District",
+      "dataName": "Sheridan 2",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Silverton 1 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Springfield RE-4 School District",
+      "dataName": "Springfield RE-4",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Strasburg 31J School District",
+      "dataName": "Strasburg 31J",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Stratton R-4 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Summit RE-1 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Swink 33 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Telluride R-1 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Thompson R-2J School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Trinidad 1 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Valley RE-1 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Vilas RE-5 School District",
+      "dataName": "Vilas RE-5",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Walsh RE-1 School District",
+      "dataName": "Walsh RE-1",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Westminster 50 School District",
+      "dataName": "Westminster Public Schools",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Widefield 3 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Wiggins RE-50(J) School District",
+      "dataName": "Wiggins RE-50(J)",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Windsor RE-4 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Woodlin R-104 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Wray RD-2 School District",
+      "dataName": "Elizabeth School District",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Yuma 1 School District",
+      "dataName": "School District 27J",
+      "similarity": 0.5
+    },
+    {
+      "geoName": "Bayfield 10 JT.-R School District",
+      "dataName": "Custer County School District C-1",
+      "similarity": 0.4
+    },
+    {
+      "geoName": "Lewis Palmer 38 School District",
+      "dataName": "Custer County School District C-1",
+      "similarity": 0.4
+    },
+    {
+      "geoName": "MiamiYoder 60 JT School District",
+      "dataName": "Custer County School District C-1",
+      "similarity": 0.4
+    },
+    {
+      "geoName": "Park (Estes Park) R-3 School District",
+      "dataName": "Custer County School District C-1",
+      "similarity": 0.3333333333333333
+    },
+    {
+      "geoName": "St. Vrain Valley RE 1J School District",
+      "dataName": "Upper Rio Grande School District C-7",
+      "similarity": 0.2857142857142857
+    }
+  ],
+  "dataQuality": {
+    "noEnrollment": 0,
+    "noCMAS": 15,
+    "noFRL": 11,
+    "hasAllData": 371
+  }
+}

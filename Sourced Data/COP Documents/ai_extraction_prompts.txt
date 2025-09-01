@@ -1,0 +1,145 @@
+DPS CERTIFICATE OF PARTICIPATION (COP) DATA EXTRACTION PROMPTS
+================================================================
+
+Use these prompts with AI services that can read PDFs (Claude.ai, ChatGPT, etc.)
+
+PROMPT 1: COMPREHENSIVE COP SUMMARY EXTRACTION
+==============================================
+Please analyze this DPS Annual Comprehensive Financial Report (ACFR) or COP document and extract ALL Certificate of Participation information in the following structured format:
+
+**DOCUMENT OVERVIEW:**
+- Document Type: [ACFR/Individual COP/Other]
+- Fiscal Year: [Year]
+- Total Pages: [Number]
+
+**CERTIFICATE OF PARTICIPATION SUMMARY:**
+For each COP found, provide:
+
+COP ID/Series: [e.g., EA801455, EP1177797]
+Issue Date: [MM/DD/YYYY]
+Maturity Date: [MM/DD/YYYY]  
+Original Principal Amount: $[Amount]
+Outstanding Principal (as of report date): $[Amount]
+Interest Rate: [%] 
+Annual Debt Service: $[Amount]
+Purpose/Use of Proceeds: [Description]
+Security/Collateral: [What backs the debt]
+Trustee: [If listed]
+Status: [Active/Retired/Refinanced]
+
+**AGGREGATE TOTALS:**
+- Total Outstanding COP Debt: $[Amount]
+- Total Annual Debt Service: $[Amount]
+- Number of Active COPs: [Number]
+- Weighted Average Interest Rate: [%]
+
+**DEBT SERVICE SCHEDULE:**
+If available, provide the annual payment schedule for the next 5-10 years.
+
+**NOTES:**
+- Any special provisions or covenants
+- Recent refinancing activity
+- Debt capacity analysis
+- Compliance with debt limitations
+
+Format the response as structured data that can be easily copied into a spreadsheet or database.
+
+PROMPT 2: FINANCIAL SUMMARY FOCUSED EXTRACTION
+=============================================
+I need to extract financial data from this DPS debt document. Please focus ONLY on these specific data points:
+
+1. TOTAL OUTSTANDING COP DEBT (as of most recent date)
+2. TOTAL ANNUAL DEBT SERVICE PAYMENTS  
+3. LIST OF ALL ACTIVE COP SERIES with amounts
+4. DEBT SERVICE BY YEAR (next 5 years if available)
+5. INTEREST RATES for each COP series
+6. ORIGINAL ISSUANCE AMOUNTS vs CURRENT OUTSTANDING
+
+Present in this exact format:
+```
+TOTAL OUTSTANDING: $XXX,XXX,XXX
+ANNUAL DEBT SERVICE: $XX,XXX,XXX
+
+ACTIVE COP SERIES:
+- Series EA801455: $XX,XXX,XXX outstanding, X.XX% rate
+- Series EP1177797: $XX,XXX,XXX outstanding, X.XX% rate
+[continue for all series]
+
+ANNUAL PAYMENTS:
+2024: $XX,XXX,XXX
+2025: $XX,XXX,XXX  
+2026: $XX,XXX,XXX
+[continue if available]
+```
+
+PROMPT 3: DEBT BURDEN ANALYSIS EXTRACTION
+=========================================
+Please analyze this DPS financial document and extract information related to debt burden and fiscal impact:
+
+1. **Debt Ratios:** 
+   - Debt service as % of total budget
+   - Debt per pupil (if calculated)
+   - Debt per capita (if calculated)
+
+2. **Budget Impact:**
+   - How much of annual budget goes to debt service
+   - Comparison to prior years
+   - Impact on operational funds
+
+3. **Capacity Analysis:**
+   - Legal debt limits
+   - Remaining debt capacity
+   - Credit ratings (if mentioned)
+
+4. **Taxpayer Impact:**
+   - Mill levy requirements for debt service
+   - Property tax implications
+
+PROMPT 4: SPECIFIC COP DOCUMENT ANALYSIS
+=======================================
+This appears to be a specific Certificate of Participation document. Please extract:
+
+**BASIC INFORMATION:**
+- COP Series/ID: 
+- Issue Date:
+- Maturity Date:
+- Principal Amount:
+- Interest Rate:
+
+**FINANCIAL TERMS:**
+- Payment Schedule (monthly/semi-annual/annual)
+- First Payment Date:
+- Final Payment Date:
+- Call Provisions (early redemption terms)
+
+**PURPOSE & PROJECTS:**
+- Stated purpose of the financing
+- Specific projects or equipment financed
+- Any performance obligations
+
+**SECURITY:**
+- What assets or revenues secure the debt
+- Any guarantees or insurance
+
+**PARTIES:**
+- Issuer:
+- Trustee:
+- Underwriter:
+- Legal Counsel:
+
+USAGE INSTRUCTIONS:
+==================
+1. Upload the PDF to an AI service that can read PDFs
+2. Use the most appropriate prompt based on the document type
+3. Copy the structured response
+4. Paste into the data collection templates provided
+5. Repeat for all COP documents
+6. Consolidate into final JSON format for integration
+
+DOCUMENT PRIORITY ORDER:
+=======================
+1. FY24 ACFR.pdf (most comprehensive overview)
+2. Individual COP documents (detailed terms)  
+3. Budget documents (debt service impacts)
+
+The goal is to replace sample data with actual DPS debt obligations to demonstrate the true financial burden on the district.

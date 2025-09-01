@@ -1,0 +1,2232 @@
+EXTRACTED COP CONTENT FROM: Annual Report and Single Audit FY 2022-2023 (2).pdf
+EXTRACTION DATE: 2025-08-05 10:29:24.909316
+================================================================================
+
+
+--- PAGE 7 ---
+
+SCHOOL DISTRICT NO.1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+TABLE OF CONTENTS
+YEAR ENDED JUNE 30, 2023
+STATISTICAL SECTION
+Table of Contents 162
+Net Position by Component 163
+Changes in Net Position 164
+Fund Balances – Governmental Funds 166
+Changes in Fund Balances – Governmental Funds 168
+Summary of Expenditures by Function and Other Financing Uses – General Fund 170
+Summary of Revenues by Source and Other Financing Sources – General Fund 172
+Assessed Net Value and Estimated Actual Value of Taxable Property 173
+District Net Assessed Valuation and Mills 175
+Property Tax Rates per $1,000 of Assessed Valuation – Direct and All Overlapping Governments 176
+Principal Property Taxpayers 177
+Property Tax Levies and Collections 178
+Legal Debt Margin 179
+Ratios of Outstanding Debt 181
+Direct and Overlapping Debt 183
+Demographic and Economic Statistics 184
+Principal Employers 185
+Nutrition Services – Facts and Figures 186
+Full-time Equivalent Employees 189
+Capital Asset Information – by Schools 190
+COMPLIANCE SECTION
+Independent Auditor’s Report on Internal Control Over Financial Reporting and on
+Compliance and Other Matters Based on an Audit of the Financial Statements
+Performed in Accordance with the Government Auditing Standards 193
+Independent Auditor’s Report on Compliance for Each Major Federal Program and
+Report on Internal Control Over Compliance 195
+Schedule of Expenditures of Federal Awards 198
+Notes to Schedule of Expenditures of Federal Awards 203
+Schedule of Findings and Questioned Costs 204
+Status of Prior Audit Findings 208
+7
+
+--- PAGE 29 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+YEAR ENDED JUNE 30, 2023
+Management of School District No. 1 in the City and County of Denver and State of Colorado (the
+District), provides readers of the District’s Annual Comprehensive Financial Report this narrative overview
+and analysis of the financial activities of the District for the fiscal year ended June 30, 2023. We
+encourage readers to consider the information presented here in conjunction with additional information
+that is presented in the letter of transmittal, which starts on page 10 of this report.
+Financial Highlights
+On the statement of net position, as of June 30, 2023, the District’s net position for governmental
+activities is a deficit of $(561.6) million. The deficit net position can be partially attributed to the
+implementation of GASB 68, Accounting and Financial Reporting for Pensions - an amendment of GASB
+Statement No. 27 and GASB 75, Accounting and Financial Reporting for Postemployment Benefits Other
+Than Pensions requiring the recognition of a long-term liability for pension and postemployment benefits
+other than pensions respectively. The deficit net position can also be attributed to liabilities related to the
+District's Certificates of Participation and General Obligation bonds that are to fund retirement and
+necessary capital and maintenance projects of the District's facilities. In July of 1997, the District
+executed $384.2 million in COPs with the net proceeds contributed to DPSRS. In April of 2008, the District
+issued $750 million in COPs to refund existing certificates and to fund an additional $397.8 million
+contribution to DPSRS in anticipation of the merger with PERA. As a result of these contributions, the
+District’s PERA division is 81.93% funded compared to the PERA School division of 61.79% as of
+December 31, 2022.
+Long-term liabilities increased to $3,738.8 million from $3,503.6 million in FY 2023 primarily due to the
+increase in net pension liability.
+On the statement of activities, general revenues accounted for $1,434.7 million or 75% of total revenues
+and program revenues were $478.6 million or 25% of the total revenues of the primary government. The
+total revenues increased to $1,913.3 million from $1,692.9 million, or 13.0% when compared to prior
+year. The change in net position of $159.3 million is partially due to an increase in property tax revenue
+of $50.6 million and state share revenue increase of $41.8 million.
+Overview of the Financial Statements
+Management’s discussion and analysis is intended to serve as an introduction to the District’s basic
+financial statements. The basic financial statements consist of three components: 1) government-wide
+financial statements, 2) fund financial statements and 3) notes to the basic financial statements. This
+report also contains required supplementary information and other supplementary information.
+Government-wide Statements
+The government-wide financial statements are designed to provide readers with information about the
+District as a whole using accounting methods similar to those used by private-sector businesses.
+The statement of net position includes District assets, deferred outflows of resources, liabilities and
+deferred inflows of resources, with differences reported as net position to the exclusion of fiduciary funds.
+The statement of activities presents information on how the District’s net position changed during the
+fiscal year. All changes in net position are reported when the underlying event giving rise to the change
+occurs, regardless of the timing of the related cash flows. Thus, revenues and expenses are reported in
+this statement for some items that will only result in cash flows in future fiscal periods (e.g., uncollected
+taxes and retiree sick leave payable).
+29
+
+--- PAGE 30 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+YEAR ENDED JUNE 30, 2023
+In the government-wide financial statements the District’s activities are shown as:
+Governmental activities: Most of the District’s basic services are included here, such as instruction,
+transportation, operations and maintenance and administration. Taxes principally support these activities.
+The government-wide financial statements encompass not only the District itself (the primary
+government) but also legally-separate entities including the ProComp Special Revenue Fund, Denver
+School Facilities Leasing Corporation, Denver Public Schools Retiree Life Insurance Trust and Private
+Purpose Trust as blended component units and Denver Public Schools Foundation and charter schools as
+discretely presented component units.
+Fund Financial Statements
+A fund is a grouping of related accounts used to maintain control over resources that have been
+segregated for specific activities or objectives. The fund financial statements provide more detailed
+information about the District’s operations, focusing on its most significant or major funds, not the District
+as a whole. The District has two types of funds: governmental funds and fiduciary funds.
+Governmental funds: Most of the District’s services are included in governmental funds, which
+generally focus on how cash and other financial assets that can readily be converted to cash flows and
+the balances left at year-end that are available for spending. Consequently, the governmental funds
+statements provide a detailed short-term view that helps determine the status of financial resources that
+can be spent in the near future to finance the District’s programs.
+Because the focus of governmental funds is narrower than that of the government-wide financial
+statements, it is useful to compare the information presented for governmental funds with similar
+information presented for governmental activities in the government-wide financial statements. Thus,
+readers may better understand the long-term impact of the government’s near-term financing decisions.
+Both the governmental fund balance sheet and the governmental fund statement of revenues,
+expenditures and changes in fund balances provide a reconciliation to the government-wide financial
+statements in order to facilitate this comparison between governmental funds and governmental
+activities. The District maintains nine individual governmental funds. Information is presented separately
+in the governmental fund balance sheet and in the governmental fund statement of revenues,
+expenditures and changes in fund balances for the General, Grants Special Revenue, Bond Redemption
+(debt service), and Building, all of which are considered to be major funds. Data for the other five
+governmental funds (Pupil Activity Special Revenue, Food Services Special Revenue, ProComp Special
+Revenue, Mill Levy Technology Maintenance and Permanent) are combined into a single, aggregated
+presentation. Individual fund data for each of these nonmajor governmental funds is provided in the form
+of combining statements included in this report.
+Fiduciary funds: The District has two Fiduciary funds which include the Other Employee Benefit Trust
+and the Private Purpose Trust Fund. Fiduciary funds are used to account for resources held by the District
+in a fiduciary capacity and can only be used for specified purposes. Fiduciary funds are not reflected in
+the government-wide financial statement because the resources of those funds are not available to
+support the District’s programs.
+Notes to the basic financial statements: The notes provide additional information essential to a full
+understanding of the data provided in the financial statements.
+Other information: In addition to the basic financial statements and accompanying notes, this report
+presents required supplementary information and other supplementary information.
+30
+
+--- PAGE 31 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+YEAR ENDED JUNE 30, 2023
+The required supplemental information includes the District’s annual appropriated budgets with
+comparison schedules that demonstrate compliance with budgets for the General Fund and Special
+Revenue Funds. The schedule of changes in the collective net pension liability and OPEB liability are
+provided next, followed by notes to required supplementary information.
+The other supplementary information includes the combining statements in connection with nonmajor
+governmental funds and budgetary comparison schedules. In addition, fiduciary fund information is
+presented.
+Financial Analysis of the District
+Increases or decreases in net position may serve as a useful indicator of the District’s overall financial
+position. The District's net position increased $159.3 million partially due to an increase in property tax
+revenue of $50.6 million and state share revenue increase of $41.8 million. Additionally, there are several
+other measures that indicate a sustainable financial position, including:
+ The District has the largest and most diverse tax base in the State of Colorado with $21.8 billion
+of net assessed value.
+ General fund balance increased $14.2 million in FY 2023, with ending fund balance of $147.7
+million.
+ In November of 2020, Denver voters approved a mill levy override of $32 million. The increased
+funding will go towards increasing minimum wage and other compensation, mental health
+professionals, nursing services, special education services and charter share (required by law).
+ In November of 2020, Denver voters approved an up to $795 million bond to invest in critical
+maintenance, constructing new schools and additions to existing schools, upgrading learning
+environments in older schools and increasing student technology access.
+ The 2020 voter approved general bond obligations were issued in 2021 and 2022 with the
+following ratings:
+ Moody’s ratings of Aa2
+ Fitch ratings of AA+
+ S&P ratings of AA+
+A significant portion of the District’s assets are its investment in capital assets (e.g., land, buildings,
+equipment, lease of tangible assets and software-based information technology arrangement assets). The
+District uses these assets to provide instruction and related services to its students. Capital, lease and
+software assets (net) increased to $1,762.3 million in FY 2023 from $1,644.7 million in FY 2022. The
+increase is primarily a result of capital spending from the District’s general obligation bonds and
+certificates of participation. The District’s capital assets will continue to increase as planned projects are
+completed in the Building Fund (starting fiscal year 2023 the capital reserve fund combined with the
+building fund). This fund has an available fund balance of $682.8 million.
+31
+
+--- TABLE 1 ON PAGE 31 ---
+
+A significant portion of the District’s assets are its investment in capital assets (e.g., land, buildings,		
+
+
+equipment,	lease of tangible assets and software-based information technology arrangement assets	). The
+
+
+District uses these assets to provide instruction and related services to its students.		
+
+
+
+--- TABLE 2 ON PAGE 31 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--- PAGE 32 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+YEAR ENDED JUNE 30, 2023
+Current and other assets decreased to $1,346.2 million from $1,505.6 million primarily due to the
+continued spend of general obligation bonds and certificates of participation.
+The following table provides a summary of the District’s net position as of June 30, 2023 and 2022,
+respectively (in millions):
+June 30, 2023 June 30, 2022
+Current and other assets $ 1,346.2 $ 1,505.6
+Capital assets, net 1,762.3 1,644.7
+Total assets 3,108.5 3,150.3
+Deferred outflows of resources 420.4 361.3
+Other liabilities 197.6 159.7
+Long-term liabilities 3,738.8 3,503.6
+Total liabilities 3,936.4 3,663.3
+Deferred inflows of resources 154.1 569.2
+Net position (deficit):
+Net investment in capital assets 5.8 (58.6)
+Restricted 294.4 287.6
+Unrestricted (861.7) (949.9)
+Total net position (deficit) $ (561.5) $ (720.9)
+To calculate net investment in capital assets, the original long-term debt was evaluated to ascertain the
+amount of proceeds spent on capital improvement versus non-capital expenditures. The percentage was
+then applied to the outstanding long-term debt to determine the amount applicable to capital assets.
+32
+
+--- TABLE 1 ON PAGE 32 ---
+
+Current and other assets decreased to $1,346.2 million from $1,505.6 million primarily due to the
+
+
+continued spend of general obligation bonds and certificates of participation.
+
+
+
+
+
+The following table provides a summary of the District’s net position as of June 30, 2023 and 2022,
+
+
+respectively (in millions):
+
+
+
+
+
+
+--- PAGE 33 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+YEAR ENDED JUNE 30, 2023
+The following table provides a summary of the District’s activities for the fiscal years ended June 30, 2023
+and 2022, respectively (in millions).
+June 30, 2023 June 30, 2022
+REVENUES
+Program revenues
+Charges for services $ 91.8 $ 83.8
+Operating grants and contributions 386.9 282.0
+General revenues
+Taxes 1,142.0 1,084.7
+State equalization 264.1 222.3
+Investment income (loss) 23.5 (10.1)
+Other 5.0 30.2
+Total revenues 1,913.3 1,692.9
+EXPENSES
+Instruction 914.7 676.1
+Support services 711.2 614.5
+Interest on long-term debt 128.1 115.8
+Total expenses 1,754.0 1,406.4
+Change in net position 159.3 286.5
+Net position - beginning (720.9) (1,007.4)
+Net position - ending $ (561.6) $ (720.9)
+Most revenues to Colorado's school districts are provided through the Public School Finance Act of 1994
+(as amended). The District’s adjusted total program funding for FY 2023 was $886.1 million reflected as a
+combination of state equalization and a portion of property tax revenues in the Statement of Activity. This
+was based on a funded pupil count of 89,176 and per pupil total program funding of $9,936 compared to
+total program funding of $837.2 million funded pupil count of 89,410 and per pupil total program funding
+of $9,364 in FY 2022. Of the adjusted total program funding, $264.1 million was funded through state
+share compared to $222.3 million in FY 2022. The remainder was funded through a combination of local
+property and specific ownership taxes.
+The District generated $1,076.8 million in property tax revenues in FY 2023 compared to $1,026.2 million
+in FY 2022. Total property tax revenues include School Finance Act mills, override election mills, Tax
+Abatement mills and Bond Redemption Fund mills. Property tax revenues increased by $50.6 million and
+are attributable to the rising property valuations in the City and County of Denver. The District also
+recognized an increase in state equalization of $41.8 million. District grants operating revenue increased
+by $104.9 million year over year due to a second phase of Elementary and Secondary School Emergency
+Relief Fund. Total expenses for the primary government in FY 2023 were $1,754.0 million compared to
+$1,406.4 million in FY 2022. Total expenses increased by $347.6 million primarily due to increased spend
+in student instruction and student support services.
+33
+
+--- PAGE 35 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+YEAR ENDED JUNE 30, 2023
+The Grant Special Revenue Fund balance as of June 30, 2023 was $22.1 million compared to $17.4 million
+at June 30, 2022. The fund balance is restricted to the District’s grant funded programs that generated
+the fund balance.
+The Bond Redemption Fund balance as of June 30, 2023 was $226.6 million compared to $220.9 million
+as of June 30, 2022. The Bond Redemption Fund is restricted for payment of the District’s General
+Obligation Bond debt service as authorized by Denver voters. The Bond Redemption Fund increased by
+$5.7 million due to timing of upcoming debt service payments.
+The Building Fund as of June 30, 2023 was $682.8 million compared to $869.6 million as of June 30,
+2022, as restated. The Building Fund consists of unspent proceeds from issuance of voter approved
+general obligation bonds and is restricted for financing projects as described in the respective ballot
+language. The Building Fund also consists of unspent Certificates of Participation (COPs) restricted for
+financing capital projects and for debt service. Additionally, a portion of these funds is restricted for
+capital projects by Board authorization and assigned to debt service by Board adoption of the annual
+budget. Starting fiscal year 2023 the capital reserve fund has been combined with the building fund, as
+noted by the change in reporting entity. The Building Fund decreased by $186.8 million primarily as a
+result of continuing to spend down the 2020 general obligation bond and COPs.
+General Fund Budgetary Highlights
+In accordance with state law, the District’s budget is prepared on a GAAP basis. The most significant
+budgeted fund is the General Fund.
+The difference between the General Fund original and final budget for expenditures, excluding reserves,
+increased by $3.7 million due to additional allocation of funds to schools and school support services.
+The actual change to fund balance for general fund was a $14.2 million increase, a $23.4 million
+difference from what was included in the budget compared to prior year. The main factor driving the
+difference was related to district-managed schools underspending their budgets mainly due to vacant
+positions and additional revenue from higher interest rates creating additional interest income and higher
+local specific ownership tax revenues.
+Capital and Lease/Software Assets and Debt Administration
+Capital and Lease/Software Assets
+The District’s investment in capital assets and lease/software assets, net of accumulated depreciation for
+its governmental activities as of June 30, 2023 amounted to $1,762.3 million. Investment in capital assets
+includes land, buildings and improvements, equipment, right to use lease tangible assets and
+software-based information technology (SBITA) intangible assets, and construction in progress with an
+original cost greater than $25,000 and an estimated useful life longer than one year.
+The major capital events during the current fiscal year included spending on capital projects in the
+Building Fund which included implementation of the new Enterprise Resource Planning Oracle system.
+Capital projects are used to make improvements and critical repairs. In fiscal year 2023, the District
+implemented GASB 96 (Statement No. 96) software-based information technology arrangements
+reporting requirements for all state and local governments where the District is named the lessee of
+intangible assets. The District will recognize a SBITA liability within the government-wide financial
+statements.
+35
+
+--- TABLE 1 ON PAGE 35 ---
+
+	for
+
+
+financing capital projects and for debt service. Additionally, a portion of these funds is restricted for	
+
+
+capital projects by Board authorization and assigned to debt service by Board adoption of the annual	
+
+
+budget. Starting fiscal year 2023 the capital reserve fund has been combined with the building fund, as	
+
+
+noted by the change in reporting entity.	
+
+
+
+--- PAGE 36 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+MANAGEMENT’S DISCUSSION AND ANALYSIS
+YEAR ENDED JUNE 30, 2023
+The District’s total capital assets at June 30, 2023 and 2022, respectively, net of accumulated
+depreciation, were as follows (in millions).
+June 30, 2023 June 30, 2022
+Buildings and improvements $ 1,374.5 $ 1,385.1
+Construction in progress 199.0 81.7
+Land 110.5 110.5
+Equipment 54.1 53.4
+Leases 12.2 14.0
+SBITA/Software 12.0 -
+Total $ 1,762.3 $ 1,644.7
+(Please see additional details in Note 5 and 6 to the financial statements)
+Long-Term Debt
+At June 30, 2023 and 2022, respectively, the District’s long-term debt consisted of the following (in
+millions).
+June 30, 2023 June 30, 2022
+General obligation bonds $ 2,320.9 $ 2,473.6
+Certificates of participation 913.4 954.1
+Net pension liability 439.2 4.0
+Net OPEB liability 7.6 26.6
+Compensated absences 19.0 18.2
+Accrued claims liability 12.4 11.6
+Lease liability 12.8 14.0
+SBITA/software liability 12.0 -
+Other obligation 1.5 1.5
+Total $ 3,738.8 $ 3,503.6
+(Please see additional details in Note 7 to the financial statements)
+36
+
+--- PAGE 40 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+STATEMENT OF NET POSITION
+AS OF JUNE 30, 2023
+Primary Government
+Governmental Activities Component Units
+ASSETS
+Cash and cash equivalents $ 274,248,279 $ 98,695,696
+Investments 3,982 18,724,772
+Receivables (net of allowance):
+Taxes 63,749,457 -
+Intergovernmental 112,007,076 -
+Leases receivable 5,062,681 -
+Other 54,121,601 45,643,771
+Inventory 5,062,008 71,896
+Prepaid items 93,192 1,052,159
+Held by fiscal agents 3,226,167 -
+Restricted cash and cash equivalents 644,186,165 7,867,141
+Restricted investments 184,455,128 1,198,372
+Capital assets:
+Land and construction in progress 309,512,194 -
+Building, net of accumulated depreciation 1,374,543,277 67,997,990
+Equipment, net of accumulated depreciation 54,047,916 -
+Leases and Software, net of accumulated depreciation 24,194,475 6,862,792
+Total assets 3,108,513,598 248,114,589
+DEFERRED OUTFLOWS OF RESOURCES
+Deferred loss on refundings 127,535,321 551,742
+Related to pensions 284,250,361 43,657,042
+Related to OPEB 8,568,864 1,984,214
+Total deferred outflows of resources 420,354,546 46,192,998
+LIABILITIES
+Accounts and interest payable 90,981,050 9,955,901
+Accrued payroll and benefits 81,621,807 9,312,306
+Claims payable 6,382,979 -
+Unearned revenue 18,572,193 1,057,241
+Due to fiduciary funds 8,942 -
+Long-term liabilities:
+Due within one year 162,349,257 2,262,587
+Due in more than one year 3,576,444,865 122,078,592
+Total liabilities 3,936,361,093 144,666,627
+DEFERRED INFLOWS OF RESOURCES
+Deferred gain on refundings 7,331,312 -
+Related to leases 5,088,206 419,847
+Related to pensions 129,361,159 14,375,586
+Related to OPEB 12,281,911 2,149,809
+Total deferred inflows of resources 154,062,588 16,945,242
+NET POSITION (deficit)
+Net investment in capital assets 5,788,163 30,147,602
+Restricted for:
+Debt service 227,841,042 -
+Performance-based teacher compensation 6,334,673 -
+Higher education 19,012,629 -
+Non-governmental grantor-designated purposes 3,091,614 -
+Permanent fund and nonexpendable 65,520 -
+Capital projects - 1,616,361
+Donor-designated purposes - 6,507,479
+TABOR Multi Year Obligations - 351,715
+Emergency reserve 38,060,520 9,467,373
+Unrestricted (deficit) (861,749,698) 84,605,188
+Total net position (deficit) $ (561,555,537) $ 132,695,718
+The notes to the financial statements are an integral part of this statement.
+40
+
+--- PAGE 42 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND THE STATE OF COLORADO
+BALANCE SHEET
+GOVERNMENTAL FUNDS
+AS OF JUNE 30, 2023
+Grants Special
+General Revenue Bond Redemption
+ASSETS
+Assets:
+Cash and cash equivalents $ 267,712,627 $ - $ -
+Investments - - -
+Receivables (net of allowance):
+Taxes receivable 47,583,116 - 11,451,548
+Intergovernmental - 104,836,786 -
+Leases receivable 3,113,070 - -
+Other 4,386,702 5,697,084 -
+Due from other funds - - 33,780,145
+Inventory 1,475,845 - -
+Prepaid items - - -
+Cash with fiscal agents 3,226,167 - -
+Restricted cash and cash equivalents 1,069,547 - -
+Restricted investments - - 184,455,128
+Total assets $ 328,567,074 $ 110,533,870 $ 229,686,821
+LIABILITIES, DEFERRED INFLOWS OF
+RESOURCES AND FUND BALANCES
+Liabilities:
+Accounts payable $ 72,679,187 $ 7,393,686 $ -
+Claims Liability 6,382,979 - -
+Accrued payroll and benefits 81,621,807 - -
+Due to other funds 1,331,085 69,868,680 -
+Unearned revenue 4,744,242 11,167,261 -
+Total liabilities 166,759,300 88,429,627 -
+Deferred inflows of resources:
+Property taxes 11,012,934 - 3,083,533
+Lease related 3,113,070 - -
+Unavailable revenues - long-term receivables - - -
+Total deferred inflows of resources 14,126,004 - 3,083,533
+FUND BALANCES:
+Nonspendable:
+Inventory 1,475,845 - -
+Prepaid items - - -
+Permanent fund - - -
+Restricted for:
+Higher education - 19,012,629 -
+Non-governmental grantor-designated
+purposes - 3,091,614 -
+Performance-based teacher compensation - - -
+Debt service - - 226,603,288
+Capital projects - - -
+Emergency reserve 38,060,520 - -
+Committed to:
+Pupil activities 6,609,037 - -
+Assigned to:
+Subsequent year expenditure 12,677,000 - -
+Special projects 12,439,657 - -
+Capital Projects - - -
+Food service - - -
+Unassigned 76,419,711 - -
+Total fund balances 147,681,770 22,104,243 226,603,288
+Total liabilities, deferred inflows of
+resources and fund balances $ 328,567,074 $ 110,533,870 $ 229,686,821
+The notes to the financial statements are an integral part of this statement. Continued next page
+42
+
+--- PAGE 43 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND THE STATE OF COLORADO
+BALANCE SHEET
+GOVERNMENTAL FUNDS
+AS OF JUNE 30, 2023
+Nonmajor Total
+Governmental Governmental
+Building Funds Funds
+ASSETS
+Assets:
+Cash and cash equivalents $ - $ 6,535,652 $ 274,248,279
+Investments - 3,982 3,982
+Receivables (net of allowance):
+Taxes receivable - 4,714,793 63,749,457
+Intergovernmental - 7,170,290 112,007,076
+Leases receivable 1,949,611 - 5,062,681
+Other 43,801,731 236,084 54,121,601
+Due from other funds 39,654,451 6,801,500 80,236,096
+Inventory - 3,586,163 5,062,008
+Prepaid items 93,192 - 93,192
+Cash with fiscal agents - - 3,226,167
+Restricted cash and cash equivalents 643,116,618 - 644,186,165
+Restricted investments - - 184,455,128
+Total assets $ 728,615,603 $ 29,048,464 $ 1,426,451,832
+LIABILITIES, DEFERRED INFLOWS OF
+RESOURCES AND FUND BALANCES
+Liabilities:
+Accounts payable $ - $ 638,626 $ 80,711,499
+Claims Liability - - 6,382,979
+Accrued payroll and benefits - - 81,621,807
+Due to other funds - 9,045,273 80,245,038
+Unearned revenue - 2,660,690 18,572,193
+Total liabilities - 12,344,589 267,533,516
+Deferred inflows of resources:
+Property taxes - 1,210,447 15,306,914
+Lease related 1,975,136 - 5,088,206
+Unavailable revenues - long-term receivables 43,801,731 - 43,801,731
+Total deferred inflows of resources 45,776,867 1,210,447 64,196,851
+FUND BALANCES:
+Nonspendable:
+Inventory - 540,879 2,016,724
+Prepaid items 93,192 - 93,192
+Permanent fund - 65,520 65,520
+Restricted for:
+Higher education - - 19,012,629
+Non-governmental grantor-designated
+purposes - - 3,091,614
+Performance-based teacher compensation - 6,334,673 6,334,673
+Debt service 1,237,754 - 227,841,042
+Capital projects 643,116,618 - 643,116,618
+Emergency reserve - - 38,060,520
+Committed to:
+Pupil activities - 4,698,371 11,307,408
+Assigned to:
+Subsequent year expenditure - - 12,677,000
+Special projects - - 12,439,657
+Capital Projects 38,391,172 - 38,391,172
+Food service - 3,853,985 3,853,985
+Unassigned - - 76,419,711
+Total fund balances 682,838,736 15,493,428 1,094,721,465
+Total liabilities, deferred inflows of
+resources and fund balances $ 728,615,603 $ 29,048,464 $ 1,426,451,832
+The notes to the financial statements are an integral part of this statement.
+43
+
+--- PAGE 46 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND THE STATE OF COLORADO
+STATEMENT OF REVENUES, EXPENDITURES AND CHANGES IN FUND BALANCES
+GOVERNMENTAL FUNDS
+YEAR ENDED JUNE 30, 2023
+Grants Special
+General Revenue Bond Redemption
+REVENUES
+Taxes $ 860,813,112 $ - $ 216,895,538
+Intergovernmental:
+Revenue from state sources 357,665,238 33,847,623 -
+Revenue from federal sources 1,213,978 169,462,312 -
+Charges for services 74,736,609 10,338,870 -
+Investment income 4,519,945 - 3,838,352
+Other local sources 14,667,800 17,264,365 -
+Total revenues 1,313,616,682 230,913,170 220,733,890
+EXPENDITURES
+Current:
+Instruction:
+Regular instruction 602,036,028 79,595,591 -
+Special education 100,811,403 17,574,426 -
+Vocational education 57,230 2,517 -
+Other instruction 36,523,280 7,059,260 -
+Total instruction 739,427,941 104,231,794 -
+Support services:
+Pupil supporting services 86,702,501 33,967,969 -
+Instructional support 106,644,896 27,107,673 -
+General administration 10,918,334 3,452,941 -
+School administration 87,529,034 1,710,071 -
+Business services 15,748,677 6,419,215 27,607
+Operations and maintenance 51,880,969 5,900,818 -
+Pupil transportation 33,888,903 248,176 -
+Central services 35,465,538 6,254,979 -
+Other support services - 2,764,627 -
+Total support services 428,778,852 87,826,469 27,607
+Community services 12,734,634 7,077,542 -
+Education for adults 175,203 26,382,390 -
+Capital outlay 330,796 1,246,470 -
+Debt service:
+Principal payments 30,374,869 96,882 121,740,000
+Interest and fiscal charges 41,773,535 22,418 99,724,901
+Total debt service 72,148,404 119,300 221,464,901
+Total expenditures 1,253,595,830 226,883,965 221,492,508
+Excess (deficiency) of revenues over
+(under) expenditures 60,020,852 4,029,205 (758,618)
+OTHER FINANCING SOURCES (USES)
+Transfers in - 648,908 5,695,286
+Transfers out (45,813,428) - -
+Premium on issuance of debt - - 1,124,848
+Issuance of leases and software - - -
+Refunding bonds - - 33,380,000
+Payment to bond escrow agent - - (33,705,000)
+Total other financing sources (uses) (45,813,428) 648,908 6,495,134
+Net change in fund balances 14,207,424 4,678,113 5,736,516
+Fund balance - beginning 133,393,336 17,426,130 220,866,772
+Change in reporting entity 81,010 - -
+Fund balance - beginning, as restated 133,474,346 17,426,130 220,866,772
+Fund balance - ending $ 147,681,770 $ 22,104,243 $ 226,603,288
+The notes to the financial statements are an integral part of this statement. Continued next page
+46
+
+--- PAGE 47 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND THE STATE OF COLORADO
+STATEMENT OF REVENUES, EXPENDITURES AND CHANGES IN FUND BALANCES
+GOVERNMENTAL FUNDS
+YEAR ENDED JUNE 30, 2023
+Nonmajor Total
+Governmental Governmental
+Building Funds Funds
+REVENUES
+Taxes $ - $ 87,997,509 $ 1,165,706,159
+Intergovernmental:
+Revenue from state sources - 246,451 391,759,312
+Revenue from federal sources 6,585,598 33,838,221 211,100,109
+Charges for services 7,648 5,030,884 90,114,011
+Investment income 14,953,688 229,770 23,541,755
+Other local sources 23,182,783 5,813,992 60,928,940
+Total revenues 44,729,717 133,156,827 1,943,150,286
+EXPENDITURES
+Current:
+Instruction:
+Regular instruction - 32,978,221 714,609,840
+Special education - 2,580,825 120,966,654
+Vocational education - 36 59,783
+Other instruction - 11,641,751 55,224,291
+Total instruction - 47,200,833 890,860,568
+Support services:
+Pupil supporting services - 2,652,765 123,323,235
+Instructional support - 2,164,685 135,917,254
+General administration - 180,012 14,551,287
+School administration - 46,676 89,285,781
+Business services - 2,651 22,198,150
+Operations and maintenance 18,417,734 47,797,243 123,996,764
+Pupil transportation - - 34,137,079
+Central services 11,013,362 1,002,123 53,736,002
+Other support services - 44,257,973 47,022,600
+Total support services 29,431,096 98,104,128 644,168,152
+Community services - 12,588 19,824,764
+Education for adults 51 2,487 26,560,131
+Capital outlay 219,130,104 12,468,030 233,175,400
+Debt service:
+Principal payments 10,797,306 1,261,274 164,270,331
+Interest and fiscal charges 6,479,076 268,054 148,267,984
+Total debt service 17,276,382 1,529,328 312,538,315
+Total expenditures 265,837,633 159,317,394 2,127,127,330
+Excess (deficiency) of revenues over
+(under) expenditures (221,107,916) (26,160,567) (183,977,044)
+OTHER FINANCING SOURCES (USES)
+Transfers in 31,914,777 7,554,457 45,813,428
+Transfers out - - (45,813,428)
+Premium on issuance of debt - - 1,124,848
+Issuance of leases and software 2,371,271 12,385,719 14,756,990
+Refunding bonds - - 33,380,000
+Payment to bond escrow agent - - (33,705,000)
+Total other financing sources (uses) 34,286,048 19,940,176 15,556,838
+Net change in fund balances (186,821,868) (6,220,391) (168,420,206)
+Fund balance - beginning 777,646,743 21,713,819 1,171,046,800
+Change in reporting entity 92,013,861 - 92,094,871
+Fund balance - beginning, as restated 869,660,604 21,713,819 1,263,141,671
+Fund balance - ending $ 682,838,736 $ 15,493,428 $ 1,094,721,465
+The notes to the financial statements are an integral part of this statement.
+47
+
+--- PAGE 55 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+YEAR ENDED JUNE 30, 2023
+Measurement Focus, Basis of Accounting, and Financial Statement Presentation
+The government-wide financial statements are reported using the economic resources measurement
+focus and the accrual basis of accounting as is the fiduciary fund financial statements. Revenues are
+recorded when earned and expenses are recorded when a liability is incurred, regardless of the timing of
+related cash flows. Property taxes are recognized as revenues in the fiscal year for which they are levied.
+Grants and similar items are recognized as revenue as soon as all eligibility requirements imposed by the
+provider have been met.
+The effect of interfund activity has generally been eliminated from the government-wide financial
+statements. Exceptions to this are charges between the District’s governmental activities and component
+units. Elimination of these charges would distort the direct costs and program revenues reported for the
+various functions concerned.
+Governmental fund financial statements are reported using the current financial resources measurement
+focus and the modified accrual basis of accounting. Revenues are recognized as soon as they are both
+measurable and available. Revenues are considered to be available when they are collectible within the
+current period or soon enough thereafter to pay liabilities of the current period. For this purpose, the
+District considers grant and state revenues to be available if they are collected within 180 days of the
+fiscal year-end. Property tax and other revenues are considered available if collected within 60 days of the
+year-end. Expenditures generally are recorded when a liability is incurred, as under accrual accounting.
+However, debt service expenditures as well as expenditures related to compensated absences, pension
+and OPEB are recorded only when payment is due.
+The District’s fiduciary funds apply the accrual basis of accounting and the economic resources
+measurement focus.
+The accounts of the District are organized on the basis of funds, each of which is considered a separate
+accounting entity. The operations of each fund are accounted for with a separate set of self-balancing
+accounts that comprise its assets, liabilities, deferred inflows of resources, fund equity, revenue and
+expenditures or expenses as appropriate. Government resources are allocated to and accounted for in
+individual funds based upon the purpose for which they are to be spent and the means by which
+spending activities are controlled.
+For governmental activities, when both restricted and unrestricted resources are available for use, it is the
+District’s policy to use restricted resources first, then unrestricted resources, as they are needed.
+Governmental Funds
+The District reports the following major governmental funds:
+The General Fund is the general operating fund of the District. It is used to account for all financial
+resources except those required to be accounted for in other funds as detailed below. Primary revenue
+sources for the general fund include property taxes, state equalization, and tuition billing for early
+childhood education. The internal service fund was combined into the general fund starting the fiscal year
+2023. The district is no longer providing goods or services on a cost reimbursement basis.
+The Grants Special Revenue Fund is used for the revenues and expenditures related to federal, state, and
+local grants. Special Revenue funds are used to account for proceeds of special revenue sources that are
+55
+
+--- PAGE 56 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+YEAR ENDED JUNE 30, 2023
+legally or otherwise restricted to expenditures for specified purposes. Revenue restrictions in this fund are
+imposed by the grantor for the specific purposes of the grant.
+The Bond Redemption Fund (debt service fund) accounts for and reports financial resources that are
+restricted for the payment of principal and interest on long-term general obligation debt of the District as
+a result of the issuance of general obligation bonds.
+The Building Fund is a capital projects fund and accounts for ongoing capital outlay needs of the District
+such as construction, renovation projects, repairs and maintenance funded by the sale of general
+obligation bonds and proceeds from the issuance of certificates of participation (COPs). Debt payments on
+certain COPs are also accounted for here. The capital reserve fund was combined into the building fund
+starting fiscal year 2023. The Building and Capital Reserve Funds were combined into a single fund to
+promote efficiencies of managing capital in a single fund while maintaining capabilities of project level
+reporting at the funding level as allowed by state statute.
+The District reports the following nonmajor governmental funds:
+The Food Services Special Revenue Fund accounts for the revenue and expenses related to providing
+students with healthy and nutritious meals. Revenue sources for this fund include federal and state grants
+and private sources.
+The Pupil Activity Special Revenue Fundaccounts for the revenue and expenditures of sponsoring athletic
+events at District middle and high schools. The fund also represents school sponsored student activities
+managed at the school level.
+The Mill Levy Technology Maintenance Special Revenue Fundaccounts for the proceeds of voter approved
+taxes from the 2020 mill levy override. The investments and expenditures are dedicated to maintenance
+operations and technology improvements.
+The ProComp Special Revenue Fund is a blended component unit used to account for the proceeds of
+voter approved taxes from the 2005 mill levy override. The investments and expenditures are the
+professional compensation system of the teachers.
+The Permanent Fund is used to account for and report resources that are restricted to the extent that
+only earnings and not principal may be used for purposes that support the District’s programs.
+Fiduciary Funds
+The District has two Fiduciary Funds which include the Other Employee Benefit Trust Fund and the Private
+Purpose Trust Fund. The Private Purpose Trust Fund is used to report all fiduciary activities that are not
+required to be reported in pension and other employee benefit trust funds or investment trust funds and
+are held in trust. The Other Employee Benefit Trust Fund is used to report the MetLife Retiree Life
+Insurance OPEB Plan since the assets are administered through a trust in which Denver Public Schools is
+not a beneficiary, dedicated to providing benefits to retirees or designated beneficiaries in accordance
+with the benefit terms, and legally protected from the creditors of Denver Public Schools. The District
+included the Retiree Life Insurance trust as a fiduciary component unit in its financial statements. The
+District’s postemployment health benefits were transferred to PERACare on January 1, 2010. See Note 10
+for additional information for OPEB Retiree Life Insurance Plan.
+56
+
+--- TABLE 1 ON PAGE 56 ---
+
+The Pupil Activity Special Revenue Fund	accounts for the revenue and expenditures of sponsoring athletic
+
+
+events at District middle and high schools. The fund also represents school sponsored student activities	
+
+
+managed at the school level.	
+
+
+
+--- PAGE 59 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+YEAR ENDED JUNE 30, 2023
+twelve-month period from August 1 to July 31. Changes in the accrual are reflected in expenditures or
+expenses on the applicable fund's statement of revenues, expenditures and changes in fund balances.
+Certain payroll benefits and part-time salaries which are payable at June 30 are also included.
+Encumbrances
+Encumbrance accounting, under which purchase orders, contracts and other commitments for the
+expenditures of monies are recorded in order to reserve that portion of the applicable appropriation, is
+employed as an extension of formal budgetary integration in all funds.
+Compensated Absences
+The compensated absence liability including payroll taxes, reported on the government-wide financial
+statements consists of accumulated sick and vacation leave which vests and is payable upon termination
+or retirement. Accumulated sick leave vests only at qualified retirement and vests as a rate determined by
+contract, which is less than the normal rate of pay. A qualified retiree can be paid for up to one
+work-years' worth of accumulated sick leave. Retirees who accumulate vacation leave are compensated
+at their normal rate of pay for the balance at retirement. On the fund financial statements, compensated
+absence amounts are reported as expenditures or expenses, as appropriate, when paid.
+Long-term Obligations
+In the government-wide financial statements, long-term debt and other long-term obligations are
+reported as liabilities. Debt premiums and discounts are deferred and amortized over the life of the debt
+using the straight-line method, which approximates the effective interest method. The appropriate
+obligations are reported net of the applicable debt premium or discount.
+In the fund financial statements, governmental fund types recognize debt premiums and discounts during
+the current period. The face amount of debt issued is reported as other financing sources. Premiums
+received on debt issuance are reported as other financing sources while discounts on debt issuance are
+reported as other financing uses. In accordance with Section 22-45-103, CRS, the District’s bond
+redemption fund custodian for FY 2023 was U.S. Bank.
+Deferred Outflows of Resources and Deferred Inflows of Resources
+In accordance with GASB Statement No. 65, Items Previously Reported as Assets and Liabilities, GASB
+Statement No. 68, Accounting and Financial Reporting for Pensions – an amendment of GASB Statement
+No. 27 , GASB Statement No. 75, Accounting and Financial Reporting for Postemployment Benefits other
+than Pensions and GASB Statement No. 87 Leases the government-wide statements include deferred
+outflows of resources representing the deferred loss on refunding of the District’s certificates of
+participation and bond obligations and items relating to the District’s pension and OPEB obligations.
+Deferred inflows of resources relate to deferred gain on refunding, pension, OPEB obligations and leases.
+Additionally, the governmental fund financial statements include deferred inflows of resources for
+property taxes receivable and long-term receivables that have not met modified accrual revenue
+recognition criteria.
+59
+
+--- PAGE 60 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+YEAR ENDED JUNE 30, 2023
+Net Position
+In the government-wide statements, net position consists of net investment in capital assets, restricted
+and unrestricted net positions. Restricted net position includes amounts for debt service,
+performance-based teacher compensation, emergency reserve, higher education, non-governmental
+grantor-designated purposes, and capital projects.
+Fund Balances
+Fund balances for governmental funds are reported in classifications that comprise a hierarchy based
+primarily on the extent to which the District is bound to honor constraints on the specific purposes for
+which amounts in those funds can be spent. For the classification of fund balances, the District considers
+amounts to have been spent when expenditure is incurred for purposes for which fund balance is both
+available and can be used. In accordance with GASB Statement 54, the fund balances of the District are
+classified into the following categories: nonspendable, restricted, committed, assigned or unassigned.
+Nonspendable fund balance includes amounts that cannot be spent because they are either (a) not in
+spendable form or (b) legally or contractually required to be maintained intact, including items that are
+not expected to be converted to cash.
+Restricted fund balance includes amounts where constraints have been placed on the use of resources by
+either (a) externally imposed by creditors (such as through debt covenants), grantors, contributors, or
+laws or regulations of other governments; or (b) imposed by law through constitutional provisions or
+enabling legislation.
+Committed fund balance includes amounts that can only be used for specific purposes pursuant to
+constraints imposed by the Board of Education. Committed amounts cannot be used for any other
+purpose unless the Board of Education removes or changes the specified use by taking the same type of
+formal action (for example, resolution) it employed to previously commit those amounts. Committed fund
+balance also incorporates contractual obligations to the extent that existing resources in the fund have
+been specifically committed for use in satisfying those contractual requirements.
+Assigned fund balance includes amounts that are constrained by the District’s intent to be used for
+specific purposes, but are neither restricted nor committed. The Board of Education adopted a fund
+balance policy and as part of the policy delegated the authority to the Superintendent or designee to
+assign amounts to be used for specific purposes.
+Unassigned fund balance represents residual fund balance that has not been restricted, committed or
+assigned. Positive unassigned fund balance can only be reported in the general fund while negative
+unassigned fund balance may be reported in any governmental fund.
+When an expenditure is incurred for purposes for which both restricted and unrestricted fund balance is
+available, the District considers restricted funds to have been spent first. When an expenditure is incurred
+for which committed, assigned, or unassigned fund balances are available, the District considers amounts
+to have been spent first out of committed funds, then assigned funds and finally unassigned funds, as
+needed, unless the Board of Education has provided otherwise in its commitment or assignment actions.
+60
+
+--- PAGE 61 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+YEAR ENDED JUNE 30, 2023
+2. CASH AND INVESTMENTS
+Investments Authorized by the Colorado Statutes and District’s Investment Policy
+The table below identifies the investment types that are authorized by the District’s investment policy or
+Colorado Revised Statutes (CRS), where more restrictive. The table also identifies certain provisions of the
+District’s investment policy that address interest rate risk, credit risk and concentration of credit risk. The
+table does not address the investments of (a) debt proceeds that are governed by the provisions of the debt
+agreements of the District, or (b) Special Revenue ProComp Trust assets that are governed by the Trust’s
+Investment Policy Statement rather than the general provisions of the District’s investment policy.
+Maximum
+Maximum Maximum % of Investment in
+Authorized Investment Type Maturity Portfolio One Issuer
+U.S Treasury Obligations 5 years 100% N/A
+Federal Agency and instrumentality Securities 5 years 100% 50%
+Local Government Investment Pools 13 months 100% 50%
+Money Market Mutual funds 13 months 100% 50%
+Repurchase Agreements* 5 years 100% N/A
+Commercial Paper 9 months 35% 5%
+Corporate Bonds 3 years 35% 5%
+Municipal Bonds 5 years 25% 5%
+Non-negotiable Certificates of Deposit 1 year 5% 2%
+Negotiable Certificates of Deposit 3 years 35% 5%
+Flexible Repurchase Agreements 5 years 100% N/A
+Guaranteed Investment Contracts C.R.S. 24-75-601 N/A N/A
+*Other than repurchase agreements for investment of general obligation bond proceeds and certificates of
+deposit.
+As of June 30, 2023, the District investments are in compliance with the investment policy.
+Investments Authorized by Debt Agreements
+The District invests in various investment securities that are exposed to interest rate risk and credit risk.
+Due to the level of risk associated with certain investment securities, it is possible that changes in the
+values of investment securities will occur in the near term and that such change could materially affect the
+amounts reported in the financial statements.
+The District categorizes its fair value measurements within the fair value hierarchy established by generally
+accepted accounting principles. The valuation is based on the inputs used to measure the fair value of the
+asset. Level 1 inputs are quoted prices in active markets for identical assets; Level 2 inputs are inputs other
+than those within Level 1 that are directly or indirectly observable; and Level 3 inputs are significant
+unobservable inputs.
+61
+
+--- PAGE 62 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+YEAR ENDED JUNE 30, 2023
+The District has the following recurring fair value measurements as of June 30, 2023:
+ Corporate Notes of $125,104,298 are valued using quoted market price or other observable
+inputs (Level 1 and 2 inputs).
+ U.S. Treasury securities of $361,614,378 are valued using quoted price in active markets for
+identical assets (Level 1 inputs).
+ Repurchase Agreements of $38,475,000 are valued using pricing models (Level 2 inputs).
+Custodial Credit Risk
+Colorado law requires the District to use eligible public depositories as defined by the Public Deposit
+Protection Act of 1989 (the Act). Under the Act, the depository is required to pledge eligible collateral having
+a market value at all times equal to 102% of the aggregate public depositories not insured by the Federal
+Deposit Insurance Corporation. Eligible collateral as defined by the Act primarily includes obligations of, or
+guarantees by, the U.S. government, the State of Colorado or any political subdivision thereof and
+obligations evidenced by notes secured by first lien mortgages of trust on real property.
+Custodial credit risk is the risk that in the event of a bank failure, the District will not be able to recover its
+deposits nor the collateral securities that are in the possession of an outside party.
+The District’s deposits are with eligible public depositories and are considered to be held in the name of the
+District. These deposits have bank balances of $16,638,691 and related carrying amount of $4,708,098.
+Interest Rate Risk
+Interest rate risk is the risk that an investment’s value will change due to a change in interest rates. The
+District’s investment policy addresses interest rate risk by requiring adherence to the Colorado Revised
+Statutes. The District manages its exposure to interest rate risk by purchasing a combination of shorter and
+longer-term investments and by timing cash flows from maturities so that a portion of the portfolio is either
+maturing or close to maturing as necessary to provide the cash flow and liquidity needed by operations and
+debt service requirements.
+The following table shows the distribution of the District’s cash and cash equivalents and investments by
+maturity, which displays the sensitivity of the fair values of the District’s investments, including investments
+held by bond trustee, to market rate fluctuations:
+Maturity
+Type of Security Fair Value 30 days or less 12 months or less 1 to 2 years 2 to 7 years
+Certificate of Deposit $ - $ - $ - $ - $ -
+Commercial Paper - - - - -
+US Treasury Notes 361,614,378 361,614,378 - -
+Corporate Note 125,104,298 125,104,298 - -
+External Investment Pools 427,382,554 427,382,554
+Money Market Funds 149,855,393 149,855,393
+Repurchase Agreements 38,475,000 - - - 38,475,000
+Forward Delivery Agreements:
+First American Treasury Obligations 23,612 - 23,612 - -
+Retiree Life Insurance 20,459,411 20,459,411 - - -
+Total $ 1,122,914,646 $ 597,697,358 $ 486,742,288 $ - $ 38,475,000
+Stocks with an amount of $3,982 are the only securities without maturity.
+62
+
+--- PAGE 71 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+NOTES TO THE FINANCIAL STATEMENTS
+YEAR ENDED JUNE 30, 2023
+Capital assets (net) $ 1,762,297,862
+Outstanding bonds payable $ 2,320,930,866
+Less unspent bond proceeds (639,868,168)
+Less capital related deferred loss on refunding (16,607,046)
+Plus capital related deferred gain on refunding 7,331,313
+Adjusted bonds payable $ 1,671,786,965
+Percent of capitalized assets 85.57%
+Bonds payable related to capital assets $ 1,430,548,106
+Related Debt:
+Certificates of participation 268,065,118
+Lease assets liability 12,820,535
+SBITA/software assets liability 11,948,752
+Accounts payable capital related 24,930,042
+Retainage payable 8,197,146
+Total related debt $ 1,756,509,699
+Net investment in capital assets $ 5,788,163
+71
+
+--- PAGE 73 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+YEAR ENDED JUNE 30, 2023
+7. LONG-TERM LIABILITIES
+A summary of changes in long-term liabilities is as follows:
+Balance Refunded/ Balance Due Within One
+June 30, 2022 Additions Reductions June 30, 2023 Year
+Bonds payable $ 2,192,172,000 $ 33,380,000 $ (155,445,000) $ 2,070,107,000 $ 109,955,000
+Premiums 281,386,246 1,124,848 (31,687,229) 250,823,866 -
+Total bonds payable 2,473,558,246 34,504,848 (187,132,229) 2,320,930,866 109,955,000
+Certificates of participation 935,485,000 - (38,500,000) 896,985,000 41,315,000
+Premiums 18,610,823 - (2,218,195) 16,392,628 -
+Total certificates of
+participation 954,095,823 - (40,718,195) 913,377,628 41,315,000
+Other long-term liabilities:
+Compensated absences 18,192,456 11,851,129 (11,020,614) 19,022,971 3,310,534
+Lease Liability 14,042,628 1,130,617 (2,352,710) 12,820,535 1,488,981
+SBITA Liability - 13,626,373 (1,677,621) 11,948,752 2,073,797
+Accrued Claims Liability 11,578,073 2,128,703 (1,270,966) 12,435,809 4,205,945
+Net OPEB obligation* 26,552,730 - (18,940,188) 7,612,542 -
+Net Pension Liability* 4,035,111 435,109,908 439,145,019 -
+Other obligation 1,500,000 - - 1,500,000 -
+Total other long-term
+liabilities 75,900,998 463,846,730 (35,262,099) 504,485,628 11,079,257
+Total long-term liabilities $ 3,503,555,067 $ 498,351,578 $ (263,112,523) $ 3,738,794,122 $ 162,349,257
+* In prior years the General Fund has been used to liquidate pension, OPEB liabilities and compensated absences.
+Bonds payable and certificates of participation at June 30, 2023 are comprised of the following:
+Amount Amount Interest Final
+Bonds: Issued Outstanding Rate Maturity
+2005A GO Refunding Bonds $ 130,290,000 $ 26,735,000 5.00% - 5.50% 12/1/2023
+2009B GO Qualified School Construction Bonds 24,022,000 24,022,000 1.39% 12/1/2024
+2009C GO Taxable Build America New Money bonds 250,000,000 250,000,000 5.664% 12/1/2033
+2009F GO Tax-Exempt Refunding Bonds 24,700,000 440,000 3.20%-5.00% 12/1/2023
+2010A GO Qualified School Construction Bonds 29,260,000 29,260,000 4.73% 9/1/2027
+2010B GO Taxable Build America New Money Bonds 1,545,000 1,545,000 4.93% 12/1/2028
+2010C GO Tax-Exempt Refunding Bonds 85,390,000 17,350,000 2.50% - 5.00% 12/1/2023
+2012B GO Tax-Exempt Bonds 428,600,000 77,340,000 3.00% - 5.00% 12/1/2032
+2012C GO Taxable Qualified Zone Academy Bonds 16,000,000 16,000,000 3.773% 12/1/2035
+2012D GO Taxable Refunding Bonds 67,220,000 2,390,000 1.680% - 3.154% 12/1/2028
+2014A GO Bonds 21,400,000 15,300,000 5.00% - 5.50% 12/1/2034
+2014B GO Refunding Bonds 149,170,000 130,805,000 3.50% - 5.00% 12/1/2029
+2016A GO Refunding Bonds 143,280,000 137,965,000 1.75% - 5.00% 12/1/2031
+2017 GO Bonds 466,675,000 418,050,000 4.00% - 5.00% 12/1/2041
+2018A GO Bonds 105,325,000 92,970,000 5.00% - 5.50% 12/1/2041
+2018B GO Refunding Bonds 106,130,000 34,150,000 2.297% - 3.587% 12/1/2032
+2021 GO Bonds 450,000,000 364,515,000 3.00% - 5.00% 12/1/2045
+2021A GO Refunding Bonds 52,890,000 52,890,000 4.00% 12/1/2028
+2022A GO Bonds 345,000,000 345,000,000 5.00% 12/1/2045
+2022B GO Refunding Bonds 33,380,000 33,380,000 5.00% 12/1/2024
+Premium - 250,823,866 - -
+Total bonds payable $ 2,320,930,866
+73
+
+--- PAGE 74 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+NOTES TO THE FINANCIAL STATEMENTS
+YEAR ENDED JUNE 30, 2023
+Amount Amount Interest Final
+Certificates of Participation: Issued Outstanding Rate Maturity
+2011B Taxable $ 396,235,000 $ 347,040,000 6.22% - 7.017% 12/15/2037
+2013B Taxable 536,855,000 419,560,000 2.018% - 4.242% 12/31/2037
+2013C 58,740,000 44,595,000 3.25% - 5.00% 12/15/2033
+2015B Tax-exempt 8,570,000 7,725,000 2.50% - 5.00% 12/15/2045
+2017A 32,080,000 19,840,000 2.00% - 5.00% 12/1/2030
+2017B 14,095,000 9,750,000 4.00% - 5.00% 12/1/2025
+2017C 10,000,000 7,885,000 2.94% 12/1/2036
+2018 7,710,000 6,405,000 3.000% - 5.000% 12/1/2037
+2020A 35,225,000 34,185,000 5.000% 12/1/2041
+Premium - 16,392,628 - -
+Total certificates of participation $ 913,377,628
+In prior years, the registered voters of Denver authorized the School District to issue general obligation
+bonds. As of June 30, 2023, all previously authorized bonds had been issued.
+On May 1, 2013, as authorized by Board resolution, the District executed $58.7 million Certificates of
+Participation, Series 2013C. The certificates provided funding of various projects in the Stapleton Urban
+Redevelopment Area including the acquisition, improvement, and placement in service of one additional
+District elementary and K-8 schools. Also included were various improvements to the high school and
+sports field. The District and the Denver Urban Renewal Authority have entered into a 2013 Supplemental
+Denver Public Schools Funding Agreement to provide reimbursement to the District for the above listed
+projects which will serve as the source of repayment for the Series 2013C Certificates of Participation.
+In September of 2015, as authorized by Board resolution, the District executed $8.6 million Certificates of
+Participation, Series 2015B. The proceeds were used for the purchase of the parking garage located at
+1855 Lincoln Street in downtown Denver and the land upon which it is located. The primary purpose is to
+provide affordable and long-term parking for the users of the Emily Griffith Campus. The Certificates
+explain undivided interests in the right to receive certain revenues payable by the District under an
+annually renewed Lease Purchase Agreement dated on October 5, 2015.
+In May of 2017, as authorized by Board resolution, the District issued $32 million Certificates of
+Participation, Series 2017A and $14 million of Certificates of Participation, Series 2017B. The purpose of
+the 2017A issuance was to construct the Stapleton Park Street School, an elementary school located in
+the Stapleton neighborhood of Denver. The proceeds from 2017B issuance were used to purchase a
+school site for the Stapleton Park Street School and to help fund the design and construction cost of a fire
+station near the school site to meet safety standards for DPS schools within Stapleton.
+In November of 2017, as authorized by the Board resolution, the District issued $10 million Refunding
+Certificate of Participation, Series 2017C. The proceeds for the issuance in combination with the proceeds
+received from the sale of Emily Griffith Opportunity School properties were used for the refunding of
+$35.2 million of 2013A Certificate of Participation.
+In February of 2018, as authorized by Board resolution, the District issued $7.7 million Certificates of
+Participation, Series 2018. The proceeds were used to purchase a building located at 1617 South Acoma
+Street in Denver and the site upon which it is located. The Acoma building currently houses 150 District
+employees in the Planning, Design and Construction, Library Services, JROTC, Extended Learning and
+Community Schools departments.
+74
+
+--- PAGE 75 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+YEAR ENDED JUNE 30, 2023
+In December of 2019, as authorized by Board resolution, the District issued $35.2 million Certificates of
+Participation, Series 2020A. The proceeds from the 2020A Certificate financed the Kepner Shared Campus
+improvements and expansion and the Energy Performance Contract Project (EPC).
+In November of 2020, as authorized by Board resolution, the District issued $450 million general
+obligation bonds, Series 2021A. The proceeds will finance investments in critical maintenance, the
+Montbello campus, air conditioning, 2020A COP payback of Kepner portion, upgrading quality learning
+environments for students, District capacity needs, upgraded technology and safety, general fund relief, a
+greenhouse for food and nutrition services, master planning, and the prepayment of the District's
+obligations under the 2018B issuance.
+In August of 2021, as authorized by the Board resolution, the District issued $52.8 million Refunding
+general obligation bonds, Series 2021B. The proceeds for the issuance were used for the refunding of
+$61.2 million of 2012A general obligation bonds. This results in a deferred gain on refunding of $3.4
+million.
+In February of 2022, as authorized by Board resolution, the District issued $345 million general obligation
+bonds, Series 2022A. The proceeds will finance investments in critical maintenance, the Montbello
+campus, air conditioning, 2020A COP payback of Kepner portion, upgrading quality learning environments
+for students, District capacity needs, upgraded technology and safety, general fund relief, a greenhouse
+for food and nutrition services, master planning, and the prepayment of the District's obligations under
+the 2018B issuance.
+In September of 2022, as authorized by Board resolution, the District issued $33.4 million Refunding
+general obligation bonds, Series 2022B. The proceeds were used for the refunding of $33.7 million of
+2012B general obligation bonds. This results in a deferred gain on refunding of $4.6 million.
+Annual requirements to maturity are as follows:
+Year Ending General Obligation Bonds Certificates of Participation
+June 30, Principal Interest Principal Interest
+2024 109,955,000 94,322,987 41,315,000 45,743,112
+2025 139,247,000 88,614,319 45,445,000 43,836,635
+2026 92,330,000 83,327,660 48,550,000 42,023,550
+2027 94,215,000 78,896,253 44,955,000 39,573,505
+2028 114,435,000 75,218,384 47,880,000 37,337,935
+2029-2033 578,545,000 289,618,797 287,550,000 144,824,444
+2034-2038 368,575,000 170,735,501 365,270,000 56,569,674
+2039-2043 375,785,000 84,542,125 14,520,000 2,068,200
+2044-2047 197,020,000 13,715,950 1,500,000 115,000
+Total $ 2,070,107,000 $ 978,991,976 $ 896,985,000 $ 412,092,056
+The bonds are general obligations of the District. The full faith and credit of the District are pledged for
+the payment of the principal of and interest on the bonds. The Board annually determines and certifies, to
+the City and County of Denver a rate of levy for general ad valorem taxes, on all of the taxable property
+in the District, sufficient to pay debt service on bonds when due. The COPs are secured by schools and
+administrative properties owned and operated by the District.
+All bond obligations will be paid from the Bond Redemption Fund. The 2013C, 2017A, 2017B, 2017C and
+2020A COPs are to be paid from the Building Capital Fund; whereas the 2011B and 2013B taxable COPs
+75
+
+--- TABLE 1 ON PAGE 75 ---
+
+In August of 2021, as authorized by the Board resolution, the District issued $52.8 million Refunding
+
+
+general obligation bonds, Series 2021B. The proceeds for the issuance were used for the refunding of
+
+
+$61.2 million of 2012A general obligation bonds. This results in a deferred gain on refunding of $3.4
+
+
+million.
+
+
+
+--- TABLE 2 ON PAGE 75 ---
+
+	The proceeds will finance investments in critical maintenance, the Montbello
+
+
+campus, air conditioning, 2020A COP payback of Kepner portion, upgrading quality learning environments	
+
+
+for students, District capacity needs, upgraded technology and safety, general fund relief, a greenhouse	
+
+
+for food and nutrition services, master planning, and the prepayment of the District's obligations under	
+
+
+the 2018B issuance.	
+
+
+
+--- PAGE 76 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+NOTES TO THE FINANCIAL STATEMENTS
+YEAR ENDED JUNE 30, 2023
+are attributable to pension obligations and are paid from the General Fund. The 2015B tax-exempt COPs
+are paid from General Fund.
+The Building Fund ending fund balance of $682,838,736 is from the issuance of Series 2017, 2018 and
+2020 general obligation bonds and related interest earnings. At June 30, 2023, the Building Fund had
+capital expenditure purchase commitments outstanding of $205,637,802.
+Leases and Software Liability
+The District has multiple agreements for leasing of buildings, equipment, land and software
+arrangements. In accordance with generally accepted accounting principles, the agreements have been
+capitalized at the present value of future minimum payments. The assets are reflected in the
+government-wide financial statements as of June 30, 2023 as follows:
+Amount Interest Final
+Lease Type Original Amount Outstanding Rate Maturity
+Building $ 12,490,415 $ 12,484,833 Variable 06/01/2035
+Equipment 1,232,988 219,090 Variable 05/01/2026
+Land 319,225 116,612 Variable 05/01/2027
+Software 14,191,214 11,948,752 Variable 12/23/2030
+Total Lease Liability $ 28,233,842 $ 24,769,287
+Annual debt service requirements to maturity for leases and software are as follows:
+Year Ending June 30, Total
+2024 $ 4,416,086
+2025 3,629,801
+2026 3,490,363
+2027 3,407,330
+2028 2,927,995
+2029-2033 9,577,945
+2034-2036 1,677,761
+Total Minimum Lease and Software Payments $ 29,127,281
+Less: Interest 4,357,994
+Present Value of Future Minimum Lease and
+Software Payments $ 24,769,287
+Defeasance of General Obligation Bonds
+In prior years, the District advance refunded a portion of the District’s general obligation bonds with the
+proceeds from the issuance of new general obligation bonds. The defeased bonds are not considered a
+liability of the District. At June 30, 2023, $317,690,000 of refunded 2009F, 2012A, and 2012B bonds are
+considered in-substance defeased.
+On September 28, 2022, the District advance refunded a portion of the District's Series 2012B general
+obligation bonds with the proceeds from the issuance of general obligation refunding bonds, Series
+76
+
+--- PAGE 77 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+NOTES TO THE FINANCIAL STATEMENTS
+YEAR ENDED JUNE 30, 2023
+2022B, with an average rate of 5.0%. The total debt service on the 2022B refunding bonds will be
+$35,633,575 through December 2024 for a decrease of $9,486,525 from prior debt service on 2012B
+bonds. As a result of the refunding, the District will experience an economic gain (the present value of the
+difference between the old and the new debt service) of $3,448,812.
+Compensated Absences Liability
+Compensated absences liability consists of accumulated sick leave time that vests and is payable upon
+retirement and accumulated vacation leave time that vests and is payable upon retirement or termination.
+On the fund financial statements, compensated absence amounts are reported as expenditures or
+expenses when paid. The estimated cost for fiscal year 2024 is $3,310,534. These expenditures are
+recognized in the fund where incurred.
+77
+
+--- PAGE 78 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+YEAR ENDED JUNE 30, 2023
+8. SHORT-TERM DEBT
+The District participates in the State Treasurer’s Interest-Free Loan Program for Colorado School Districts
+authorized by Sections 29-15-112 and 22-54-110 of the Colorado Revised Statutes. The loan is secured
+by ad valorem taxes on real and personal property received by the District on and after March 1, 2023, to
+and including June 30, 2023. The District borrowed $490,000,000 throughout the fiscal year to meet cash
+flow needs since the majority of property taxes are received starting in March. The loan was repaid during
+the months of March and May. In June of 2023, the District's Board of Education authorized participation
+in the Fiscal Year 2024 State Interest Free Loan Program with a Maximum Principal Amount of
+$630,000,000.
+June 30, 2022 June 30, 2023
+Balance Borrowed Repayment Balance
+$ 0 $ 490,000,000 $ 490,000,000 $ 0
+78
+
+--- PAGE 86 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+NOTES TO THE FINANCIAL STATEMENTS
+YEAR ENDED JUNE 30, 2023
+Target 30 Year Expected Geometric
+Asset Class Allocation Real Rate of Return
+Global Equity 54.00% 5.60%
+Fixed Income 23.00% 1.30%
+Private Equity 8.50% 7.10%
+Real Estate 8.50% 4.40%
+Alternatives 6.00% 4.70%
+Total 100.00%
+In setting the long-term expected rate of return, projections employed to model future returns provide
+a range of expected long-term returns that, including expected inflation, ultimately support a long-term
+expected nominal rate of return assumption of 7.25 percent.
+Discount rate. The discount rate used to measure the total pension liability was 7.25 percent. The
+projection of cash flows used to determine the discount rate applied the actuarial cost method and
+assumptions shown above. In addition, the following methods and assumptions were used in the
+projection of cash flows:
+ Total covered payroll for the initial projection year consists of the covered payroll of the active
+membership present on the valuation date and the covered payroll of future plan members
+assumed to be hired during the year. In subsequent projection years, total covered payroll was
+assumed to increase annually at a rate of 3.00 percent.
+ Employee contributions were assumed to be made at the member contribution rates in effect for
+each year, including the scheduled increases in SB 18-200 and required adjustments resulting
+from the 2018 and 2020 AAP assessments. Employee contributions for future plan members were
+used to reduce the estimated amount of total service costs for future plan members.
+ Employer contributions were assumed to be made at rates equal to the fixed statutory rates
+specified in law for each year, including the scheduled increase in SB 18-200 and required
+adjustments resulting from the 2018 and 2020 AAP assessments. Employer contributions also
+include current and estimated future AED and SAED, until the actuarial value funding ratio
+reaches 103%, at which point the AED and SAED will each drop 0.50% every year until they are
+zero. Additionally, estimated employer contributions reflect reductions for the funding of the AIR
+and retiree health care benefits. For future plan members, employer contributions were further
+reduced by the estimated amount of total service costs for future plan members not financed by
+their member contributions.
+ Employer contributions for the DPS Division are reduced by an amount equal to the principal
+payments plus interest necessary each year to finance the pension certificates of participation
+(PCOPs) issued in 1997 and 2008 and refinanced thereafter.
+ As specified in law, the State, as a nonemployer contributing entity, will provide an annual direct
+distribution of $225 million (actual dollars), commencing July 1, 2018, that is proportioned
+between the State, School, Judicial, and DPS Division Trust Funds based upon the covered payroll
+of each Division. The annual direct distribution ceases when all Division Trust Funds are fully
+funded.
+86
+
+--- TABLE 1 ON PAGE 86 ---
+
+Asset Class	Target
+Allocation	30 Year Expected Geometric
+Real Rate of Return
+
+
+Global Equity	54.00%	5.60%
+
+
+Fixed Income	23.00%	1.30%
+
+
+Private Equity	8.50%	7.10%
+
+
+Real Estate	8.50%	4.40%
+
+
+Alternatives	6.00%	4.70%
+
+
+Total	100.00%	
+
+
+
+--- PAGE 105 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+YEAR ENDED JUNE 30, 2023
+13. COMMITMENTS AND CONTINGENCIES
+The District is a party to pending or potential lawsuits under which it may be required to pay certain
+amounts upon final disposition of these matters. After consulting with counsel, the District’s management
+has concluded that no significant adverse effect on the June 30, 2023 financial statements should result
+upon final disposition of these proceedings.
+The District has a potential liability relating to the "Asbestos Hazard Emergency Response Act" (the Act),
+which is a federally-funded hazardous material/asbestos management program administered by the State
+Health Department. It is not possible to estimate the costs associated with the Act, therefore no liability
+has been accrued. It is expected that these expenditures will not have a significant impact on the
+financial position of the District.
+Under terms of federal and state grants, periodic audits are required and certain costs may be questioned
+as not being appropriate expenditures under the terms of the grants. Such audits could lead to
+reimbursement to the grantor agencies. The District's management believes a disallowance, if any, will be
+immaterial.
+For the year ended June 30, 2023, the District reported a deficit net position of $561,555,537 in the
+government-wide statements. This deficit can be partially attributed to the implementation of GASB 68,
+Accounting and Financial Reporting for Pensions – an amendment of GASB Statement No. 27 and
+GASB 75, Accounting and Financial Reporting for Postemployment Benefits Other Than Pensions
+requiring the recognition of a long-term liability for pensions and postemployment benefits other than
+pensions respectively. The deficit net position can also be attributed to liabilities related to the District’s
+Certificates of Participation and General Obligation bonds to fund retirement and necessary capital and
+maintenance projects of the District’s facilities.
+Encumbrances represent a contractual obligation and expenditures are recognized when the goods and
+services are delivered and/or received. As of June 30, 2023 encumbrances for the governmental funds
+were:
+Fund Encumbrances
+General 52,357,970
+Grant Special Revenue Fund 16,148,398
+Building Fund 205,637,802
+Nonmajor Funds 1,977,931
+Total $ 276,122,101
+General Fund encumbrances include utilities, commitments to the District’s health care plans as well as
+districtwide and school level operations.
+Grant Special Revenue Fund comprises commitments for literacy professional services, summer school
+tuition assistance and student technology devices.
+Building Fund encumbrances include commitments towards major capital maintenance and construction
+projects such as but not limited to construction of the new Montbello and Ceylon campus, DSA South
+Remodel and Martin Luther King gym and soccer field. Other major commitments for heating ventilation
+and cooling projects at Stedman, Wyman, Carson, Whiteman, Place Bridge, Fallis, Sabin and Thomas
+Jefferson. Also included are commitments towards the implementation of the new Enterprise Resource
+Planning management system.
+Nonmajor Fund encumbrances inlcude commitments for food services and athletics equipment.
+105
+
+--- TABLE 1 ON PAGE 105 ---
+
+General Fund encumbrances include utilities, commitments to the District’s health care plans as well as
+
+
+districtwide and school level operations.
+
+
+
+--- TABLE 2 ON PAGE 105 ---
+
+Grant Special Revenue Fund comprises commitments for literacy professional services, summer school
+
+
+tuition assistance and student technology devices.
+
+
+
+--- PAGE 106 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DEVER AND STATE OF COLORADO
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+YEAR ENDED JUNE 30, 2023
+14. CERTAIN CONSTITUTIONAL LIMITATIONS
+At the general election held November 1992, voters approved the TABOR amendment to the Colorado
+Constitution limiting the ability of the state and local governments such as the District to increase
+revenues, debt and spending and restricting property, income and other taxes. In November 1999 the
+Denver voters gave the District approval to exceed the spending limits established in TABOR beginning
+with the 1999 fiscal year. The amendment also requires that the state and local governments obtain voter
+approval to create any "multiple fiscal year direct or indirect debt or other financial obligation whatsoever
+without adequate present cash reserves pledged irrevocably and held for payments in all future fiscal
+years.” The amendment exempts from its restrictions the borrowings and fiscal operations of enterprises.
+Enterprises are defined to include government owned businesses authorized to issue their own revenue
+bonds and receiving under 10% of their grants from all state and local government sources combined.
+The amendment also requires the establishment of an emergency reserve equal to three percent of fiscal
+year spending excluding debt service.
+In accordance with TABOR, the District maintains an emergency reserve of 3% of fiscal year spending by
+designating real property owned by the District in lieu of cash. For fiscal year 2023, spending was
+$1,466,768,935 and the 3% emergency reserve was $44,003,068, which excludes multi-year obligations
+of $309,116. Additionally, in accordance with C.R.S. Section 22-44-105, the District established an
+emergency cash reserve as a restricted fund balance in the General Fund for $38,060,520 equal to 3% of
+budgeted General Fund revenues. The remaining $5.9 million of the emergency reserve is secured by
+physical property.
+106
+
+--- PAGE 107 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+NOTES TO THE BASIC FINANCIAL STATEMENTS
+YEAR ENDED JUNE 30, 2023
+15. COMPONENT UNITS
+The District has 27 component units consisting of 3 blended component units and 24 discretely presented
+component units. Charter schools are included in the component units as they are fiscally dependent
+upon revenues derived from the State per pupil revenue funding calculation.
+Change in Reporting Entity
+The component units combining financial statements reflect changes in reporting entity. The changes in
+reporting entity include charter schools that closed.
+As of June 30, 2023, REACH Charter School was closed due to staffing and academic challenges. REACH
+charter's Board of director's voted to surrender their charter.
+Blended Component Units
+Denver School Facilities Leasing Corporation
+The DSFLC was formed in December 1985 as a not-for-profit corporation under Sections 501(c) (3) and
+501(c) (4) of the Internal Revenue Code and exists solely to acquire real estate, buildings and equipment
+for schools for future lease to the District. The District is primarily responsible for the creation and
+continued management of the DSFLC, has influence over its operations and is ultimately responsible for
+any deficits or operating deficiencies. The certificates of participation issued by the DSFLC and its
+activities for the year are reflected in the accompanying government-wide financial statements of the
+District. An evaluation of the DSFLC using the above considerations results in its blended inclusion in the
+accompanying financial statements. There are no separate financial statements available for the DSFLC
+and the financial information of the DSFLC is blended with that of the primary government which is why
+DSFLC is not shown on the schedules in this note.
+Denver Public Schools Professional Compensation System for Teachers
+The Denver Public Schools Professional Compensation System (ProComp) was established following the
+approval of the 2005 Mill Levy Override as a groundbreaking compensation system that links teacher pay
+to the instructional mission of the District. Designed in a partnership between the Denver Classroom
+Teachers Association (DCTA) and the District, ProComp has received national attention because it
+rewards teachers for their professional accomplishments while linking pay to student achievement. The
+financial information of ProComp is blended with that of the primary government, which is why ProComp
+is not shown on the schedules in this note. ProComp is presented as a component unit because it is a
+separate legal entity and is financially accountable to the District.
+Denver Public Schools Retiree Life Insurance Trust
+The Denver Public Schools Retiree Life Insurance Trust provides benefits to participants eligible to retire
+prior to September 1, 1997. The eligible participants receive a $10,000 retiree life insurance benefit. Life
+insurance benefits are not available to anyone who retires after January 1, 2006. Benefits are self-insured
+with a retiree plan trust administered by MetLife. DPSRLIT is considered a fiduciary component unit under
+the provisions of GASB 14, The Financial Reporting Entity as amended and GASB 84, Fiduciary Activities.
+107
+
+--- TABLE 1 ON PAGE 107 ---
+
+	Life
+
+
+insurance benefits are not available to anyone who retires after January 1, 2006. Benefits are self-insured	
+
+
+with a retiree plan trust administered by MetLife.	
+
+
+
+--- PAGE 126 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+BUDGETARY COMPARISON SCHEDULE
+GENERAL FUND
+YEAR ENDED JUNE 30, 2023
+Amount in 000's
+Variance with
+Final
+Original Budget Final Budget Actual Budget
+REVENUES
+Taxes $ 871,430 $ 865,605 $ 860,813 $ (4,792)
+State sources 297,272 326,908 357,665 30,757
+Federal sources 1,042 1,042 1,214 172
+Local sources 80,354 75,129 93,924 18,795
+Total revenues 1,250,098 1,268,684 1,313,616 44,932
+EXPENDITURES
+Employee Salaries 630,233 630,820 629,176 1,644
+Employee Benefits 128,829 136,776 147,375 (10,599)
+Charter school* 239,744 245,129 246,267 (1,138)
+Supplies and Materials 63,568 63,988 47,080 16,908
+Purchased Services 71,274 76,394 95,553 (19,159)
+Property 5,939 6,185 3,653 2,532
+Other Expenses 30,822 14,801 12,563 2,238
+Debt Service Principal 29,360 29,360 30,375 (1,015)
+Debt Service Interest 41,531 41,531 41,553 (22)
+Appropriated Reserves 118,241 112,289 - 112,289
+Unappropriated reserves 19,406 12,121 - 12,121
+Total expenditures 1,378,947 1,369,394 1,253,595 115,799
+Excess (deficiency) of revenues over
+expenditures (128,849) (100,710) 60,021 160,731
+OTHER FINANCING SOURCES (USES)
+Interfund transfers (9,975) (32,764) (45,813) (13,049)
+Total other financing sources (uses) (9,975) (32,764) (45,813) (13,049)
+Net change in fund balance (138,824) (133,474) 14,208 147,682
+Beginning fund balance, as restated 138,824 133,474 133,474 -
+Ending fund balance $ - $ - $ 147,682 $ 147,682
+* The Charter School expense is presented net of
+Charges for Services to Charter Schools as presented
+in the Fund Financial Statements to align with
+the budget presentation.
+126
+
+--- PAGE 127 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+BUDGETARY COMPARISON SCHEDULE
+GRANTS SPECIAL REVENUE FUND
+YEAR ENDED JUNE 30, 2023
+Amount in 000's
+Variance with
+Final
+Original Budget Final Budget Actual Budget
+REVENUES
+State sources $ 31,586 $ 31,586 $ 33,848 $ 2,262
+Federal sources 223,047 180,535 169,462 (11,073)
+Local sources 22,530 21,197 27,603 6,406
+Total revenues 277,163 233,318 230,913 (2,405)
+EXPENDITURES
+Employee Salaries 102,339 100,328 86,269 14,059
+Employee Benefits 29,661 27,123 24,516 2,607
+Charter school 24,672 38,830 39,626 (796)
+Supplies and Materials 20,447 9,125 16,845 (7,720)
+Purchased Services 56,160 34,410 30,567 3,843
+Property 10,981 14,778 7,378 7,400
+Other Expenses 31,053 9,987 21,563 (11,576)
+Debt Service Principal - - 97 (97)
+Debt Service Interest - - 22 (22)
+Appropriated Reserves 17,725 16,812 - 16,812
+Total expenditures 293,038 251,393 226,883 24,510
+Excess (deficiency) of revenues over
+expenditures (15,875) (18,075) 4,030 22,105
+OTHER FINANCING SOURCES (USES)
+Interfund transfers 649 649 649 -
+Total other financing sources (uses) 649 649 649 -
+Net change in fund balance (15,226) (17,426) 4,679 22,105
+Beginning fund balance 15,226 17,426 17,426 -
+Ending fund balance $ - $ - $ 22,105 $ 22,105
+127
+
+--- PAGE 149 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+BUDGETARY COMPARISON SCHEDULE
+BOND REDEMPTION FUND
+YEAR ENDED JUNE 30, 2023
+Amount in 000's
+Variance with
+Final
+Original Budget Final Budget Actual Budget
+REVENUES
+Taxes $ 215,519 $ 215,519 $ 216,895 $ 1,376
+Local sources 545 545 3,838 3,293
+Total revenues 216,064 216,064 220,733 4,669
+EXPENDITURES
+Purchased Services 150 150 28 122
+Debt Service Principal 121,740 121,740 121,740 -
+Debt Service Interest 99,652 99,430 99,725 (295)
+Appropriated Reserves 227,748 221,306 - 221,306
+Total expenditures 449,290 442,626 221,493 221,133
+Excess (deficiency) of revenues over
+expenditures (233,226) (226,562) (760) 225,802
+OTHER FINANCING SOURCES (USES)
+Interfund transfers - 5,695 5,695 -
+Other sources (uses) - - 800 800
+Total other financing sources (uses) - 5,695 6,495 800
+Net change in fund balance (233,226) (220,867) 5,735 226,602
+Beginning fund balance, as restated 233,226 220,867 220,867 -
+Ending fund balance $ - $ - $ 226,602 $ 226,602
+149
+
+--- PAGE 150 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+BUDGETARY COMPARISON SCHEDULE
+BUILDING FUND
+YEAR ENDED JUNE 30, 2023
+Amount in 000's
+Variance with
+Final
+Original Budget Final Budget Actual Budget
+REVENUES
+Federal sources $ 6,413 $ 6,413 $ 6,586 $ 173
+Local sources 30,520 30,520 38,144 7,624
+Total revenues 36,933 36,933 44,730 7,797
+EXPENDITURES
+Employee Salaries 8,330 8,329 8,159 170
+Employee Benefits 2,286 2,286 2,416 (130)
+Supplies and Materials 7,349 9,349 7,441 1,908
+Purchased Services 3,809 5,809 16,143 (10,334)
+Property 216,905 216,905 219,235 (2,330)
+Other Expenses - - (4,832) 4,832
+Debt Service Principal 9,140 9,140 10,797 (1,657)
+Debt Service Interest 5,894 5,894 6,479 (585)
+Appropriated Reserves 91,406 124,495 - 124,495
+Unappropriated reserves 578,471 539,301 - 539,301
+Total expenditures 923,590 921,508 265,838 655,670
+Excess (deficiency) of revenues over
+expenditures (886,657) (884,575) (221,108) 663,467
+OTHER FINANCING SOURCES (USES)
+Interfund transfers 500 14,915 31,915 17,000
+Issuance of leases - - 2,371 2,371
+Total other financing sources (uses) 500 14,915 34,286 19,371
+Net change in fund balance (886,157) (869,660) (186,822) 682,838
+Beginning fund balance, as restated 886,157 869,660 869,660 -
+Ending fund balance $ - $ - $ 682,838 $ 682,838
+150
+
+--- PAGE 154 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+BUDGETARY COMPARISON SCHEDULE
+MILL LEVY TECHNOLOGY MAINTENANCE FUND
+YEAR ENDED JUNE 30, 2023
+Amount in 000's
+Variance with
+Final
+Original Budget Final Budget Actual Budget
+REVENUES
+Taxes $ 34,683 $ 50,658 $ 49,948 $ (710)
+Local sources - - (3) (3)
+Total revenues 34,683 50,658 49,945 (713)
+EXPENDITURES
+Employee Salaries 21,785 28,803 19,037 9,766
+Employee Benefits 4,834 8,589 5,644 2,945
+Charter school 7,384 11,108 11,108 -
+Supplies and Materials 680 2,158 505 1,653
+Purchased Services - - 12,122 (12,122)
+Property - - 12,386 (12,386)
+Debt Service Principal - - 1,261 (1,261)
+Debt Service Interest - - 268 (268)
+Total expenditures 34,683 50,658 62,331 (11,673)
+Excess (deficiency) of revenues over
+expenditures - - (12,386) (12,386)
+OTHER FINANCING SOURCES (USES)
+Issuance of leases - - 12,386 12,386
+Total other financing sources (uses) - - 12,386 12,386
+Net change in fund balance - - - -
+Beginning fund balance - - - -
+Ending fund balance $ - $ - $ - $ -
+154
+
+--- PAGE 162 ---
+
+SCHOOL DISTRICT NO.1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+STATISTICAL SECTION
+YEAR ENDED JUNE 30, 2023
+This part of the District's annual comprehensive financial report presents detailed information as a context
+for understanding what the information in the financial statements, note disclosures, and required
+supplementary information says about the District.
+Contents Page
+Financial Trends
+These schedules contain trend information to help the reader understand how the District's
+financial performance and well-being have changed over time.
+Net Position by Component 163
+Changes in Net Position 164
+Fund Balances, Governmental Funds 166
+Changes in Fund Balances, Government Funds 168
+Summary of Expenditures by Function and other Financing Uses - General Fund 170
+Revenue Capacity
+These schedules contain information to help the reader assess the District's most significant
+local revenue source, the property tax.
+Summary of Revenues by Source and other Financing Sources - General Fund 172
+Assessed Net Value and Estimated Actual Value of Taxable Property 173
+District Net Assessed Valuations and Mills 175
+Property Tax Rates per $1,000 of Assessed Valuation- Direct and all Overlapping
+Governments 176
+Principal Property Taxpayers 177
+Property Tax Levies and Collections 178
+Debt Capacity
+These schedules present information to help the reader assess the affordability of the
+District's current levels of outstanding debt and the District's ability to issue additional debt in
+the future.
+Legal Debt Margin Information 179
+Ratios of Outstanding Debt 181
+Direct and Overlapping Debt 183
+Demographic and Economic Information
+These schedules offer demographic and economic indicators to help the reader understand
+the environment within which the District's financial activities take place.
+Demographic and Economic Statistics 184
+Principal Employers 185
+Operating Information
+These schedules contain service and infrastructure data to help the reader understand how
+the information in the District's financial report relates to the services the District provides and
+the activities it performs.
+Nutrition Services - Facts and Figures 186
+Full-time Equivalent (FTE) Employees 189
+Capital Asset Information - by Schools 190
+162
+
+--- PAGE 166 ---
+
+SCHOOL DISTRICT NO.1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+FUND BALANCES, GOVERNMENTAL FUNDS
+LAST TEN FISCAL YEARS (Unaudited)
+2023 2022 2021 2020 2019
+General Fund
+Nonspendable:
+Inventory $ 1,475,845 $ 1,386,782 $ 1,160,643 $ 1,238,552 $ 1,107,816
+Prepaid expenses - - - - -
+Restricted for:
+Emergency reserve 38,060,520 40,200,974 31,697,040 33,618,750 31,046,220
+Committed to:
+Pupil Activities 6,609,037 2,316,528 8,672,016 1,448,767 1,266,865
+Emergency reserve - - - - -
+Assigned to:
+Special projects 12,439,657 24,128,060 23,671,535 23,478,391 25,093,990
+Subsequent year expenditures 12,677,000 11,760,000 3,790,000 13,847,000 6,827,418
+Unassigned 76,419,711 53,600,992 56,144,186 45,424,828 53,165,742
+Total General Fund 147,681,770 133,393,336 125,135,420 119,056,288 118,508,051
+All other governmental funds
+Nonspendable:
+Permanent fund 65,520 60,491 59,519 58,871 131,044
+Inventory 540,879 801,824 497,844 504,881 393,196
+Prepaid expenses 93,192 142,325 424,389 913,699 288,384
+Restricted for:
+Debt service 227,841,042 222,260,120 226,255,934 203,916,531 173,213,859
+Capital projects 643,116,618 780,687,082 508,861,239 236,677,860 381,306,757
+Performance-based teacher compensation 6,334,673 7,616,799 7,676,261 7,858,567 11,664,070
+Higher education 19,012,629 16,439,498 15,091,649 12,819,754 11,235,893
+Non-governmental grantor-designated
+purposes 3,091,614 986,632 1,077,193 1,043,138 817,330
+State programs - - - - -
+Federal programs - - 128,017 965,054 4,981,574
+Committed to:
+Capital projects - - - - -
+Pupil activities 4,698,371 4,716,917 5,381,600 4,808,712 332,120
+Assigned to:
+Debt service - - - - -
+Capital projects 38,391,172 87,437,849 64,223,469 16,683,835 28,209,850
+Food service 3,853,985 8,517,788 2,443,493 935,636 6,992
+Unassigned - - - - -
+Total all other governmental funds 947,039,695 1,129,667,325 832,120,607 487,186,538 612,581,069
+Total fund balances $ 1,094,721,465 $ 1,263,060,661 $ 957,256,027 $ 606,242,826 $ 731,089,120
+Continued next page
+Source: District annual financial reports for the respective years
+166
+
+--- PAGE 167 ---
+
+SCHOOL DISTRICT NO.1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+FUND BALANCES, GOVERNMENTAL FUNDS
+LAST TEN FISCAL YEARS (Unaudited)
+2018 2017 2016 2015 2014
+General Fund
+Nonspendable:
+Inventory $ 892,874 $ 761,736 $ 704,168 $ 824,309 $ 73,575
+Prepaid expenses - 150,566 142,383 - -
+Restricted for:
+Emergency reserve 28,893,630 27,033,570 24,910,740 23,587,040 -
+Committed to:
+Pupil Activities - - - - -
+Emergency reserve - - - - 21,562,473
+Assigned to:
+Special projects 22,869,037 15,923,740 17,397,322 15,920,181 12,483,461
+Subsequent year expenditures 17,886,037 8,182,740 1,315,705 4,082,181 9,736,417
+Unassigned 48,469,286 70,097,523 50,072,162 62,139,089 54,441,927
+Total General Fund 119,010,864 122,149,875 94,542,480 106,552,800 98,297,853
+All other governmental funds
+Nonspendable:
+Permanent fund 131,371 130,992 128,553 128,806 127,586
+Inventory 2,935,450 332,113 3,485,663 3,059,757 16
+Prepaid expenses 458,901 1,531,060 509,302 - -
+Restricted for:
+Debt service 160,157,619 130,144,786 140,280,738 109,761,547 109,621,401
+Capital projects 443,137,420 470,254,135 87,492,008 202,717,436 428,287,451
+Performance-based teacher compensation 8,590,764 11,837,366 18,345,329 31,352,361 44,698,850
+Higher education 9,936,855 9,595,895 10,572,551 10,047,631 11,180,577
+Non-governmental grantor-designated
+purposes 1,013,135 1,492,383 6,111,724 9,859,915 9,584,310
+State programs - - - - -
+Federal programs 7,766,488 5,876,870 8,548,506 4,198,266 -
+Committed to:
+Capital projects 28,005,130 35,949,286 5,554,771 17,390,944 7,438,353
+Pupil activities 2,263,445 3,505,285 3,168,599 - -
+Assigned to:
+Debt service 16,447,000 46,598,000 10,963,000 6,964,000 -
+Capital projects - - - - -
+Food service - - - - -
+Unassigned (737,940) (46,913) (3,344,733) (3,059,757) -
+Total all other governmental funds 680,105,638 717,201,258 291,816,011 392,420,906 610,938,544
+Total fund balances $ 799,116,502 $ 839,351,133 $ 386,358,491 $ 498,973,706 $ 709,236,397
+167
+
+--- PAGE 168 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+CHANGES IN FUND BALANCES, GOVERNMENTAL FUNDS
+LAST TEN FISCAL YEARS (Unaudited)
+2023 2022 2021 2020 2019
+Revenues:
+Taxes $ 1,165,706,159 $ 1,101,742,098 $ 1,054,513,077 $ 998,219,378 $ 858,529,862
+Intergovernmental:
+State sources 391,759,312 307,891,606 244,656,236 326,157,713 357,074,878
+Federal sources 211,100,109 223,838,236 192,730,693 109,255,314 111,381,652
+Charges for services 90,114,011 83,796,585 65,878,942 75,572,797 84,497,944
+Investment income (loss) 23,541,755 (10,082,439) 1,753,078 10,546,065 18,101,994
+Other local sources 60,928,940 54,517,271 51,832,738 55,339,778 53,325,393
+Total revenue 1,943,150,286 1,761,703,357 1,611,364,764 1,575,091,045 1,482,911,723
+Expenditures:
+Current:
+Instructional services 890,860,568 780,510,913 694,846,491 709,651,580 625,813,397
+Supporting services:
+Pupil support 123,323,235 115,228,146 100,576,930 82,736,120 73,950,774
+Instructional support 135,917,254 125,935,594 133,611,460 129,073,497 128,828,831
+General administration 14,551,287 14,198,726 9,501,382 8,062,993 6,330,914
+School administration 89,285,781 82,626,435 80,403,979 80,112,333 81,262,191
+Business services 22,198,150 14,490,900 14,575,241 14,716,470 15,679,087
+Operations and maintenance 123,996,764 124,211,645 119,394,688 102,251,049 104,354,778
+Pupil transportation 34,137,079 30,447,107 25,992,801 28,761,438 30,768,374
+Central services 53,736,002 54,502,677 50,736,344 49,678,519 72,593,522
+Other support services 47,022,600 68,028,876 39,834,647 51,574,682 53,658,626
+Total support services 644,168,152 629,670,106 574,627,472 546,967,101 567,427,097
+Community services 19,824,764 16,363,364 10,383,123 16,609,229 16,522,561
+Education for adults 26,560,131 24,574,574 24,979,010 23,573,860 22,693,569
+Capital outlay 233,175,400 129,424,043 161,111,733 205,539,953 166,970,851
+Debt service:
+Principal 164,270,331 156,734,529 212,403,162 114,480,000 101,926,321
+Interest and fiscal charges 148,267,984 142,784,197 135,496,728 133,013,278 134,464,342
+Total debt service 312,538,315 299,518,726 347,899,890 247,493,278 236,390,663
+Debt issuance costs - - - - -
+Total expenditures 2,127,127,330 1,880,061,726 1,813,847,719 1,749,835,001 1,635,818,138
+Deficiency of revenues
+under expenditures (183,977,044) (118,358,369) (202,482,955) (174,743,956) (152,906,415)
+Other financing sources (uses):
+Transfers in 45,813,428 23,728,558 22,323,536 18,184,640 20,519,669
+Transfers out (45,813,428) (23,728,558) (22,323,536) (18,184,640) (20,519,669)
+Issuance of leases 14,756,990 - 355,289 110,658 395,098
+Issuance of certificates of participation - - 45,544,722 84,483,935
+Issuance of bonds - 345,000,000 450,000,000 - -
+Premium on issuance of debt 1,124,848 86,575,794 103,140,867 - -
+Payment to refunded debt - - - - -
+Proceeds from refunding bonds 33,380,000 52,890,000 - - -
+Premium on refunding bonds - - - - -
+Payment to Bond Escrow Agent (33,705,000) (61,215,000) - - -
+Total other financing sources 15,556,838 423,250,794 553,496,156 45,655,380 84,879,033
+Change in fund balances $ (168,420,206) $ 304,892,425 $ 351,013,201 $ (129,088,576) $ (68,027,382)
+Debt service as a percentage of
+noncapital expenditures 16.48% 17.09% 21.05% 16.03% 16.09%
+Continued next page
+Source: School District annual financial reports for the respective years
+168
+
+--- PAGE 169 ---
+
+SCHOOL DISTRICT NO.1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+CHANGES IN FUND BALANCES, GOVERNMENTAL FUNDS
+LAST TEN FISCAL YEARS (Unaudited)
+2018 2017 2016 2015 2014
+Revenues:
+Taxes $ 848,458,684 $ 717,451,368 $ 662,087,462 $ 549,453,629 $ 549,095,824
+Intergovernmental:
+State sources 304,016,976 354,546,283 352,543,848 386,841,732 321,083,838
+Federal sources 114,906,618 118,038,010 128,143,943 135,266,941 91,110,827
+Charges for services 78,175,058 70,136,444 63,538,071 58,485,884 46,577,962
+Investment income 8,440,469 5,697,617 1,703,554 2,191,056 6,646,572
+Other local sources 55,720,801 72,195,800 45,033,043 46,432,436 56,121,534
+Total revenue 1,409,718,606 1,338,065,522 1,253,049,921 1,178,671,678 1,070,636,557
+Expenditures:
+Current:
+Instructional services 563,170,061 533,413,133 580,342,703 545,258,244 524,717,767
+Supporting services:
+Pupil support 66,443,705 58,337,272 45,246,471 36,294,290 30,750,759
+Instructional support 125,760,427 114,572,496 111,594,016 113,735,903 89,657,359
+General administration 7,526,400 6,964,963 6,096,731 5,299,657 5,855,666
+School administration 78,617,586 77,079,051 69,544,540 65,203,286 57,265,795
+Business services 14,996,029 12,817,546 8,581,051 6,700,984 8,511,434
+Operations and maintenance 95,181,985 91,074,789 79,314,548 74,977,466 77,295,764
+Pupil transportation 26,546,492 25,164,705 26,012,440 22,571,539 21,759,520
+Central services 96,964,007 104,428,614 67,066,399 72,231,405 76,726,379
+Other support services 46,450,521 49,799,171 48,582,600 47,742,261 4,570,465
+Total support services 558,487,152 540,238,607 462,038,796 444,756,791 372,393,141
+Community services 17,638,447 16,515,410 14,366,660 12,899,168 11,600,514
+Education for adults 22,244,905 20,508,759 17,828,984 17,810,826 14,504,741
+Capital outlay 200,399,726 161,734,202 132,056,762 207,594,348 209,752,895
+Debt service:
+Principal 75,815,765 90,105,000 62,663,175 57,125,000 52,638,533
+Interest and fiscal charges 141,457,068 118,391,994 106,825,938 284,599,941 115,257,640
+Total debt service 217,272,833 208,496,994 169,489,113 341,724,941 167,896,173
+Debt issuance costs - - - - -
+Total expenditures 1,579,213,124 1,480,907,105 1,376,123,018 1,570,044,318 1,300,865,231
+Deficiency of revenues
+under expenditures (169,494,518) (142,841,583) (123,073,097) (391,372,640) (230,228,674)
+Other financing sources (uses):
+Transfers in 23,722,566 23,172,970 16,052,982 26,513,288 7,384,908
+Transfers out (23,722,566) (23,256,436) (16,052,982) (26,513,288) (7,384,908)
+Issuance of capital leases 5,468,230 2,271,141 - - -
+Issuance of certificates of participation 17,710,000 46,175,000 9,680,591 - -
+Issuance of bonds 105,325,000 466,675,000 - - 25,347,008
+Premium on issuance of debt 25,776,657 80,796,550 - - -
+Payment to refunded debt - - - - -
+Proceeds from refunding bonds 106,130,000 - 143,280,000 149,170,000 -
+Premium on refunding bonds - - 26,500,712 24,225,792 -
+Payment to Bond Escrow Agent (131,150,000) - (169,003,421) - -
+Total other financing sources 129,259,887 595,834,225 10,457,882 173,395,792 25,347,008
+Change in fund balances $ (40,234,631) $ 452,992,642 $ (112,615,215) $ (217,976,848) $ (204,881,666)
+Debt service as a percentage of
+noncapital expenditures 15.75% 15.89% 13.71% 25.08% 15.39%
+169
+
+--- PAGE 170 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+SUMMARY OF EXPENDITURES BY FUNCTION AND OTHER FINANCING USES - GENERAL FUND
+LAST TEN FISCAL YEARS (Unaudited)
+2023 2022 2021 2020 2019
+Expenditures:
+Instructional services $ 739,427,941 $ 657,192,165 $ 580,623,950 $ 622,903,734 $ 555,976,258
+Supporting services:
+Pupil support 86,702,501 74,193,579 74,251,724 69,814,604 58,488,826
+Instructional support 106,644,896 93,651,824 97,018,956 99,003,429 99,065,785
+General administration 10,918,334 9,994,152 8,626,792 7,539,801 5,740,240
+School administration 87,529,034 79,687,970 77,298,216 77,047,427 78,720,284
+Business services 15,748,677 13,602,200 11,505,865 13,294,858 15,033,777
+Operations and maintenance 51,880,969 76,820,175 64,396,850 86,305,872 86,106,056
+Pupil transportation 33,888,903 29,788,063 25,126,430 28,368,149 30,726,808
+Central services 35,465,538 42,583,410 37,729,172 38,847,732 61,936,798
+Other support services - 492,055 1,404,453 51,261 24,650
+Total support services 428,778,852 420,813,428 397,358,458 420,273,133 435,843,224
+Community services 12,734,634 11,037,996 6,836,774 13,994,995 14,539,363
+Education for adults 175,203 - 14,098 20,353 124,599
+Capital outlay 330,796 2,587,751 2,063,854 1,603,160 1,642,364
+Debt service:
+Principal payments 30,374,869 29,059,492 27,355,402 24,185,000 24,138,012
+Interest and fiscal charges 41,773,535 42,476,054 43,696,155 46,185,341 45,508,555
+Total expenditures 1,253,595,830 1,163,166,886 1,057,948,691 1,129,165,716 1,077,772,375
+Other financing uses:
+Transfers out 45,813,428 23,728,558 22,323,536 18,114,719 20,440,202
+Total other financing uses 45,813,428 23,728,558 22,323,536 18,114,719 20,440,202
+Total expenditures and
+other financing uses $ 1,299,409,258 $ 1,186,895,444 $ 1,080,272,227 $ 1,147,280,435 $ 1,098,212,577
+Continued next page
+Source: School District annual financial reports for the respective years
+170
+
+--- PAGE 171 ---
+
+SCHOOL DISTRICT NO.1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+SUMMARY OF EXPENDITURES BY FUNCTION AND OTHER FINANCING USES - GENERAL FUND
+LAST TEN FISCAL YEARS (Unaudited)
+2018 2017 2016 2015 2014
+Expenditures:
+Instructional services $ 484,208,616 $ 437,905,667 $ 466,866,692 $ 435,036,390 $ 418,723,429
+Supporting services:
+Pupil support 56,583,981 49,753,091 37,126,952 29,300,812 25,685,836
+Instructional support 95,764,566 79,952,672 70,635,195 64,420,077 50,236,006
+General administration 7,064,098 6,525,345 5,642,389 4,891,160 5,465,573
+School administration 75,888,710 73,368,180 68,299,902 63,290,849 54,895,533
+Business services 14,339,316 12,152,815 7,571,069 5,970,739 7,718,542
+Operations and maintenance 79,691,394 77,568,148 71,563,249 57,100,385 56,461,321
+Pupil transportation 26,546,492 25,102,779 25,724,818 21,942,671 20,913,687
+Central services 86,356,839 89,188,409 53,956,802 54,801,151 54,075,641
+Other support services 97,898 1,131,085 1,036,037 914,267 705,984
+Total support services 442,333,294 414,742,524 341,556,413 302,632,111 276,158,123
+Community services 15,120,743 13,587,690 11,021,566 8,555,867 7,790,165
+Education for adults 952,581 1,750,462 2,256,856 629,177 1,173,530
+Capital outlay 6,387,652 2,092,671 1,467,271 1,270,899 528,674
+Debt service:
+Principal payments 21,891,858 18,945,000 14,730,000 13,360,000 9,305,000
+Interest and fiscal charges 46,097,937 46,170,414 46,114,624 45,878,257 48,629,712
+Total expenditures 1,016,992,681 935,194,428 884,013,422 807,362,701 762,308,633
+Other financing uses:
+Transfers out 23,176,635 9,775,503 9,926,794 19,727,702 7,067,866
+Total other financing uses 23,176,635 9,775,503 9,926,794 19,727,702 7,067,866
+Total expenditures and
+other financing uses $ 1,040,169,316 $ 944,969,931 $ 893,940,216 $ 827,090,403 $ 769,376,499
+171
+
+--- PAGE 175 ---
+
+SCHOOL DISTRICT NO. 1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+DISTRICT NET ASSESSED VALUATIONS AND MILLS
+LAST TEN TAX YEARS (Unaudited)
+Levy
+Collection Assessed Tax Increment Net Assessed Percent
+Year Valuation Valuation Value Change
+2023 $ 22,042,141,036 $ (276,416,691) $ 21,765,724,345 -1.27%
+2022 $ 21,091,522,247 $ 950,618,789 $ 22,042,141,036 4.31%
+2021 $ 20,722,174,107 $ 369,348,140 $ 21,091,522,247 1.75%
+2020 $ 16,824,261,116 $ 3,897,912,991 $ 20,722,174,107 18.81%
+2019 $ 16,576,650,104 $ 247,611,012 $ 16,824,261,116 1.47%
+2018 $ 13,460,852,897 $ 3,115,797,207 $ 16,576,650,104 18.80%
+2017 $ 13,221,694,094 $ 239,158,803 $ 13,460,852,897 1.78%
+2016 $ 10,517,386,669 $ 2,704,307,425 $ 13,221,694,094 20.45%
+2015 $ 10,454,481,228 $ 62,905,441 $ 10,517,386,669 0.60%
+2014 $ 10,007,267,892 $ 447,213,336 $ 10,454,481,228 4.28%
+Levy
+Collection General Fund Debt Service Special Revenue Mill Levy Abatement Total Mill
+Year Mills Mills Mill Levy Override Mills Levy
+2023 27.000 9.843 2.345 11.208 1.183 51.579
+2022 26.541 9.568 1.517 10.445 0.427 48.498
+2021 25.541 9.568 1.517 10.852 0.533 48.011
+2020 25.541 9.568 11.014 0.541 46.664
+2019 25.541 9.568 12.829 0.306 48.244
+2018 25.541 9.650 12.547 0.506 48.244
+2017 25.541 9.383 14.948 0.524 50.396
+2016 25.541 10.250 10.976 0.630 47.397
+2015 25.541 10.519 12.466 0.773 49.299
+2014 25.541 10.446 12.431 0.881 49.299
+For Fiscal Year Ended June 30, 2023
+Taxing Entity Mill Levy
+City and County of Denver 26.946
+Urban Drainage and Flood Control 1.000
+Overlapping Mill Levy 27.946
+School District #1 51.579
+Total Mill Levy 79.525
+Source: Certification of Levy for Current Year
+Source: The taxing entity mill levy is from the City and County of Denver Assessor's Office
+175
+
+--- PAGE 179 ---
+
+SCHOOL DISTRICT NO.1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+LEGAL DEBT MARGIN INFORMATION
+LAST TEN FISCAL YEARS (Unaudited)
+2023 2022 2021 2020 2019
+Assessed value (prior year) $ 23,235,806,840 $ 23,529,238,541 $ 22,527,890,740 $ 22,108,001,450 $ 17,925,134,030
+Actual value (prior year) 189,064,565,772 187,562,086,035 175,333,718,321 171,449,489,953 139,408,174,638
+Debt limit is greater of:
+20% of assessed value 4,647,161,368 4,705,847,708 4,505,578,148 4,421,600,290 3,585,026,806
+or 6% of actual value* 11,343,873,946 11,253,725,162 10,520,023,099 10,286,969,397 8,364,490,478
+Debt limit 11,343,873,946 11,253,725,162 10,520,023,099 10,286,969,397 8,364,490,478
+Amount of debt applicable to
+debt limits 2,070,107,000 2,192,172,000 1,974,762,000 1,623,512,000 1,708,747,000
+Less: amount reserved
+for long-term debt (226,603,288) (220,866,772) (224,018,962) (201,801,053) (167,631,916)
+Net chargeable to bond limit 1,843,503,712 1,971,305,228 1,750,743,038 1,421,710,947 1,541,115,084
+Legal debt margin $ 9,500,370,234 $ 9,282,419,934 $ 8,769,280,061 $ 8,865,258,450 $ 6,823,375,394
+Total net debt applicable to
+the limit as a percentage
+of debt limit 16.25% 17.52% 16.64% 13.82% 18.42%
+Continued next page
+Sources: The Certification of Assessed Valuation is from the City and County of Denver Assessor's Office in early December, prior to
+the District's certification of the mill levies which can be no later than December 15th. The assessed valuation figure is inclusive of
+tax increment values.
+* Section 22-42-104 of the Colorado School Law limits the amount of bonded indebtedness to the greater of 20% of the latest
+valuation for assessment of taxable property in such district, as verified by the Count Assessor to the Board of County
+Commissioners, or 6% of the most recent determination of the actual value of the taxable property in the district, as certified by the
+County Assessor to the Board of County Commissioners.
+179
+
+--- PAGE 180 ---
+
+SCHOOL DISTRICT NO.1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+LEGAL DEBT MARGIN INFORMATION
+LAST TEN FISCAL YEARS (Unaudited)
+2018 2017 2016 2015 2014
+Assessed value (prior year) $ 17,548,347,337 $ 14,659,085,700 $ 14,384,909,283 $ 11,385,251,250 $ 11,264,201,810
+Actual value (prior year) 134,744,419,497 105,772,919,056 100,203,607,405 80,891,082,600 79,581,379,500
+Debt limit is greater of:
+20% of assessed value 3,509,669,467 2,931,817,140 2,876,981,857 2,277,050,250 2,252,840,362
+or 6% of actual value* 8,084,665,170 6,346,375,143 6,012,216,444 4,853,464,956 4,774,882,770
+Debt limit 8,084,665,170 6,346,375,143 6,012,216,444 4,853,464,956 4,774,882,770
+Amount of debt applicable to
+debt limits 1,783,592,000 1,718,072,000 1,321,607,000 1,364,745,175 1,408,510,175
+Less: amount reserved
+for long-term debt (160,157,619) (130,144,786) (140,280,738) (109,761,547) (105,629,590)
+Net chargeable to bond limit 1,623,434,381 1,587,927,214 1,181,326,262 1,254,983,628 1,302,880,585
+Legal debt margin $ 6,461,230,789 $ 4,758,447,929 $ 4,830,890,182 $ 3,598,481,328 $ 3,472,002,185
+Total net debt applicable to
+the limit as a percentage
+of debt limit 20.08% 25.02% 19.65% 25.86% 27.29%
+180
+
+--- PAGE 181 ---
+
+SCHOOL DISTRICT NO.1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+RATIOS OF OUTSTANDING DEBT BY TYPE AND NET GENERAL BOND DEBT
+LAST TEN FISCAL YEARS (Unaudited)
+General Certificates Gross Debt
+District Assessed Property Bonded of Primary
+Year Population* Valuation* Debt Participation Leases and SBITA Government
+2023 729,239 $ 23,235,806,840 $ 2,320,930,866 $ 913,377,628 $ 24,769,287 $ 3,259,077,781
+2022 749,103 23,529,238,541 2,473,558,246 954,095,823 14,042,628 3,441,696,697
+2021 738,200 22,527,890,740 2,194,295,385 991,043,448 2,101,534 3,187,440,367
+2020 727,211 22,108,001,450 1,758,455,749 1,105,613,043 3,259,407 2,867,328,199
+2019 716,492 17,925,134,030 1,860,560,351 1,091,324,507 4,567,393 2,956,452,251
+2018 693,292 17,548,347,337 1,953,095,785 1,034,383,784 5,430,536 2,992,910,105
+2017 693,060 14,659,085,700 1,889,552,488 1,077,242,045 1,253,441 2,968,047,974
+2016 682,545 14,384,909,283 1,433,272,568 1,044,456,762 - 2,477,729,330
+2015 663,862 11,385,251,250 1,482,464,966 1,049,340,225 - 2,531,805,191
+2014 649,495 11,264,201,810 1,513,418,866 1,062,149,172 - 2,575,568,038
+Continued next page
+Source: School District Financials
+Source: * December 31, 2022 - City and County of Denver Annual Comprehensive Financial Report
+(The most current information available)
+** Personal income not available this year from data source.
+Note: Detail regarding the District's outstanding debt can be found in the notes to the basic financial statements.
+181
+
+--- PAGE 182 ---
+
+SCHOOL DISTRICT NO.1
+IN THE CITY AND COUNTY OF DENVER AND STATE OF COLORADO
+RATIOS OF OUTSTANDING DEBT BY TYPE AND NET GENERAL BOND DEBT
+LAST TEN FISCAL YEARS (Unaudited)
+Personal Percentage
+Less Debt Net Net General Total Net General Income of Personal
+Service Funds General Bonded Bonded Debt to Debt Bonded Debt (expressed in Income to
+Year Available Debt Assessed Value Per Capita Per Capita millions) O/S Debt
+2023 $ 227,841,042 $ 2,093,089,824 9.01% $ 4,469 $ 2,870 n/a ** n/a
+2022 222,260,120 2,251,298,126 9.57% 4,594 3,005 37,936,000 9.07%
+2021 226,255,934 1,968,039,451 8.74% 4,318 2,666 51,543,000 6.18%
+2020 203,916,531 1,554,539,218 7.03% 3,943 2,138 61,348,000 4.67%
+2019 173,213,859 1,687,346,492 9.41% 4,126 2,355 57,211,000 5.17%
+2018 160,157,619 1,792,938,166 10.22% 4,317 2,586 47,289,000 6.33%
+2017 130,144,786 1,759,407,702 12.00% 4,283 2,539 46,612,000 6.37%
+2016 140,280,738 1,292,991,830 8.99% 3,630 1,894 46,617,000 5.32%
+2015 109,761,547 1,372,703,419 12.06% 3,814 2,068 41,743,000 6.07%
+2014 109,621,401 1,403,797,465 12.46% 3,965 2,161 36,999,000 6.96%
+182

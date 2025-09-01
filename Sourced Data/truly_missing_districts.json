@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "totalInMap": 178,
+    "withData": 176,
+    "noData": 2,
+    "mappingIssues": 0
+  },
+  "districtsWithNoData": [
+    "Consolidated C-1 School District",
+    "Gilcrest RE-1 School District"
+  ],
+  "mappingIssues": [],
+  "dataQuality": {
+    "bothData": 174,
+    "enrollmentOnly": 2,
+    "cmasOnly": 0
+  }
+}
