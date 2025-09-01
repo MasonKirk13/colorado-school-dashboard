@@ -24,7 +24,7 @@ const COMap = () => {
 
 
   useEffect(() => {
-    fetch("./School_Districts.geojson")
+    fetch(`${import.meta.env.BASE_URL}School_Districts.geojson`)
       .then((res) => res.json())
       .then((data) => {
         setGeoData(data);
@@ -38,7 +38,7 @@ const COMap = () => {
         }
       });
 
-    fetch(`./district_data_complete.json?t=${Date.now()}`)
+    fetch(`${import.meta.env.BASE_URL}district_data_complete.json?t=${Date.now()}`)
       .then((res) => res.json())
       .then((data) => {
         console.log('Loaded district data:', Object.keys(data).length, 'districts');
@@ -49,13 +49,13 @@ const COMap = () => {
         setDistrictData(data);
       });
       
-    fetch("./district_name_mapping.json")
+    fetch(`${import.meta.env.BASE_URL}district_name_mapping.json`)
       .then((res) => res.json())
       .then((data) => setNameMapping(data))
       .catch(() => console.log("No name mapping file found"));
       
     // Load DPS school data
-    fetch("./dps_schools_data_multi_year.json")
+    fetch(`${import.meta.env.BASE_URL}dps_schools_data_multi_year.json`)
       .then((res) => res.json())
       .then((data) => {
         console.log('Loaded DPS school data:', data.schoolCount, 'schools');
