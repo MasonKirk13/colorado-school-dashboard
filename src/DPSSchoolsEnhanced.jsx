@@ -21,10 +21,10 @@ const DPSSchoolsEnhanced = () => {
   // Load data
   useEffect(() => {
     Promise.all([
-      fetch('/dps_schools_data_multi_year.json').then(res => res.json()),
-      fetch('/dps_budget_data.json').then(res => res.json()).catch(() => null),
-      fetch('/dps_cop_data.json').then(res => res.json()).catch(() => null),
-      fetch('/cleaned_school_to_zone_lookup.json').then(res => res.json()).catch(() => null)
+      fetch('./dps_schools_data_multi_year.json').then(res => res.json()),
+      fetch('./dps_budget_data.json').then(res => res.json()).catch(() => null),
+      fetch('./dps_cop_data.json').then(res => res.json()).catch(() => null),
+      fetch('./cleaned_school_to_zone_lookup.json').then(res => res.json()).catch(() => null)
     ]).then(([schools, budget, cop, zones]) => {
       setSchoolsData(schools);
       setBudgetData(budget);
