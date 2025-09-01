@@ -6,6 +6,12 @@ import L from "leaflet";
 import "leaflet/dist/leaflet.css";
 import DPSSchoolsEnhanced from './DPSSchoolsEnhanced';
 
+// Helper function to resolve file paths for GitHub Pages
+const getAssetPath = (filename) => {
+  const base = import.meta.env.BASE_URL || '/';
+  return base.endsWith('/') ? `${base}${filename}` : `${base}/${filename}`;
+};
+
 const COMap = () => {
   const [geoData, setGeoData] = useState(null);
   const [districtData, setDistrictData] = useState({});
@@ -24,7 +30,7 @@ const COMap = () => {
 
 
   useEffect(() => {
-    fetch(`${import.meta.env.BASE_URL}School_Districts.geojson`)
+    fetch(getAssetPath("School_Districts.geojson"))
       .then((res) => res.json())
       .then((data) => {
         setGeoData(data);
@@ -38,7 +44,7 @@ const COMap = () => {
         }
       });
 
-    fetch(`${import.meta.env.BASE_URL}district_data_complete.json?t=${Date.now()}`)
+    fetch(`${getAssetPath("district_data_complete.json")}?t=${Date.now()}`)
       .then((res) => res.json())
       .then((data) => {
         console.log('Loaded district data:', Object.keys(data).length, 'districts');
@@ -49,13 +55,13 @@ const COMap = () => {
         setDistrictData(data);
       });
       
-    fetch(`${import.meta.env.BASE_URL}district_name_mapping.json`)
+    fetch(getAssetPath("district_name_mapping.json"))
       .then((res) => res.json())
       .then((data) => setNameMapping(data))
       .catch(() => console.log("No name mapping file found"));
       
     // Load DPS school data
-    fetch(`${import.meta.env.BASE_URL}dps_schools_data_multi_year.json`)
+    fetch(getAssetPath("dps_schools_data_multi_year.json"))
       .then((res) => res.json())
       .then((data) => {
         console.log('Loaded DPS school data:', data.schoolCount, 'schools');

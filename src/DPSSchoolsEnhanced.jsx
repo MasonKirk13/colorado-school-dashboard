@@ -4,6 +4,12 @@ import { LineChart, Line, BarChart, Bar, ScatterChart, Scatter, XAxis, YAxis, Ca
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 
+// Helper function to resolve file paths for GitHub Pages
+const getAssetPath = (filename) => {
+  const base = import.meta.env.BASE_URL || '/';
+  return base.endsWith('/') ? `${base}${filename}` : `${base}/${filename}`;
+};
+
 const DPSSchoolsEnhanced = () => {
   const [schoolsData, setSchoolsData] = useState(null);
   const [budgetData, setBudgetData] = useState(null);
@@ -21,10 +27,10 @@ const DPSSchoolsEnhanced = () => {
   // Load data
   useEffect(() => {
     Promise.all([
-      fetch(`${import.meta.env.BASE_URL}dps_schools_data_multi_year.json`).then(res => res.json()),
-      fetch(`${import.meta.env.BASE_URL}dps_budget_data.json`).then(res => res.json()).catch(() => null),
-      fetch(`${import.meta.env.BASE_URL}dps_cop_data.json`).then(res => res.json()).catch(() => null),
-      fetch(`${import.meta.env.BASE_URL}cleaned_school_to_zone_lookup.json`).then(res => res.json()).catch(() => null)
+      fetch(getAssetPath('dps_schools_data_multi_year.json')).then(res => res.json()),
+      fetch(getAssetPath('dps_budget_data.json')).then(res => res.json()).catch(() => null),
+      fetch(getAssetPath('dps_cop_data.json')).then(res => res.json()).catch(() => null),
+      fetch(getAssetPath('cleaned_school_to_zone_lookup.json')).then(res => res.json()).catch(() => null)
     ]).then(([schools, budget, cop, zones]) => {
       setSchoolsData(schools);
       setBudgetData(budget);
