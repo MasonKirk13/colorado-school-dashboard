@@ -5,8 +5,6 @@ import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContai
 import L from "leaflet";
 import "leaflet/dist/leaflet.css";
 import DPSSchoolsEnhanced from './DPSSchoolsEnhanced';
-import { TourProvider } from '@reactour/tour';
-import { TourButton, tourConfig, useAutoStartTour } from './GuidedTour';
 
 const COMap = () => {
   const [geoData, setGeoData] = useState(null);
@@ -24,8 +22,6 @@ const COMap = () => {
   const [dpsMapRef, setDpsMapRef] = useState(null);
   const denverCounty1 = "Denver County 1";
 
-  // Auto-start tour for first-time visitors
-  useAutoStartTour();
 
   useEffect(() => {
     fetch("/School_Districts.geojson")
@@ -318,7 +314,7 @@ const COMap = () => {
         case "enrollment":
           return (
             <>
-              <h3 data-tour="enrollment-explanation">Student Enrollment</h3>
+              <h3>Student Enrollment</h3>
               {enrollmentData && enrollmentData.length > 0 ? (
                 <ResponsiveContainer width="100%" height={350}>
                   <LineChart data={enrollmentData} margin={{ top: 20, right: 30, left: 30, bottom: 80 }}>
@@ -354,7 +350,7 @@ const COMap = () => {
         case "frl":
           return (
             <>
-              <h3 data-tour="frl-explanation">Free/Reduced Lunch %</h3>
+              <h3>Free/Reduced Lunch %</h3>
               {enrollmentData && enrollmentData.length > 0 ? (
                 <ResponsiveContainer width="100%" height={350}>
                   <LineChart data={enrollmentData} margin={{ top: 20, right: 30, left: 30, bottom: 80 }}>
@@ -390,7 +386,7 @@ const COMap = () => {
         case "cmas":
           return (
             <>
-              <h3 data-tour="cmas-explanation">CMAS % Met/Exceeded</h3>
+              <h3>CMAS % Met/Exceeded</h3>
               {cmasData && cmasData.length > 0 ? (
                 <ResponsiveContainer width="100%" height={350}>
                   <LineChart data={cmasData} margin={{ top: 30, right: 40, left: 40, bottom: 80 }}>
@@ -505,7 +501,7 @@ const COMap = () => {
   };
 
   return (
-    <TourProvider {...tourConfig}>
+    <>
       <header className="app-header">
         <h1>Colorado School District Data Dashboard</h1>
         <p>Compare enrollment, Free/Reduced Lunch rates, and CMAS performance across districts</p>
@@ -716,8 +712,7 @@ const COMap = () => {
           <DPSSchoolsEnhanced />
         )}
       </div>
-      <TourButton />
-    </TourProvider>
+    </>
   );
 };
 
