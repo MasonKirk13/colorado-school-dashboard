@@ -12,13 +12,14 @@ export default defineConfig({
     assetsDir: 'assets',
     sourcemap: false,
     minify: 'terser',
+    // Ensure all public files are copied to build output
+    copyPublicDir: true,
     rollupOptions: {
       output: {
         manualChunks: {
           vendor: ['react', 'react-dom'],
           charts: ['recharts'],
-          maps: ['leaflet', 'react-leaflet'],
-          tour: ['@reactour/tour']
+          maps: ['leaflet', 'react-leaflet']
         }
       }
     }
