@@ -6,7 +6,7 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({
   plugins: [react()],
   // Base path for GitHub Pages - update 'colorado-school-data-dashboard' to match your repo name
-  base: '/colorado-school-data-dashboard/',
+  base: '/colorado-school-dashboard/',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
